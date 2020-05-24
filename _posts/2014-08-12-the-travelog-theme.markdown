@@ -7,6 +7,10 @@ location: Auckland, New Zealand
 tags: auckland new-zealand
 ---
 
+I was in Chennai for a Visa interview on a Friday morning and then had the rest of the day, plus the weekend to myself. I had to be back in Bangalore by Sunday night, and hence could not travel very far. Mahabalipuram was an obvious choice - it’s ideally located 1.5 hours from Chennai, is a UNESCO World Heritage site and has vibrant beach cafes. I needed no other reasons to head to Mahabalipuram, though I did end up discovering more!
+
+<span style="color:blue">some *blue* text</span>
+
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=utf-8">
 <meta name=ProgId content=Word.Document>
