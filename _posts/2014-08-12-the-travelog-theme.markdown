@@ -15,6 +15,9 @@ from Chennai, is a UNESCO World Heritage site and has vibrant beach
 cafes. I needed no other reasons to head to Mahabalipuram, though I did
 end up discovering more\!
 
+<b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:12.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;
+mso-fareast-font-family:Calibri;color:#3C78D8">Duration and Time of Visit<o:p></o:p></span></b>
+
 **Duration and Time of Visit**
 
 3 days, 2 nights
