@@ -7,51 +7,6 @@ location: Auckland, New Zealand
 tags: auckland new-zealand
 ---
 
-<!-----
-NEW: Your output is on the clipboard!
-
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 6.906 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β24
-* Sun May 24 2020 03:03:04 GMT-0700 (PDT)
-* Source doc: Mahabalipuram (3 days, 2 nights | Solo)
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 13.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
 I was in Chennai for a Visa interview on a Friday morning and then had the rest of the day, plus the weekend to myself. I had to be back in Bangalore by Sunday night, and hence could not travel very far. Mahabalipuram was an obvious choice - it’s ideally located 1.5 hours from Chennai, is a UNESCO World Heritage site and has vibrant beach cafes. I needed no other reasons to head to Mahabalipuram, though I did end up discovering more!
 
 **Duration and Time of Visit**
