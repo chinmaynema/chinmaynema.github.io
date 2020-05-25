@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Mahabalipuram (3 days, 2 nights | Solo)"
-date:   2014-08-12 17:39:55
-categories: auckland, new-zealand
-location: Auckland, New Zealand
+date:   2020-05-24 17:39:55
+categories: Solo Trip, Beach
+location: Mammalapuram, Tamil Nadu, India
 tags: auckland new-zealand
 ---
 
