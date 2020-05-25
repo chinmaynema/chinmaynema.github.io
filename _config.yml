@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hello, I'm Chinmay!"
+  greetings: "One Trip To Another"
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://cobelu.com/
