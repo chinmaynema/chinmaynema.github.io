@@ -1,40 +1,43 @@
 ---
 layout: default
+title: Home
 ---
+<main id="main" class="site-main">
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  {% include post.html post=post content=post.content %}
-{% endfor %}
-
-{% if paginator.total_pages > 1 %}
-<ul class="pagination">
-  <li class="pagination-item">
-    <a class="pagination-link pagination-link--non-numeric" {% if paginator.page == 1 %}disabled="disabled"{% endif %} href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">&larr; First page</a>
-  </li>
-  <li class="pagination-item">
-    <a class="pagination-link pagination-link--non-numeric" {% if paginator.previous_page == nil %}disabled="disabled"{% endif %} href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Prev</a>
-  </li>
-
-  <!-- Numbers -->
-  {% for page in (1..paginator.total_pages) %}
-    <li class="pagination-item">
-      {% if page == paginator.page %}
-        <a class="pagination-link pagination-link--selected" href="#">{{ page }}</a>
-      {% elsif page == 1 %}
-        <a class="pagination-link" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a class="pagination-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    </li>
-  {% endfor %}
-  <!-- End of numbers -->
-
-  <li class="pagination-item">
-    <a class="pagination-link pagination-link--non-numeric" {% if paginator.next_page == nil %}disabled="disabled"{% endif %} href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &rarr;</a>
-  </li>
-  <li class="pagination-item">
-    <a class="pagination-link pagination-link--non-numeric" {% if paginator.page == paginator.total_pages %}disabled="disabled"{% endif %} href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">Last page &rarr;</a>
-  </li>
-</ul>
+{% if page.url == "/" %}
+<div class="hero inner">
+    <p class="hero-text">{{ site.author.greetings }}</p>
+</div>        
 {% endif %}
+
+{% if page.url == "/" %}
+<!-- Featured-->
+<div id="featured-posts" class="featured-posts">
+    {% for post in site.posts %}
+    {% if post.featured == true %}
+    {% include featuredbox.html %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+{% endif%}
+
+<!-- Posts Index -->
+<div class="post-feed inner">
+    {% if page.url == "/" %}
+    <div class="post-feed-title">Latest Articles</div>
+    {% endif %}
+    <div class="post-feed inner-wide">
+        {% for post in paginator.posts %}
+            {% include postbox.html %}
+        {% endfor %}
+    </div>
+</div>
+<!-- Pagination-->
+{% include pagination.html %}
+{% if site.mailchimp_url %}
+    {% include newsletter-box.html %}
+{% endif %}
+</main>
+
+

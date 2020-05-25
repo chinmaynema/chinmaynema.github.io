@@ -1,24 +1,69 @@
-# Site settings
-title: One Trip To Another
-subtitle: "Journal of Chinmay Nema"
-email: chinmay.nema1993@gmail.com.
-description: "Make the footer happy by entering a short description about yourself here"
-baseurl: ""
-url: "https://onetriptoanother.com"
-#twitter_username: "rowanoulton"
-#github_username:  "rowanoulton"
-#instagram_username: "rowanoulton"
+# Site setings
+name: 'Chinmay Nema'
+description: ''
+meta_description: ''
+logo:
+# Author image is used in site sidebar and greetings in the home page hero text
+author:
+  image: 'authorimage.jpg'
+  greetings: "Hello, I'm Chinmay!"
+favicon: 'assets/images/favicon.ico'
+baseurl: 
+production_url: https://cobelu.com/
+# disqus: 'justgoodthemes'
+# mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+# Add your GA Tracking Id
+#ga_analytics:
 
-# Build settings
-markdown: Pandoc
-permalink: pretty
+# Contact form setings
+#email: \<first-name\>_\<last-name\>@email.com
+#contact_page_description: "Get in contact with me!"
+#thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+
+# Social links
+# twitter: 'justgoodthemes'
+facebook: 'chinmay.nema'
+#github: 'user'
+# codepen: 'username'
+# dribbble: 'username'
+# medium: '@username'
+#instagram: 'user'
+# pinterest: 'username'
+#linkedin: 'user'
+# producthunt: '@username'
+# quora: 'username'
+
+# Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+#  - text: Projects
+#    url: /projects
+#  - text: Experience
+#    url: /experience
+#  - text: Contact Me
+#    url: /contact
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Pagination
 paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
 
 # Sass
 sass:
-    style: :compressed
-
-gems:
-  - jekyll-pandoc
+  sass_dir: _sass
+  style: compressed
