@@ -8,8 +8,6 @@ featured: true
 hidden: false
 ---
 
-<body lang="EN-IN" style="tab-interval:36.0pt">
-
 <div class="WordSection1">
 
 <p class="MsoNormal" style="line-height:150%"><span lang="EN" style="font-size:
@@ -851,8 +849,3 @@ mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quo
 - About Mahabalipuram, on mahabalipuram.co.in<o:p></o:p></span></p>
 
 </div>
-
-
-
-
-</body>
