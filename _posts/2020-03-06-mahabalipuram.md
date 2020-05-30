@@ -301,21 +301,10 @@ have Radisson, Welcome Group, Taj resorts as well, all further north.<o:p></o:p>
 line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:Merriweather;
 mso-bidi-font-family:Merriweather;color:#3C78D8">Itinerary<o:p></o:p></span></b></p>
 
-<p class="MsoNormalCxSpLast" style="line-height:125%"><!--[if gte vml 1]><v:shape
- id="Picture_x0020_15" o:spid="_x0000_s1028" type="#_x0000_t75" style='position:absolute;
- margin-left:219.4pt;margin-top:1585.95pt;width:270.6pt;height:463.85pt;
- z-index:251659264;visibility:visible;mso-wrap-style:square;
- mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
- mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:0;mso-position-horizontal:right;
- mso-position-horizontal-relative:margin;mso-position-vertical:absolute;
- mso-position-vertical-relative:margin;mso-width-percent:0;
- mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
- <v:imagedata src="Mahabalipuram.fld/image002.png" o:title=""/>
- <w:wrap type="square" anchorx="margin" anchory="margin"/>
-</v:shape><![endif]--><!--[if !vml]--><img width="271" height="464" src="Mahabalipuram.fld/image002.png" align="right" hspace="12" v:shapes="Picture_x0020_15"><!--[endif]--><b><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
-mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">Day
-1: Chilling at beach cafes; swimming<o:p></o:p></span></b></p>
+<p class="MsoNormalCxSpLast" style="line-height:125%"><b><span style="font-size:
+16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:
+&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">Day 1: Chilling
+at beach cafes; swimming<o:p></o:p></span></b></p>
 
 <p class="MsoListParagraphCxSpFirst" style="text-indent:-18.0pt;line-height:125%;
 mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
@@ -341,8 +330,8 @@ mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quo
 mso-no-proof:yes"><!--[if gte vml 1]><v:shape id="Picture_x0020_4" o:spid="_x0000_i1035"
  type="#_x0000_t75" style='width:182pt;height:312pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image003.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="182" height="312" src="Mahabalipuram.fld/image003.jpg" v:shapes="Picture_x0020_4"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+ <v:imagedata src="Mahabalipuram.fld/image002.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="182" height="312" src="Mahabalipuram.fld/image002.jpg" v:shapes="Picture_x0020_4"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;"><o:p></o:p></span></p>
 
 <p class="MsoNormalCxSpLast" style="line-height:125%"><span style="font-size:
@@ -374,8 +363,8 @@ font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriwe
 mso-bidi-font-family:&quot;Merriweather Light&quot;">Here’s what more I could have asked
 for: less Sun and a prettier beach! It was a bit littered and had several
 fishing boats anchored haphazardly. That said, I think it was definitely better
-than most Indian beaches - the water was clean, sand not as dirty and crowd good
-(less in quantity, sensible in quality)<o:p></o:p></span></p>
+than most Indian beaches - the water was clean, sand not as dirty and crowd
+good (less in quantity, sensible in quality)<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:125%;
@@ -392,9 +381,9 @@ line-height:125%;font-family:&quot;Courier New&quot;;mso-fareast-font-family:&qu
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">I
 like to just lay in water - floating on the back, ears underwater, eyes shut.
 You are able to hear the water - the waves along with the tiny particles moving
-in the current - and it cancels the rest of the outside noise. This, plus the gentle
-pressure on the ears, is one of the most calming and meditative sensations I
-have experienced. Try this whenever you are next in water!<o:p></o:p></span></p>
+in the current - and it cancels the rest of the outside noise. This, plus the
+gentle pressure on the ears, is one of the most calming and meditative
+sensations I have experienced. Try this whenever you are next in water!<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:125%;
@@ -409,8 +398,8 @@ margin-left:72.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:125%;
 mso-list:l4 level2 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
 line-height:125%;font-family:&quot;Courier New&quot;;mso-fareast-font-family:&quot;Courier New&quot;"><span style="mso-list:Ignore">o<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">It’s
-a beautiful property. They have a gorgeous restaurant by the beach (which is
-~0.5 kms from the entrance! Hence they have golf carts to ferry people)<o:p></o:p></span></p>
+a beautiful property. They have a gorgeous restaurant by the beach (which is ~0.5
+kms from the entrance! Hence they have golf carts to ferry people)<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:0cm;
 margin-left:72.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:125%;
@@ -431,8 +420,8 @@ line-height:125%"><span style="font-size:16.0pt;line-height:125%;font-family:
 &quot;Merriweather Light&quot;;mso-no-proof:yes"><!--[if gte vml 1]><v:shape id="Picture_x0020_5"
  o:spid="_x0000_i1034" type="#_x0000_t75" style='width:285pt;height:312pt;
  visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image004.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="285" height="312" src="Mahabalipuram.fld/image004.jpg" v:shapes="Picture_x0020_5"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+ <v:imagedata src="Mahabalipuram.fld/image003.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="285" height="312" src="Mahabalipuram.fld/image003.jpg" v:shapes="Picture_x0020_5"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;"><o:p></o:p></span></p>
 
 <p class="MsoNormalCxSpLast" style="line-height:125%"><span style="font-size:
@@ -442,19 +431,7 @@ mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quo
 <p class="MsoListParagraph" style="text-indent:-18.0pt;line-height:125%;
 mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
 line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
-mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><!--[if gte vml 1]><v:shape
- id="Picture_x0020_17" o:spid="_x0000_s1027" type="#_x0000_t75" style='position:absolute;
- left:0;text-align:left;margin-left:399.8pt;margin-top:2174.95pt;width:451pt;
- height:358.7pt;z-index:251661312;visibility:visible;mso-wrap-style:square;
- mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
- mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:0;mso-position-horizontal:right;
- mso-position-horizontal-relative:margin;mso-position-vertical:absolute;
- mso-position-vertical-relative:margin;mso-width-percent:0;
- mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
- <v:imagedata src="Mahabalipuram.fld/image005.png" o:title=""/>
- <w:wrap type="square" anchorx="margin" anchory="margin"/>
-</v:shape><![endif]--><!--[if !vml]--><img width="451" height="359" src="Mahabalipuram.fld/image005.png" align="right" hspace="12" v:shapes="Picture_x0020_17"><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">I
 walked back, all set for the sunrise the next day<o:p></o:p></span></p>
 
@@ -484,8 +461,8 @@ mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quo
 mso-no-proof:yes"><!--[if gte vml 1]><v:shape id="Picture_x0020_6" o:spid="_x0000_i1033"
  type="#_x0000_t75" style='width:392pt;height:312pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image006.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="392" height="312" src="Mahabalipuram.fld/image006.jpg" v:shapes="Picture_x0020_6"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+ <v:imagedata src="Mahabalipuram.fld/image004.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="392" height="312" src="Mahabalipuram.fld/image004.jpg" v:shapes="Picture_x0020_6"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;"><o:p></o:p></span></p>
 
 <p class="MsoNormalCxSpMiddle" style="line-height:125%"><span style="font-size:
@@ -596,8 +573,8 @@ mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quo
 mso-no-proof:yes"><!--[if gte vml 1]><v:shape id="Picture_x0020_7" o:spid="_x0000_i1032"
  type="#_x0000_t75" style='width:415pt;height:312pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image007.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="415" height="312" src="Mahabalipuram.fld/image007.jpg" v:shapes="Picture_x0020_7"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+ <v:imagedata src="Mahabalipuram.fld/image005.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="415" height="312" src="Mahabalipuram.fld/image005.jpg" v:shapes="Picture_x0020_7"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;"><o:p></o:p></span></p>
 
 <p class="MsoNormal" align="center" style="text-align:center;line-height:125%"><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
@@ -605,13 +582,13 @@ mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quo
 mso-no-proof:yes"><!--[if gte vml 1]><v:shape id="Picture_x0020_8" o:spid="_x0000_i1031"
  type="#_x0000_t75" style='width:149pt;height:198pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image008.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="149" height="198" src="Mahabalipuram.fld/image008.jpg" v:shapes="Picture_x0020_8"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+ <v:imagedata src="Mahabalipuram.fld/image006.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="149" height="198" src="Mahabalipuram.fld/image006.jpg" v:shapes="Picture_x0020_8"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
  id="Picture_x0020_9" o:spid="_x0000_i1030" type="#_x0000_t75" style='width:265pt;
  height:198pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image009.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="265" height="198" src="Mahabalipuram.fld/image009.jpg" v:shapes="Picture_x0020_9"><!--[endif]--></span><o:p></o:p></span></p>
+ <v:imagedata src="Mahabalipuram.fld/image007.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="265" height="198" src="Mahabalipuram.fld/image007.jpg" v:shapes="Picture_x0020_9"><!--[endif]--></span><o:p></o:p></span></p>
 
 <p class="MsoNormalCxSpMiddle" style="line-height:125%"><span style="font-size:
 8.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:
@@ -682,8 +659,8 @@ mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quo
 mso-no-proof:yes"><!--[if gte vml 1]><v:shape id="Picture_x0020_10" o:spid="_x0000_i1029"
  type="#_x0000_t75" style='width:416pt;height:312pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image010.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="416" height="312" src="Mahabalipuram.fld/image010.jpg" v:shapes="Picture_x0020_10"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+ <v:imagedata src="Mahabalipuram.fld/image008.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="416" height="312" src="Mahabalipuram.fld/image008.jpg" v:shapes="Picture_x0020_10"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;"><o:p></o:p></span></p>
 
 <p class="MsoNormalCxSpMiddle" style="line-height:125%"><span style="font-size:
@@ -724,19 +701,7 @@ margin-left:72.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:125%;
 mso-list:l1 level2 lfo3;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
 mso-border-shadow:yes"><!--[if !supportLists]--><span style="font-size:16.0pt;
 line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
-mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">○<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><!--[if gte vml 1]><v:shape
- id="Picture_x0020_22" o:spid="_x0000_s1026" type="#_x0000_t75" style='position:absolute;
- left:0;text-align:left;margin-left:259.1pt;margin-top:4041.9pt;width:310.3pt;
- height:413.75pt;z-index:251663360;visibility:visible;mso-wrap-style:square;
- mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
- mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:0;mso-position-horizontal:right;
- mso-position-horizontal-relative:margin;mso-position-vertical:absolute;
- mso-position-vertical-relative:margin;mso-width-percent:0;
- mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
- <v:imagedata src="Mahabalipuram.fld/image011.jpg" o:title=""/>
- <w:wrap type="square" anchorx="margin" anchory="margin"/>
-</v:shape><![endif]--><!--[if !vml]--><img width="310" height="414" src="Mahabalipuram.fld/image011.jpg" align="right" hspace="12" v:shapes="Picture_x0020_22"><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">○<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">It
 was an average restaurant, with basic ambience, menu and service<o:p></o:p></span></p>
 
@@ -801,8 +766,8 @@ mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quo
 mso-no-proof:yes"><!--[if gte vml 1]><v:shape id="Picture_x0020_13" o:spid="_x0000_i1028"
  type="#_x0000_t75" style='width:447pt;height:296pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image012.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="447" height="296" src="Mahabalipuram.fld/image012.jpg" v:shapes="Picture_x0020_13"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+ <v:imagedata src="Mahabalipuram.fld/image009.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="447" height="296" src="Mahabalipuram.fld/image009.jpg" v:shapes="Picture_x0020_13"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;"><o:p></o:p></span></p>
 
 <p class="MsoNormal" align="center" style="text-align:center;line-height:125%"><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
@@ -810,21 +775,21 @@ mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quo
 mso-no-proof:yes"><!--[if gte vml 1]><v:shape id="Picture_x0020_11" o:spid="_x0000_i1027"
  type="#_x0000_t75" style='width:223pt;height:297pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image013.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="223" height="297" src="Mahabalipuram.fld/image013.jpg" v:shapes="Picture_x0020_11"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+ <v:imagedata src="Mahabalipuram.fld/image010.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="223" height="297" src="Mahabalipuram.fld/image010.jpg" v:shapes="Picture_x0020_11"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
  id="Picture_x0020_12" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:223pt;
  height:297pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image014.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="223" height="297" src="Mahabalipuram.fld/image014.jpg" v:shapes="Picture_x0020_12"><!--[endif]--></span><o:p></o:p></span></p>
+ <v:imagedata src="Mahabalipuram.fld/image011.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="223" height="297" src="Mahabalipuram.fld/image011.jpg" v:shapes="Picture_x0020_12"><!--[endif]--></span><o:p></o:p></span></p>
 
 <p class="MsoNormal" align="center" style="text-align:center;line-height:125%"><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;;
 mso-no-proof:yes"><!--[if gte vml 1]><v:shape id="Picture_x0020_16" o:spid="_x0000_i1025"
  type="#_x0000_t75" style='width:447pt;height:335pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Mahabalipuram.fld/image015.jpg" o:title=""/>
-</v:shape><![endif]--><!--[if !vml]--><img width="447" height="335" src="Mahabalipuram.fld/image015.jpg" v:shapes="Picture_x0020_16"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+ <v:imagedata src="Mahabalipuram.fld/image012.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="447" height="335" src="Mahabalipuram.fld/image012.jpg" v:shapes="Picture_x0020_16"><!--[endif]--></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;"><o:p></o:p></span></p>
 
 <p class="MsoNormal" align="center" style="text-align:center;line-height:125%"><span style="font-size:8.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
@@ -849,26 +814,29 @@ mso-bidi-font-family:Merriweather;color:#3C78D8">Resources about Mahabalipuram<o
 <p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
 125%;mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
 line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
-mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;"><a href="https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram"><span style="mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;;
-color:#1155CC">Group of Monuments at Mahabalipuram</span></a></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><a href="https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram"><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;;
+color:#1155CC">Group of Monuments at Mahabalipuram</span></a><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">
 - About the monuments, on Wikipedia<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt;line-height:
 125%;mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
 line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
-mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;"><a href="https://www.ancient.eu/Mahabalipuram/"><span style="mso-fareast-font-family:
-&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;;color:#1155CC">Mahabalipuram</span></a></span><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><a href="https://www.ancient.eu/Mahabalipuram/"><span style="font-size:16.0pt;
+line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
+mso-bidi-font-family:&quot;Merriweather Light&quot;;color:#1155CC">Mahabalipuram</span></a><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">
 - History of Mahabalipuram, on ancient.eu<o:p></o:p></span></p>
 
 <p class="MsoListParagraph" style="text-indent:-18.0pt;line-height:125%;
 mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
 line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
-mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;"><a href="https://www.mahabalipuram.co.in/"><span class="SpellE"><span style="mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;;
-color:#1155CC">Mamallapuram</span></span></a></span><span style="font-size:
-16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:
-&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;"> - About
-Mahabalipuram, on mahabalipuram.co.in<o:p></o:p></span></p>
+mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><a href="https://www.mahabalipuram.co.in/"><span class="SpellE"><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;;
+color:#1155CC">Mamallapuram</span></span></a><span style="font-size:16.0pt;
+line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
+mso-bidi-font-family:&quot;Merriweather Light&quot;"> - About Mahabalipuram, on
+mahabalipuram.co.in<o:p></o:p></span></p>
 
 </div>
