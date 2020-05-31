@@ -113,9 +113,9 @@ color:#3C78D8">To and From<o:p></o:p></span></b></p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormalCxSpMiddle" style="line-height:125%"><span style="font-size:
   16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:
-  &quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">Rs. 1,000 -
-  1,500 one way</span><span lang="EN-US" style="font-size:16.0pt;line-height:
-  125%;font-family:&quot;Merriweather Light&quot;;mso-ansi-language:EN-US"><o:p></o:p></span></p>
+  &quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">~Rs. 850 one
+  way</span><span lang="EN-US" style="font-size:16.0pt;line-height:125%;
+  font-family:&quot;Merriweather Light&quot;;mso-ansi-language:EN-US"><o:p></o:p></span></p>
   </td>
  </tr>
 </tbody></table>
@@ -398,8 +398,8 @@ margin-left:72.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:125%;
 mso-list:l4 level2 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
 line-height:125%;font-family:&quot;Courier New&quot;;mso-fareast-font-family:&quot;Courier New&quot;"><span style="mso-list:Ignore">o<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
 mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">It’s
-a beautiful property. They have a gorgeous restaurant by the beach (which is ~0.5
-kms from the entrance! Hence they have golf carts to ferry people)<o:p></o:p></span></p>
+a beautiful property. They have a gorgeous restaurant by the beach (which is
+~0.5 kms from the entrance! Hence they have golf carts to ferry people)<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:0cm;
 margin-left:72.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:125%;
@@ -806,6 +806,42 @@ took a cab to Chennai (Ola / Uber to the rescue again)<o:p></o:p></span></p>
 <p class="MsoNormal" style="line-height:125%"><span style="font-size:8.0pt;
 line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
 mso-bidi-font-family:&quot;Merriweather Light&quot;"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal" style="line-height:125%"><b><span style="font-size:16.0pt;
+line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:Merriweather;
+mso-bidi-font-family:Merriweather;color:#3C78D8">Major Expenses<o:p></o:p></span></b></p>
+
+<p class="MsoListParagraphCxSpFirst" style="text-indent:-18.0pt;line-height:125%;
+mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
+line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
+mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">Travel
+by Cab: Rs. 850 X 2 = Rs. 1,700<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;line-height:
+125%;mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
+line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
+mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">Hotel:
+Rs. 1800 X 2 = Rs. 3,600<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;line-height:
+125%;mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
+line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
+mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">Kerala
+massage: Rs. 2,400<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpLast" style="text-indent:-18.0pt;line-height:125%;
+mso-list:l4 level1 lfo2"><!--[if !supportLists]--><span style="font-size:16.0pt;
+line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:&quot;Merriweather Light&quot;;
+mso-bidi-font-family:&quot;Merriweather Light&quot;"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:16.0pt;line-height:125%;font-family:&quot;Merriweather Light&quot;;
+mso-fareast-font-family:&quot;Merriweather Light&quot;;mso-bidi-font-family:&quot;Merriweather Light&quot;">Ticket
+for monuments: Rs. 30<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="line-height:125%"><b><span style="font-size:8.0pt;
+line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:Merriweather;
+mso-bidi-font-family:Merriweather;color:#3C78D8"><o:p>&nbsp;</o:p></span></b></p>
 
 <p class="MsoNormal" style="line-height:125%"><b><span style="font-size:16.0pt;
 line-height:125%;font-family:&quot;Merriweather Light&quot;;mso-fareast-font-family:Merriweather;
