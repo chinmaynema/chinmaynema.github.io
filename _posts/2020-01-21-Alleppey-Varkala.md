@@ -187,7 +187,8 @@ Alleppey:
 -	Elephant Training Camp
 -	Revi Karunakaran Museum (Crystal Musuem)
 -	International Coir Museum
--	Temples and Churches: Ambalapuzha Krishna Temple, Nagaraja Temple, Chettikulangara Bhagavathy Temple, St Mary’s Church, St Andrew’s Florence Forance Church, Latin Catholic Church
+-	Temples and Churches: Ambalapuzha Krishna Temple, Nagaraja Temple, Chettikulangara Bhagavathy Temple, St Mary’s Church, St Andrew’s Florence Forance Church, Latin Catholic Church  
+
 Varkala:
 -	Ponnumthuruthu Island
 -	Varkala Culture Center
