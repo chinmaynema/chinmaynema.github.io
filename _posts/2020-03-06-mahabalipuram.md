@@ -60,7 +60,7 @@ Ola Outstation and Uber Intercity are easily available from Chennai to Mahabalip
 </table>
 
 <p align="center">
-<img src="Mahabalipuram Pics/Mahabalipuram - Best area.png" width="80%">
+<img src="Mahabalipuram Pics/Mahabalipuram - Best area.png" width="85%">
 </p>
 
 Whenever I travel solo, I prefer not to book a hotel beforehand so that I can explore the area first and find the most suited one, keeping in mind:  
