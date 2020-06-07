@@ -102,7 +102,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	There are three separate complexes with some monuments within each  
 	-	A single ticket (Rs. 30 for Indians; Rs. 500 for foreigners) allows you entry to all three complexes  
 
-Itinerary for the monument visit:  
+<p><u>Itinerary for the monument visit:</u></p>  
 
 -	I planned to visit the largest complex first, then the Pancha Rathas and finally the Shore Temple, which is by the sea, hence offering a great view to relax after the tiring day  
 -	Largest complex (1.5-2 hours):  
