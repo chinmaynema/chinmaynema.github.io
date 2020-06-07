@@ -9,3 +9,5 @@ featured_image: /assets/images/pages/about/About.jpg
 Hi! I am Chinmay.
 
 Quick facts about me: I am 26 years old, currently staying in Bangalore, working at a startup. I was born in Udaiipur, brought up in Delhi, studied in Kanpur.
+
+I hope you find the posts useful. Happy travels!
