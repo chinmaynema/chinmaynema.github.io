@@ -17,6 +17,24 @@ March beginning
 
 ## To and From
 
+<table style="width:100%">
+<tr>
+    <td>Route</td>
+    <td>Chennai - Mahabalipuram - Chennai</td>
+</tr>
+<tr>
+    <td>Mode</td>
+    <td>Cab</td>
+</tr>	
+<tr>
+    <td>Duration</td>
+    <td>1.5 hours either way</td>
+</tr>
+<tr>
+    <td>Cost</td>
+    <td>~Rs. 850 one way</td>
+</tr>
+	
 |    Point    | Details |
 | ----------- | ----------- |
 | Route      | Chennai - Mahabalipuram - Chennai       |
