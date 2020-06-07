@@ -43,7 +43,7 @@ navigation:
 #    url: /projects
 #  - text: Experience
 #    url: /experience
-  - text: Contact Me
+  - text: Contact
     url: /contact
 
 # Required Plugins
