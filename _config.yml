@@ -1,14 +1,14 @@
 # Site setings
 name: 'One Trip To Another'
 description: 'Chinmay Nema'
-meta_description: 'Yy'
+#meta_description: ''
 logo: 'assets/images/logo.png'
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
   greetings: "One Trip To Another"
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl: http://onetriptoanother.com/
 production_url: http://onetriptoanother.com/
 # disqus: 'justgoodthemes'
 # mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
