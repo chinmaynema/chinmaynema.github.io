@@ -109,7 +109,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 -	Largest complex (1.5-2 hours):  
 	-	I entered from Krishna’s Butterball side and exited from the Lighthouse side, which is closer to the second complex  
 	-	There are several excavated temples and structures, and thankfully, direction-signs to guide you  
-	-	Tip: But still, I felt the need to follow Google Maps, so as to not miss any site. For eg. Arjuna’s Penance and Krishna Mandapa are accessible from the road outside and not from within the complex  
+	-	<u>Tip</u>: But still, I felt the need to follow Google Maps, so as to not miss any site. For eg. Arjuna’s Penance and Krishna Mandapa are accessible from the road outside and not from within the complex  
 	-	Highlight: I liked Krishna’s Butterball, Arjuna’s Penance, Mahishasuramardini and Krishna Mandapa the most - the former for its magnificence, the latter three for their intricate details  
 <p align="center">
 <img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" width="100%">
