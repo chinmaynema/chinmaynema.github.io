@@ -150,7 +150,7 @@ Varkala
 	-	There was a small group of foreigners doing yoga, some couples in the water and some on the beach - everyone and everything tranquil
 	-	I think I enjoy solitude as much as I enjoy company, and try to ensure I get a good dose of both
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200120_072149_1.jpg" width="63.5%"> <img src="Alleppey-Varkala Pics/IMG_20200120_090956_1.jpg" width="35.5%">
+<img src="Alleppey-Varkala Pics/IMG_20200120_072149_1.jpg" width="63.5%"> <img src="Alleppey-Varkala Pics/IMG_20200120_090956_1.jpg" width="35.6%">
 </p>
 -	For breakfast, we went to the terrace café at Zostel and chilled there for some hours - soulful music, hammocks, reclining chairs and a gentle breeze
 -	Then we left for the day and decided to go in the opposite direction this time - on Odayam Beach
