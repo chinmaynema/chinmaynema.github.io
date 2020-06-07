@@ -34,6 +34,7 @@ March beginning
     <td>Cost</td>
     <td>~Rs. 850 one way</td>
 </tr>
+</table>
 	
 |    Point    | Details |
 | ----------- | ----------- |
