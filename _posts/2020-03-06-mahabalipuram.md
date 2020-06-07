@@ -35,24 +35,30 @@ March beginning
     <td>~Rs. 850 one way</td>
 </tr>
 </table>
-	
-|    Point    | Details |
-| ----------- | ----------- |
-| Route      | Chennai - Mahabalipuram - Chennai       |
-| Mode   | Cab        |
-|Duration|1.5 hours either way|
-|Cost|~Rs. 850 one way|
 
 Ola Outstation and Uber Intercity are easily available from Chennai to Mahabalipuram and back. It’s a beautiful drive along the Bay of Bengal - starts with the Marina Beach, followed by a splendid coastline interspersed with lakes and pretty cafes. And before you can manage to get bored, Mahabalipuram is there!
 
 ## Stay
 
-|    Point    | Details |
-| ----------- | ----------- |
-| Hotel      | Seashore Hotel       |
-| Cost   | Rs. 1,800 per night        |
-|Best area to stay|On the Mahabalipuram beach, north of the Shore Temple|
-|Hotel Options|Seashore, Santana and Kalo’s|
+<table style="width:100%">
+<tr>
+    <td>Hotel</td>
+    <td>Seashore Hotel</td>
+</tr>
+<tr>
+    <td>Cost</td>
+    <td>Rs. 1,800 per night</td>
+</tr>	
+<tr>
+    <td>Best area to stay</td>
+    <td>On the Mahabalipuram beach, north of the Shore Temple</td>
+</tr>
+<tr>
+    <td>Hotel Options</td>
+    <td>Seashore, Santana and Kalo’s</td>
+</tr>
+</table>
+
 <p align="center">
 <img src="Mahabalipuram Pics/Mahabalipuram - Best area.png" width="70%">
 </p>
