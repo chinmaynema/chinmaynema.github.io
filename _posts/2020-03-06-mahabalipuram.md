@@ -68,6 +68,7 @@ Whenever I travel solo, I prefer not to book a hotel beforehand so that I can ex
 - Proximity to the spots I want to visit, since I travel on foot when alone  
 - Security, since I definitely don’t want to end up in a suspicious neighbourhood  
 - Access to the bus / train station (either close-by or having some readily available means of transportation)  
+
 Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (at the Shore Temple) and went hotel-hopping on foot. I realised that the main part of Mahabalipuram Beach was extremely crowded, and hence went in the opposite direction (north). There were a couple of resorts (albeit shabby), costing ~Rs. 5K per room per night. Since I didn’t want to spend that much, I proceeded to the hotels next to them, found Seashore, Santana and Kalo’s to have decent rooms - and chose to stay at Seashore. It had a modest room (a little too modest to be frank!) with a beautiful sea-facing view and a rooftop cafe, costing Rs. 1.8K per night. If luxury is what you are looking for, you have Radisson, Welcome Group, Taj resorts as well, all further north.
 
 ## Itinerary
@@ -102,7 +103,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	There are three separate complexes with some monuments within each  
 	-	A single ticket (Rs. 30 for Indians; Rs. 500 for foreigners) allows you entry to all three complexes  
 
-<ins>Itinerary for the monument visit:</ins>  
+<u>Itinerary for the monument visit:</u>  
 
 -	I planned to visit the largest complex first, then the Pancha Rathas and finally the Shore Temple, which is by the sea, hence offering a great view to relax after the tiring day  
 -	Largest complex (1.5-2 hours):  
