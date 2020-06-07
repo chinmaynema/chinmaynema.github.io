@@ -77,7 +77,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 - I checked-in to my hotel around 1 pm  
 	-	Being March, the Sun was unforgiving, and tired from all the hotel visits, the first thing I did was to take a shower!  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200306_150923_1.jpg" width="50%">
+<img src="Mahabalipuram Pics/IMG_20200306_150923_1.jpg" width="45%">
 </p>
 - I headed straight to the rooftop cafe, ordered pasta and some drinks and spent the afternoon with a book and some solemn music  
 	-	A beautiful sea, a sparse beach (being a Friday), soothing wind, a pretty cafe, an intellectually stimulating book and slow music. What more could I have asked for!  
@@ -143,17 +143,17 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 </p>
 -	Post that, I spent the rest of the morning at the rooftop cafe, till ~1 pm, when I took a cab to Chennai (Ola / Uber to the rescue again)  
 
+## Other Things To Do (that I didn’t)
+-	Crocodile Farm
+-	India Seashell Museum
+-	Surfing
+
 ## Major Expenses
 -	Travel by Cab: Rs. 850 X 2 = Rs. 1,700
 -	Hotel: Rs. 1800 X 2 = Rs. 3,600
 -	Kerala massage: Rs. 2,400
 -	Ticket for monuments: Rs. 30
 -	Food and drinks
-
-## Other Things To Do (that I didn’t)
--	Crocodile Farm
--	India Seashell Museum
--	Surfing
 
 ## Tips and Resources
 -	[Group of Monuments at Mahabalipuram](https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram) - About the monuments, on Wikipedia
