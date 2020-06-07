@@ -12,7 +12,7 @@ Travel for me is a way to go back to first principles. I think what I love the m
 
 Another thing I love about travelling is it opens one's mind to possibilities. It is amazing how different, and similar, people and things are across geographies!
 
-After 5 years of short and long trips, solo and in groups, I finally decided to share the experiences here - the research I did and the learnings from the trip.
+After 5 years of short and long trips, solo and in groups, I finally decided to share my experiences here - the research I did and the learnings from the trip.
 
 As for an introduction about me, I am 26 years old, born in Udaipur, brought up in Delhi. I studied in Kanpur, lived in Mumbai for a year, and then moved to Bangalore, where I currently work at a leading startup.
 
