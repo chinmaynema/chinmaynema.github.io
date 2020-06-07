@@ -60,7 +60,7 @@ Ola Outstation and Uber Intercity are easily available from Chennai to Mahabalip
 </table>
 
 <p align="center">
-<img src="Mahabalipuram Pics/Mahabalipuram - Best area.png" width="85%">
+<img src="Mahabalipuram Pics/Mahabalipuram - Best area.png" width="90%">
 </p>
 
 Whenever I travel solo, I prefer not to book a hotel beforehand so that I can explore the area first and find the most suited one, keeping in mind:  
@@ -111,7 +111,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	<u>Tip:</u> But still, I felt the need to follow Google Maps, so as to not miss any site. For eg. Arjuna’s Penance and Krishna Mandapa are accessible from the road outside and not from within the complex  
 	-	Highlight: I liked Krishna’s Butterball, Arjuna’s Penance, Mahishasuramardini and Krishna Mandapa the most - the former for its magnificence, the latter three for their intricate details  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" width="100%"> <br>
+<img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" width="100%"> <br> <br>
 <img src="Mahabalipuram Pics/IMG_20200307_144742_1.jpg" width="35.55%"> <img src="Mahabalipuram Pics/IMG_20200307_150304_1.jpg" width="63.45%">
 </p> 
 -	Pancha Rathas (20 minutes):  
@@ -137,8 +137,8 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	I walked for about 1.5 kms, seeing on the way, other tourists calmly walking along, happy kids playing in the water, some locals catching fish / shells, beautiful resorts and a dead turtle washed ashore, all the while listening to soothing music  
 	-	People ask me what I like about solo trips. I don’t think these trips provide me a gateway for introspection particularly; just being with oneself in the present and figuring out things on one’s own is surprisingly refreshing.  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200308_070932_1.jpg" width="100%"> <br>
-<img src="Mahabalipuram Pics/IMG_20200308_095610_1.jpg" width="49.6%"> <img src="Mahabalipuram Pics/IMG_20200308_093435_1.jpg" width="49.6%"> <br>
+<img src="Mahabalipuram Pics/IMG_20200308_070932_1.jpg" width="100%"> <br> <br>
+<img src="Mahabalipuram Pics/IMG_20200308_095610_1.jpg" width="49.6%"> <img src="Mahabalipuram Pics/IMG_20200308_093435_1.jpg" width="49.6%"> <br> <br>
 <img src="Mahabalipuram Pics/IMG_20200308_103015_1.jpg" width="100%">
 </p>
 -	Post that, I spent the rest of the morning at the rooftop cafe, till ~1 pm, when I took a cab to Chennai (Ola / Uber to the rescue again)  
