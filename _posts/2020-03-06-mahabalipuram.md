@@ -60,7 +60,7 @@ Ola Outstation and Uber Intercity are easily available from Chennai to Mahabalip
 </table>
 
 <p align="center">
-<img src="Mahabalipuram Pics/Mahabalipuram - Best area.png" width="70%">
+<img src="Mahabalipuram Pics/Mahabalipuram - Best area.png" width="80%">
 </p>
 
 Whenever I travel solo, I prefer not to book a hotel beforehand so that I can explore the area first and find the most suited one, keeping in mind:  
@@ -77,7 +77,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 - I checked-in to my hotel around 1 pm  
 	-	Being March, the Sun was unforgiving, and tired from all the hotel visits, the first thing I did was to take a shower!  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200306_150923_1.jpg" width="70%">
+<img src="Mahabalipuram Pics/IMG_20200306_150923_1.jpg" width="50%">
 </p>
 - I headed straight to the rooftop cafe, ordered pasta and some drinks and spent the afternoon with a book and some solemn music  
 	-	A beautiful sea, a sparse beach (being a Friday), soothing wind, a pretty cafe, an intellectually stimulating book and slow music. What more could I have asked for!  
@@ -88,7 +88,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	It’s a beautiful property. They have a gorgeous restaurant by the beach (which is ~0.5 kms from the entrance! Hence they have golf carts to ferry people)  
 	-	I spent about 5 hours there, again in the company of my book and some good African music, slowly eating a delicious vegetarian Lasagna and sipping my drink  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200306_194457_1.jpg" width="70%">
+<img src="Mahabalipuram Pics/IMG_20200306_194457_1.jpg" width="60%">
 </p>
 -	I walked back, all set for the sunrise the next day
 
@@ -96,7 +96,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 
 -	The Sun rises at ~5:45 am in Mahabalipuram in March beginning. I got up in time to see it rise through my window. Luckily, the sky was kind enough to be clear that day  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200307_101755_1.jpg" width="70%">
+<img src="Mahabalipuram Pics/IMG_20200307_101755_1.jpg" width="60%">
 </p>
 -	When I finally woke up for good, I was starving. Sri Anand Bhavan happened to be close-by and a recommended restaurant for a heavy vegetarian meal  
 -	Around 1 pm, I headed to the main attraction of Mahabalipuram - the famous archaeological monuments  
@@ -108,7 +108,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 -	Largest complex (1.5-2 hours):  
 	-	I entered from Krishna’s Butterball side and exited from the Lighthouse side, which is closer to the second complex  
 	-	There are several excavated temples and structures, and thankfully, direction-signs to guide you  
-	-	<u>Tip</u>: But still, I felt the need to follow Google Maps, so as to not miss any site. For eg. Arjuna’s Penance and Krishna Mandapa are accessible from the road outside and not from within the complex  
+	-	<u>Tip:</u> But still, I felt the need to follow Google Maps, so as to not miss any site. For eg. Arjuna’s Penance and Krishna Mandapa are accessible from the road outside and not from within the complex  
 	-	Highlight: I liked Krishna’s Butterball, Arjuna’s Penance, Mahishasuramardini and Krishna Mandapa the most - the former for its magnificence, the latter three for their intricate details  
 <p align="center">
 <img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" width="100%">  
