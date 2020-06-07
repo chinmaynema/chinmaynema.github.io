@@ -120,7 +120,7 @@ Varkala
 </p>
 -	Just before Varkala, there is Kappil Beach, which has sea on the right side, a backwater lake on the left, and lush green all around. We had to stop there!
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200119_130351_1.jpg" width="36.2%"> <img src="Alleppey-Varkala Pics/IMG_20200119_130209_1.jpg" width="63%">
+<img src="Alleppey-Varkala Pics/IMG_20200119_130351_1.jpg" width="35.75%"> <img src="Alleppey-Varkala Pics/IMG_20200119_130209_1.jpg" width="63.45%">
 </p>
 -	On reaching Varkala, we checked-in to Zostel first, freshened up and headed out for lunch
 	-	Zostel has a beautiful place, with amazing artwork done across. It was very well maintained, with a hospitable staff. But the place was a bit smaller than expected and also, a little off the main cliff area
@@ -150,7 +150,7 @@ Varkala
 	-	There was a small group of foreigners doing yoga, some couples in the water and some on the beach - everyone and everything tranquil
 	-	I think I enjoy solitude as much as I enjoy company, and try to ensure I get a good dose of both
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200120_072149_1.jpg" width="54.5%"> <img src="Alleppey-Varkala Pics/IMG_20200120_090956_1.jpg" width="42%">
+<img src="Alleppey-Varkala Pics/IMG_20200120_072149_1.jpg" width="58.5%"> <img src="Alleppey-Varkala Pics/IMG_20200120_090956_1.jpg" width="38%">
 </p>
 -	For breakfast, we went to the terrace café at Zostel and chilled there for some hours - soulful music, hammocks, reclining chairs and a gentle breeze
 -	Then we left for the day and decided to go in the opposite direction this time - on Odayam Beach
