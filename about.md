@@ -16,6 +16,6 @@ After 5 years of short and long trips, solo and in groups, I finally decided to 
 
 As for an introduction about me, I am 26 years old, born in Udaipur, brought up in Delhi. I studied in Kanpur, lived in Mumbai for a year, and then moved to Bangalore, where I currently work at a leading startup.
 
-I am always up to discuss anything about travel - your or mine. Feel free to reach out and I would love to hear from you!
+I am always up to discuss anything about travel - your or mine. Feel free to reach out (chinmay.nema1993@gmail.com) and I would love to hear from you!
 
 Happy travels!
