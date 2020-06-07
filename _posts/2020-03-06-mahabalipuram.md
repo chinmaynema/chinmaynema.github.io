@@ -28,7 +28,7 @@ Ola Outstation and Uber Intercity are easily available from Chennai to Mahabalip
 
 ## Stay
 
-|Point    | Details    |
+|    Point    | Details |
 | ----------- | ----------- |
 | Hotel      | Seashore Hotel       |
 | Cost   | Rs. 1,800 per night        |
