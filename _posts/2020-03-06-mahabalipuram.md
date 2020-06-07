@@ -8,15 +8,14 @@ featured: true
 hidden: false
 ---
 
-# Mahabalipuram (3 Days, 2 Nights | Solo)
 Courtesy a visa interview, I found myself in Chennai on a Friday morning (why they don’t they have a visa centre in Bangalore, beats me!), leaving the rest of the day, plus the weekend for myself. I had to be back home by Sunday night, and hence could not travel very far. Mahabalipuram was an obvious choice - it’s ideally located 1.5 hours from Chennai, is a UNESCO World Heritage site, plus has vibrant beach cafes. I needed no other reasons to head to Mahabalipuram, though I did end up discovering more!
 
-##Duration and Time of Visit
+## Duration and Time of Visit
 
 3 days, 2 nights  
 March beginning
 
-##To and From
+## To and From
 
 |    Point    | Details |
 | ----------- | ----------- |
@@ -27,7 +26,7 @@ March beginning
 
 Ola Outstation and Uber Intercity are easily available from Chennai to Mahabalipuram and back. It’s a beautiful drive along the Bay of Bengal - starts with the Marina Beach, followed by a splendid coastline interspersed with lakes and pretty cafes. And before you can manage to get bored, Mahabalipuram is there!
 
-##Stay
+## Stay
 
 |Point    | Details    |
 | ----------- | ----------- |
@@ -46,7 +45,7 @@ Whenever I travel solo, I prefer not to book a hotel beforehand so that I can ex
 - Access to the bus / train station (either close-by or having some readily available means of transportation)  
 Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (at the Shore Temple) and went hotel-hopping on foot. I realised that the main part of Mahabalipuram Beach was extremely crowded, and hence went in the opposite direction (north). There were a couple of resorts (albeit shabby), costing ~Rs. 5K per room per night. Since I didn’t want to spend that much, I proceeded to the hotels next to them, found Seashore, Santana and Kalo’s to have decent rooms - and chose to stay at Seashore. It had a modest room (a little too modest to be frank!) with a beautiful sea-facing view and a rooftop cafe, costing Rs. 1.8K per night. If luxury is what you are looking for, you have Radisson, Welcome Group, Taj resorts as well, all further north.
 
-##Itinerary
+## Itinerary
 **Day 1: Chilling at beach cafes; swimming**  
 
 - I checked-in to my hotel around 1 pm  
@@ -119,19 +118,19 @@ Itinerary for the monument visit:
 </p>
 -	Post that, I spent the rest of the morning at the rooftop cafe, till ~1 pm, when I took a cab to Chennai (Ola / Uber to the rescue again)  
 
-##Major Expenses
+## Major Expenses
 -	Travel by Cab: Rs. 850 X 2 = Rs. 1,700
 -	Hotel: Rs. 1800 X 2 = Rs. 3,600
 -	Kerala massage: Rs. 2,400
 -	Ticket for monuments: Rs. 30
 -	Food and drinks
 
-##Other Things To Do (that I didn’t)
+## Other Things To Do (that I didn’t)
 -	Crocodile Farm
 -	India Seashell Museum
 -	Surfing
 
-##Tips and Resources
+## Tips and Resources
 -	[Group of Monuments at Mahabalipuram](https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram) - About the monuments, on Wikipedia
 -	[Mahabalipuram](https://www.ancient.eu/Mahabalipuram/) - History of Mahabalipuram, on ancient.eu
 -	[Mamallapuram](https://www.mahabalipuram.co.in/) - About Mahabalipuram, on mahabalipuram.co.in
