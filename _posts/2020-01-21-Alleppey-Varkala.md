@@ -82,7 +82,7 @@ Varkala
 	-	It was a beautiful boat, simple yet elegant. It had two bedrooms with attached washrooms, an upper deck, a glass-enclosed lower deck, a captain and a cook!
 	-	<u>Tip:</u> I think it’s best to pre-book a houseboat, especially during the busy season. At the bottom, I have shared a list of things to look out for while choosing a houseboat
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200118_150533_1.jpg" width="80%">
+<img src="Alleppey-Varkala Pics/IMG_20200118_150533_1.jpg" width="75%">
 </p>
 -	We embarked on our tour of the Vembanad lake around 12 pm
 	-	It was a slow and leisurely ride, going nowhere in particular, but enjoying the surreal views all along - the infinite lake, the coconut tree studded banks, the fields beyond them and the dozens of other houseboats around us. Sitting on the upper deck, with soft music playing, none of us would have expected six college friends to enjoy it so calmly, that too when they were meeting after about two years!
@@ -105,7 +105,7 @@ Varkala
 -	We chilled on the boat, got some more snacks and drinks from the city, ate another sumptuous meal and slept
 	-	The AC on the boat was a saviour! And how can we forget the trippy lights!
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200118_190857_1.jpg" width="90%">
+<img src="Alleppey-Varkala Pics/IMG_20200118_190857_1.jpg" width="75%">
 </p>
 
 **Day 2: Last boat ride, Varkala beach and cafes**
@@ -120,7 +120,7 @@ Varkala
 </p>
 -	Just before Varkala, there is Kappil Beach, which has sea on the right side, a backwater lake on the left, and lush green all around. We had to stop there!
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200119_130351_1.jpg" width="30%"> <img src="Alleppey-Varkala Pics/IMG_20200119_130209_1.jpg" width="60%">
+<img src="Alleppey-Varkala Pics/IMG_20200119_130351_1.jpg" width="35%"> <img src="Alleppey-Varkala Pics/IMG_20200119_130209_1.jpg" width="64%">
 </p>
 -	On reaching Varkala, we checked-in to Zostel first, freshened up and headed out for lunch
 	-	Zostel has a beautiful place, with amazing artwork done across. It was very well maintained, with a hospitable staff. But the place was a bit smaller than expected and also, a little off the main cliff area
@@ -128,19 +128,19 @@ Varkala
 	-	It was so hard to choose a place, but finally majority ruled for Caffé Italiano
 	-	It is always a good idea to talk to the local people - you’d be surprised at what all interesting information they can share! Give it a shot – and maybe you can find what you are looking for
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200119_163807_1.jpg" width="30%">
+<img src="Alleppey-Varkala Pics/IMG_20200119_163807_1.jpg" width="90%">
 </p>
 -	Towards evening, we descended to the beach, did a quick recce to zero in on a less crowded stretch and went right into the water
 	-	We spent about 2 hours in there. My friends preferred to stay closer to the beach. Knowing swimming well, I ventured alone a little further. Watching the sunset from inside the sea is a sight to remember!
 	-	I like to just lay in water - floating on the back, ears underwater, eyes shut. You are able to hear the water - the waves along with the tiny particles moving in the current - and it cancels the rest of the outside noise. This, plus the gentle pressure on the ears, is one of the most calming and meditative sensations I have experienced. Try this whenever you are next in water!
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200119_182151_1.jpg" width="30%">
+<img src="Alleppey-Varkala Pics/IMG_20200119_182151_1.jpg" width="90%">
 </p>
 -	We went back to Zostel, bathed and were back on the cliff to try out yet another place – Darjeeling Café this time
 	-	It is a very pretty place, with beautiful ambience, hip staff, peppy beats and delectable food
 -	We stayed till late and strolled back to our place
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200119_185707_1.jpg" width="30%">
+<img src="Alleppey-Varkala Pics/IMG_20200119_185707_1.jpg" width="90%">
 </p>
 
 **Day 3: Odayam Beach and Jatayu Earth’s Centre**
@@ -150,29 +150,29 @@ Varkala
 	-	There was a small group of foreigners doing yoga, some couples in the water and some on the beach - everyone and everything tranquil
 	-	I think I enjoy solitude as much as I enjoy company, and try to ensure I get a good dose of both
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200120_072149_1.jpg" width="60%"> <img src="Alleppey-Varkala Pics/IMG_20200120_090956_1.jpg" width="30%">
+<img src="Alleppey-Varkala Pics/IMG_20200120_072149_1.jpg" width="54.5%"> <img src="Alleppey-Varkala Pics/IMG_20200120_090956_1.jpg" width="45%">
 </p>
 -	For breakfast, we went to the terrace café at Zostel and chilled there for some hours - soulful music, hammocks, reclining chairs and a gentle breeze
 -	Then we left for the day and decided to go in the opposite direction this time - on Odayam Beach
 	-	It’s far more beautiful than its more popular neighbour, Varkala beach, and to our pleasant surprise, empty
 	-	We kept walking for a good half hour, stopping to take pictures or just hang around, till we reached the end
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200120_142018_1.jpg" width="30%">
+<img src="Alleppey-Varkala Pics/IMG_20200120_142018_1.jpg" width="90%">
 </p>
 -	We zeroed in on the beach restaurant of Blue Water resort, enjoying the scene, the café and the company, occasionally taking walks on the beach
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20200120_151203_1.jpg" width="30%">
+<img src="Alleppey-Varkala Pics/IMG_20200120_151203_1.jpg" width="90%">
 </p>
 -	In the afternoon, we did a quick tour of Jatayu Earth’s Centre, which is about 30kms (50 minutes) far
 	-	It is a magnificent structure atop a hill, reachable via a cable car, feeling like an oasis in the middle of nowhere
 	-	The grandeur and the history associated with it left everyone spellbound, besides seeing how beautifully it has been maintained
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_20190804_173037_1.jpg" width="30%">
+<img src="Alleppey-Varkala Pics/IMG_20190804_173037_1.jpg" width="90%">
 </p>
 -	On returning, the gorgeous evening sea beckoned us and we duly complied
 	-	The sea was different today - we had never seen such huge waves this close to the land. We had a blast in the water that day and got out only because we were completely drained
 <p align="center">
-<img src="Alleppey-Varkala Pics/IMG_6756_1.jpg" width="30%">
+<img src="Alleppey-Varkala Pics/IMG_6756_1.jpg" width="75%">
 </p>
 -	We left late evening for Kochi, unable to do anything besides sleeping on the way
 -	A couple of hours of sleep at an Oyo hotel and we were off to the airport, bringing the escapade to an end
