@@ -72,6 +72,7 @@ Varkala
 </p>
 
 ## Itinerary
+
 **Day 1: Houseboat tour and stay**
 
 -	All of us landed in Kochi early morning, around 8 am
@@ -79,19 +80,19 @@ Varkala
 	- The road was good, but the weather and landscape not particularly exciting
 -	We couldn’t wait to be on the houseboat, and needless to say, went directly to it
 	-	It was a beautiful boat, simple yet elegant. It had two bedrooms with attached washrooms, an upper deck, a glass-enclosed lower deck, a captain and a cook!
+	-	<u>Tip:</u> I think it’s best to pre-book a houseboat, especially during the busy season. At the bottom, I have shared a list of things to look out for while choosing a houseboat
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200118_150533_1.jpg" width="80%">
 </p>
-	-	<u>Tip:</u> I think it’s best to pre-book a houseboat, especially during the busy season. At the bottom, I have shared a list of things to look out for while choosing a houseboat
 -	We embarked on our tour of the Vembanad lake around 12 pm
 	-	It was a slow and leisurely ride, going nowhere in particular, but enjoying the surreal views all along - the infinite lake, the coconut tree studded banks, the fields beyond them and the dozens of other houseboats around us. Sitting on the upper deck, with soft music playing, none of us would have expected six college friends to enjoy it so calmly, that too when they were meeting after about two years!
+	-	There’s a standard itinerary that all boats follow and there is not much you can do differently. So while I had a list of spots I wanted to visit on the tour (based on some research on internet), the captain’s order was clear – “No deviations!”
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200118_133405_1.jpg" width="90%">
 </p>
-	-	There’s a standard itinerary that all boats follow and there is not much you can do differently. So while I had a list of spots I wanted to visit on the tour (based on some research on internet), the captain’s order was clear – “No deviations!”
 -	Around 2 pm, we had our first stop, for lunch
 	-	We anchored next to a small shop on the bank, so that we could buy some snacks and beverages
-o	All the meals were prepared on the boat itself. To our surprise, they were quite delicious! Delicious, but spicy - very spicy!
+	-	All the meals were prepared on the boat itself. To our surprise, they were quite delicious! Delicious, but spicy - very spicy!
 -	Post lunch, we resumed our gentle plodding
 	-	We chatted, played cards, had fun and to our surprise, all of us dozed off! The atmosphere was just so calm!
 -	We again stopped around 4 pm, at an Ayurvedic massage centre
@@ -125,10 +126,10 @@ o	All the meals were prepared on the boat itself. To our surprise, they were qui
 	-	Zostel has a beautiful place, with amazing artwork done across. It was very well maintained, with a hospitable staff. But the place was a bit smaller than expected and also, a little off the main cliff area
 	-	The whole of the North Cliff is full of amazing cafes, with beautiful ambience, good menus, groovy music and good vibes
 	-	It was so hard to choose a place, but finally majority ruled for Caffé Italiano
+	-	It is always a good idea to talk to the local people - you’d be surprised at what all interesting information they can share! Give it a shot – and maybe you can find what you are looking for
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200119_163807_1.jpg" width="30%">
 </p>
-	-	It is always a good idea to talk to the local people - you’d be surprised at what all interesting information they can share! Give it a shot – and maybe you can find what you are looking for
 -	Towards evening, we descended to the beach, did a quick recce to zero in on a less crowded stretch and went right into the water
 	-	We spent about 2 hours in there. My friends preferred to stay closer to the beach. Knowing swimming well, I ventured alone a little further. Watching the sunset from inside the sea is a sight to remember!
 	-	I like to just lay in water - floating on the back, ears underwater, eyes shut. You are able to hear the water - the waves along with the tiny particles moving in the current - and it cancels the rest of the outside noise. This, plus the gentle pressure on the ears, is one of the most calming and meditative sensations I have experienced. Try this whenever you are next in water!
