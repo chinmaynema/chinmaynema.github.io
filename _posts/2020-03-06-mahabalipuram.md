@@ -76,7 +76,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 - I checked-in to my hotel around 1 pm  
 	-	Being March, the Sun was unforgiving, and tired from all the hotel visits, the first thing I did was to take a shower!  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200306_150923_1.jpg" width="70%">
+<img src="Mahabalipuram Pics/IMG_20200306_150923_1.jpg" width="100%">
 </p>
 - I headed straight to the rooftop cafe, ordered pasta and some drinks and spent the afternoon with a book and some solemn music  
 	-	A beautiful sea, a sparse beach (being a Friday), soothing wind, a pretty cafe, an intellectually stimulating book and slow music. What more could I have asked for!  
