@@ -112,6 +112,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	Highlight: I liked Krishna’s Butterball, Arjuna’s Penance, Mahishasuramardini and Krishna Mandapa the most - the former for its magnificence, the latter three for their intricate details  
 <p align="center">
 <img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" width="100%">
+	
 <img src="Mahabalipuram Pics/IMG_20200307_144742_1.jpg" width="35.5%"> <img src="Mahabalipuram Pics/IMG_20200307_150304_1.jpg" width="63.5%">
 </p> 
 -	Pancha Rathas (20 minutes):  
@@ -138,7 +139,9 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	People ask me what I like about solo trips. I don’t think these trips provide me a gateway for introspection particularly; just being with oneself in the present and figuring out things on one’s own is surprisingly refreshing.  
 <p align="center">
 <img src="Mahabalipuram Pics/IMG_20200308_070932_1.jpg" width="100%">
-<img src="Mahabalipuram Pics/IMG_20200308_095610_1.jpg" width="49%"> <img src="Mahabalipuram Pics/IMG_20200308_093435_1.jpg" width="49%">
+
+<img src="Mahabalipuram Pics/IMG_20200308_095610_1.jpg" width="49.5%"> <img src="Mahabalipuram Pics/IMG_20200308_093435_1.jpg" width="49.5%">
+
 <img src="Mahabalipuram Pics/IMG_20200308_103015_1.jpg" width="100%">
 </p>
 -	Post that, I spent the rest of the morning at the rooftop cafe, till ~1 pm, when I took a cab to Chennai (Ola / Uber to the rescue again)  
