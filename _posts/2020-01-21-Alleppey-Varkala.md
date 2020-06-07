@@ -177,13 +177,6 @@ Varkala
 -	We left late evening for Kochi, unable to do anything besides sleeping on the way
 -	A couple of hours of sleep at an Oyo hotel and we were off to the airport, bringing the escapade to an end
 
-## Major Expenses
--	Flight: Rs. 5,000 (per person)
--	Travel by Cab: Rs. 12,000 (for an SUV for 3 days)
--	Houseboat: Rs. 18,000 (6 people)
--	Zostel: Rs. 700 / person / night
--	Food and drinks
-
 ## Other Things To Do (that we didn’t)
 
 Alleppey:
@@ -201,6 +194,13 @@ Varkala:
 -	Varkala Aquarium
 -	Anjengo Fort And Lighthouse
 -	Janardhana Swami Temple
+
+## Major Expenses
+-	Flight: Rs. 5,000 (per person)
+-	Travel by Cab: Rs. 12,000 (for an SUV for 3 days)
+-	Houseboat: Rs. 18,000 (6 people)
+-	Zostel: Rs. 700 / person / night
+-	Food and drinks
 
 ## Tips and Resources
 -	How to choose a houseboat:
