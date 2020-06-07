@@ -6,5 +6,6 @@ featured_image: /assets/images/pages/about/katy_trail.jpg
 
 >“Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” <cite>― Steve Jobs ―</cite>
 
-Hi!  
-My name is Chinmay Nema.
+Hi there!
+
+This is Chinmay, glad that you stumbled across my page.
