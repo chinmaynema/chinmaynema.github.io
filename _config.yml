@@ -2,7 +2,7 @@
 name: 'One Trip To Another'
 description: 'Chinmay Nema'
 #meta_description: ''
-logo: 'assets/images/logo.png'
+#logo: 'assets/images/logo.png'
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
