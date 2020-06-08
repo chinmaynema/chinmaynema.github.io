@@ -111,8 +111,8 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	<u>Tip:</u> But still, I felt the need to follow Google Maps, so as to not miss any site. For eg. Arjuna’s Penance and Krishna Mandapa are accessible from the road outside and not from within the complex  
 	-	Highlight: I liked Krishna’s Butterball, Arjuna’s Penance, Mahishasuramardini and Krishna Mandapa the most - the former for its magnificence, the latter three for their intricate details  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" width="98.4%"> <br> <br>
-<img src="Mahabalipuram Pics/IMG_20200307_144742_1.jpg" width="35.6%"> <img src="Mahabalipuram Pics/IMG_20200307_150304_1.jpg" width="62.8%">
+<img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" width="98.45%"> <br> <br>
+<img src="Mahabalipuram Pics/IMG_20200307_144742_1.jpg" width="35.6%"> <img src="Mahabalipuram Pics/IMG_20200307_150304_1.jpg" width="62.85%">
 </p> 
 -	Pancha Rathas (20 minutes):  
 	-	This is about 800 m away from the Lighthouse exit of the first complex  
@@ -138,7 +138,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	People ask me what I like about solo trips. I don’t think these trips provide me a gateway for introspection particularly; just being with oneself in the present and figuring out things on one’s own is surprisingly refreshing.  
 <p align="center">
 <img src="Mahabalipuram Pics/IMG_20200308_070932_1.jpg" width="100%"> <br> <br>
-<img src="Mahabalipuram Pics/IMG_20200308_095610_1.jpg" width="49.6%"> <img src="Mahabalipuram Pics/IMG_20200308_093435_1.jpg" width="49.6%"> <br> <br>
+<img src="Mahabalipuram Pics/IMG_20200308_095610_1.jpg" width="49.3%"> <img src="Mahabalipuram Pics/IMG_20200308_093435_1.jpg" width="49.3%"> <br> <br>
 <img src="Mahabalipuram Pics/IMG_20200308_103015_1.jpg" width="100%">
 </p>
 -	Post that, I spent the rest of the morning at the rooftop cafe, till ~1 pm, when I took a cab to Chennai (Ola / Uber to the rescue again)  
