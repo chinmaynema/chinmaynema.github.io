@@ -112,7 +112,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	Highlight: I liked Krishna’s Butterball, Arjuna’s Penance, Mahishasuramardini and Krishna Mandapa the most - the former for its magnificence, the latter three for their intricate details  
 <p align="center">
 <img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" width="98.8%"> <br> <br>
-<img src="Mahabalipuram Pics/IMG_20200307_144742_1.jpg" width="35.75%"> <img src="Mahabalipuram Pics/IMG_20200307_150304_1.jpg" width="63.05%">
+<img src="Mahabalipuram Pics/IMG_20200307_144742_1.jpg" width="35.7%"> <img src="Mahabalipuram Pics/IMG_20200307_150304_1.jpg" width="63.1%">
 </p> 
 -	Pancha Rathas (20 minutes):  
 	-	This is about 800 m away from the Lighthouse exit of the first complex  
