@@ -37,7 +37,9 @@ Varkala - Kochi (Cab): 5 hours
 </tr>
 <tr>
     <td>Cost</td>
-    <td>~Rs. 850 one way</td>
+    <td>Flight: Rs. 5K for the round trip<br>
+Cab: Hired full-time for 3 days for Rs. 12K
+</td>
 </tr>
 </table>
 
