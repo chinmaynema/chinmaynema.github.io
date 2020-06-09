@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Contact
 featured_image: /assets/images/pages/Contact.jpg
 ---
