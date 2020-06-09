@@ -49,7 +49,7 @@ navigation:
 #  - text: Experience
 #    url: /experience
   - text: Contact
-    url: /contact
+    url: /contactme
 
 # Required Plugins
 plugins_dir:
