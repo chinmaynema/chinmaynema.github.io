@@ -3,12 +3,6 @@ layout: page
 title: Contact
 featured_image: /assets/images/pages/Contact.jpg
 ---
-
-<main id="main" class="site-main">
-  <div class="post-full inner">
-    <header class="post-header">
-      <h1 class="post-title">Contact</h1>
-    </header>
     
 I am always up to discuss anything about travel - your or mine. Feel free to reach out and I would love to hear from you!<br><br>
 
