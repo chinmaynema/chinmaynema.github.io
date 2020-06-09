@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mahabalipuram (3 days, 2 nights | Solo)
-tags: [solo, beach, chill]
+tags: [solo, beach, chill, archaeology, history]
 featured_image_thumbnail: Mahabalipuram Temples
 featured_image: assets/images/posts/mahabalipuram/Mahabalipuram Cover.jpg
 featured: true
