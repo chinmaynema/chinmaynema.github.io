@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-featured_image: /assets/images/pages/Contact.jpg
+featured_image: /assets/images/pages/contact/Contact.jpg
 ---
     
 I am always up to discuss anything about travel - your or mine. Feel free to reach out and I would love to hear from you!<br>
