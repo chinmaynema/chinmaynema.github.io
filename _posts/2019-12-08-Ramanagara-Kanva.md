@@ -37,7 +37,7 @@ December beginning
 </tr>
 <tr>
     <td>Other options</td>
-    <td>Train: There are several trains from SBC<br>Bus: <br>Cab: You can do a cab rental for the day</td>
+    <td>Train: There are several trains from SBC<br>Bus: <br>Cab: You can rent a cab for the day</td>
 </tr>
 </table>
 
