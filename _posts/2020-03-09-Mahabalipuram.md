@@ -103,7 +103,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	There are three separate complexes with some monuments within each  
 	-	A single ticket (Rs. 30 for Indians; Rs. 500 for foreigners) allows you entry to all three complexes  
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NxRQ-AAlgy4M_e607TEuqpcx8ZhGbG-R" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NxRQ-AAlgy4M_e607TEuqpcx8ZhGbG-R" width="640" height="480"></iframe><br>
 
 <u>Itinerary for the monument visit:</u>
 
