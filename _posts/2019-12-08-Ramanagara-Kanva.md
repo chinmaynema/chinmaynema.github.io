@@ -109,6 +109,9 @@ December beginning
 -	Ticket for sanctuary: Rs. 25
 -	Food and drinks
 
-## Tips and Respurces
+## Tips and Resources
 
+- As expected, the network is a bit patchy towards the top of the hill
+- It can be very sunny and since there are only few trees, it's best to wear a cap, apply sunscreen and carry sufficient water
+- Its best to carry an umbrella, especially during the monsoon or extreme sunshine
 - [Ramadevarabetta Vulture Sanctuary](https://www.conservationindia.org/case-studies/case-study-declaration-of-a-vulture-sanctuary-in-karnataka) - Story of the setup of Ramadevarabetta Vulture Sanctuary
