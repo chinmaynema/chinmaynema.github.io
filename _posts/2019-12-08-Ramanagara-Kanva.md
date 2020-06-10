@@ -98,7 +98,7 @@ December beginning
 <p align="center">
 <img src="Ramanagara-Kanva Pics/IMG_20191208_160746_1.jpg" width="90%"><br>
 <img src="Ramanagara-Kanva Pics/IMG_20191208_152703_1.jpg" width="90%"><br>
-<img src="Ramanagara-Kanva Pics/IMG_20191208_150020_1.jpg" width="34.4%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_163306_1.jpg.jpg" width="64.4%">
+<img src="Ramanagara-Kanva Pics/IMG_20191208_150020_1.jpg" width="34.4%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_163306_1.jpg" width="64.4%">
 </p>
 - After about an hour there, I got up to drive back to Bangalore, in time to hand back my car
 
