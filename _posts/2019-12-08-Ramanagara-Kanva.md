@@ -49,6 +49,7 @@ December beginning
 - I drove till the NICE Ring Road Toll Booth in a single shot and as is customary for all our road trips in that direction, stopped at the Udupi Gardenia right after that to have a good South Indian breakfast
 	- It is best to escape the traffic early morning and stop only after crossing the city boundaries
 - From there, I drove straight to the Ramadevarabetta Vulture Sanctuary in Ramanagara, where Sholay was shot
+	- I wasn't aware that this is the only vulture sanctuary in India, setup only recently in 2012
 	- In case you face any issues locating the sanctuary, look out for a huge statue of Lord Hanuman - that's the road to take
 	- There is an entry fee of Rs. 25 which includes parking
 - From the parking, there is a hike of about 40 minutes to the top of the hill
@@ -107,3 +108,7 @@ December beginning
 -	Self drive rental car: Rs. 2,200 per day
 -	Ticket for sanctuary: Rs. 25
 -	Food and drinks
+
+## Tips and Respurces
+
+- [Ramadevarabetta Vulture Sanctuary](https://www.conservationindia.org/case-studies/case-study-declaration-of-a-vulture-sanctuary-in-karnataka) - Story of the setup of Ramadevarabetta Vulture Sanctuary
