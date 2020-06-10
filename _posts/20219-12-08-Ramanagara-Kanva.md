@@ -107,6 +107,3 @@ December beginning
 -	Self drive rental car: Rs. 2,200 per day
 -	Ticket for sanctuary: Rs. 25
 -	Food and drinks
-
-## Tips and Resources
--	[Group of Monuments at Mahabalipuram](https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram) - About the monuments, on Wikipedia
