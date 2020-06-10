@@ -134,7 +134,7 @@ Varkala
 </p>
 -	Towards evening, we descended to the beach, did a quick recce to zero in on a less crowded stretch and went right into the water
 	-	We spent about 2 hours in there. My friends preferred to stay closer to the beach. Knowing swimming well, I ventured alone a little further. Watching the sunset from inside the sea is a sight to remember!
-	-	I like to just lay in water - floating on the back, ears underwater, eyes shut. You are able to hear the water - the waves along with the tiny particles moving in the current - and it cancels the rest of the outside noise. This, plus the gentle pressure on the ears, is one of the most calming and meditative sensations I have experienced. Try this whenever you are next in water!
+	-	I like to just lie in water - floating on the back, ears underwater, eyes shut. You are able to hear the water - the waves along with the tiny particles moving in the current - and it cancels the rest of the outside noise. This, plus the gentle pressure on the ears, is one of the most calming and meditative sensations I have experienced. Try this whenever you are next in water!
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200119_182151_1.jpg" width="70%">
 </p>
