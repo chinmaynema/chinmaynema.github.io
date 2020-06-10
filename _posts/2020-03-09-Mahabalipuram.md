@@ -83,7 +83,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	A beautiful sea, a sparse beach (being a Friday), soothing wind, a pretty cafe, an intellectually stimulating book and slow music. What more could I have asked for!  
 	-	Here’s what more I could have asked for: less Sun and a prettier beach! It was a bit littered and had several fishing boats anchored haphazardly. That said, I think it was definitely better than most Indian beaches - the water was clean, sand not as dirty and crowd good (less in quantity, sensible in quality)  
 -	As the Sun set, I decided to go in for a swim  
-	-	I like to just lay in water - floating on the back, ears underwater, eyes shut. You are able to hear the water - the waves along with the tiny particles moving in the current - and it cancels the rest of the outside noise. This, plus the gentle pressure on the ears, is one of the most calming and meditative sensations I have experienced. Try this whenever you are next in water!  
+	-	I like to just lie in water - floating on the back, ears underwater, eyes shut. You are able to hear the water - the waves along with the tiny particles moving in the current - and it cancels the rest of the outside noise. This, plus the gentle pressure on the ears, is one of the most calming and meditative sensations I have experienced. Try this whenever you are next in water!  
 -	Late evening, I went to Radisson for dinner  
 	-	It’s a beautiful property. They have a gorgeous restaurant by the beach (which is ~0.5 kms from the entrance! Hence they have golf carts to ferry people)  
 	-	I spent about 5 hours there, again in the company of my book and some good African music, slowly eating a delicious vegetarian Lasagna and sipping my drink  
