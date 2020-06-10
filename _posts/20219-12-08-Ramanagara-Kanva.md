@@ -3,7 +3,7 @@ layout: post
 title: Alleppey-Varkala (3 days, 3 nights | 6 people)
 tags: [houseboat, kerala, beach, chill]
 featured_image_thumbnail: Houseboat
-featured_image: assets/images/posts/alleppey-varkala/Alleppey Cover.jpg
+featured_image: assets/images/posts/ramanagara-kanva/Ramanagara Cover.jpg
 featured: true
 hidden: false
 ---
@@ -64,7 +64,7 @@ December beginning
 	- Beyond the temple, the path becomes a bit tedious and the view becomes a bit gorgeous
 
 <p align="center">
-<img src="Ramanagara-Kanva Pics/IMG_20191208_121135_1.jpg" width="90%"><br>
+<img src="Ramanagara-Kanva Pics/IMG_20191208_113030_1.jpg" width="90%"><br>
 <img src="Ramanagara-Kanva Pics/IMG_20191208_113300_1.jpg" width="50%">
 </p>
 
