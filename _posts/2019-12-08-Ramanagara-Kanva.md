@@ -73,7 +73,7 @@ December beginning
 	- These hills are very different from the usual ones we see or imagine, giving a very raw and badass feel to the place - exactly like Sholay!
 	- You can spot vultures from the top: There are two varieties of vultures in these areas: Egyptian and Indian. I was lucky to bump into a birdwatching enthusiast, who lent me his binoculars
 <p align="center">
-<img src="Ramanagara-Kanva Pics/IMG_20191208_115407_1.jpg" width="35%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_120836_1.jpg" width="63.4%">
+<img src="Ramanagara-Kanva Pics/IMG_20191208_115407_1.jpg" width="35.5%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_120836_1.jpg" width="62.9%">
 </p>
 - I took a round of the small hill top to check out the views from all angles and finally chose a spot I liked
 	- I switched on my speakers, took out my Kindle, and I was in my zone :)
@@ -96,9 +96,9 @@ December beginning
 	- Again, I chose a good spot and took out my kit - speakers and Kindle
 	- I got a guest in some time, in the form of a vulture, who came and sat on the light pole next to me - keeping me busy photographing it for a good 15 minutes
 <p align="center">
-<img src="Ramanagara-Kanva Pics/IMG_20191208_160746_1.jpg" width="90%"><br><br>
-<img src="Ramanagara-Kanva Pics/IMG_20191208_152703_1.jpg" width="90%"><br><br>
-<img src="Ramanagara-Kanva Pics/IMG_20191208_150020_1.jpg" width="34.4%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_163306_1.jpg" width="64.4%">
+<img src="Ramanagara-Kanva Pics/IMG_20191208_160746_1.jpg" width="100%"><br><br>
+<img src="Ramanagara-Kanva Pics/IMG_20191208_152703_1.jpg" width="100%"><br><br>
+<img src="Ramanagara-Kanva Pics/IMG_20191208_150020_1.jpg" width="35.4%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_163306_1.jpg" width="63.4%">
 </p>
 - After about an hour there, I got up to drive back to Bangalore, in time to hand back my car
 
