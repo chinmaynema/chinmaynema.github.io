@@ -33,7 +33,7 @@ December beginning
 </tr>
 <tr>
     <td>Cost</td>
-    <td>Rs. 2,200 for the day</td>
+    <td>Rs. 2,200 (including fuel)</td>
 </tr>
 <tr>
     <td>Other options</td>
