@@ -100,8 +100,8 @@ December beginning
 	- Again, I chose a good spot and took out my kit - speakers and Kindle
 	- I got a guest in some time, in the form of a vulture, who came and sat on the light pole next to me - keeping me busy photographing it for a good 15 minutes
 <p align="center">
-<img src="Ramanagara-Kanva Pics/IMG_20191208_160746_1.jpg" width="100%"><br><br>
-<img src="Ramanagara-Kanva Pics/IMG_20191208_152703_1.jpg" width="100%"><br><br>
+<img src="Ramanagara-Kanva Pics/IMG_20191208_160746_1.jpg" width="98.8%"><br><br>
+<img src="Ramanagara-Kanva Pics/IMG_20191208_152703_1.jpg" width="98.8%"><br><br>
 <img src="Ramanagara-Kanva Pics/IMG_20191208_150020_1.jpg" width="35.7%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_163306_1.jpg" width="63.1%">
 </p>
 - After about an hour there, I got up to drive back to Bangalore, in time to hand back my car
