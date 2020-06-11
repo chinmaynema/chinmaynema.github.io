@@ -92,7 +92,8 @@ December beginning
 	- It was a bit dampening to find out that the dam was closed to public and people could only look at it from a spot on the road
 	- I had time on hand, so I decided to figure out a way to get closer!
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1sWtkrfQtLtIEPw-xXSYA2F3Yzn5EwiNR" width="640" height="480"></iframe>
+<p align="center">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1sWtkrfQtLtIEPw-xXSYA2F3Yzn5EwiNR" width="640" height="480"></iframe><br></p>
 
 - I drove a little further and found a road going next to the dam. From that road, I saw a shepherd feeding his sheep on the slopes of the dam! I asked him how to reach there, parked the car on the roadside and climbed to the top of the dam
 	- Being alone on a dam is one of the most amazing feelings: alone, in front of a vast water body, which is totally calm, held together by a wall of rock, on which you stand. I have had this opportunity some times now and always look forward to it
@@ -100,8 +101,8 @@ December beginning
 	- Again, I chose a good spot and took out my kit - speakers and Kindle
 	- I got a guest in some time, in the form of a vulture, who came and sat on the light pole next to me - keeping me busy photographing it for a good 15 minutes
 <p align="center">
-<img src="Ramanagara-Kanva Pics/IMG_20191208_160746_1.jpg" width="98.8%"><br><br>
-<img src="Ramanagara-Kanva Pics/IMG_20191208_152703_1.jpg" width="98.8%"><br><br>
+<img src="Ramanagara-Kanva Pics/IMG_20191208_160746_1.jpg" width="99.5%"><br><br>
+<img src="Ramanagara-Kanva Pics/IMG_20191208_152703_1.jpg" width="99.5%"><br><br>
 <img src="Ramanagara-Kanva Pics/IMG_20191208_150020_1.jpg" width="35.7%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_163306_1.jpg" width="63.1%">
 </p>
 - After about an hour there, I got up to drive back to Bangalore, in time to hand back my car
