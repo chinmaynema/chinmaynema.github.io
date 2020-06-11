@@ -126,7 +126,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	It’s a beautiful temple complex with lawns around it and the sea in front of it  
 	-	I stayed here till the sunset  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200307_155919_1.jpg" width="90%">
+<img src="Mahabalipuram Pics/IMG_20200307_155919_1.jpg" width="100%">
 </p> 
 *(For more information about the monuments, you can refer to the links posted at the end)*
 -	On my way back, I unwound at a Kerala massage centre  
