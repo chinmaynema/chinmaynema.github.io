@@ -91,6 +91,9 @@ December beginning
 - It took me about 30 minutes and about 5 direction-requests to reach the dam (somehow Google points you inside the reservoir!)
 	- It was a bit dampening to find out that the dam was closed to public and people could only look at it from a spot on the road
 	- I had time on hand, so I decided to figure out a way to get closer!
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1sWtkrfQtLtIEPw-xXSYA2F3Yzn5EwiNR" width="640" height="480"></iframe>
+
 - I drove a little further and found a road going next to the dam. From that road, I saw a shepherd feeding his sheep on the slopes of the dam! I asked him how to reach there, parked the car on the roadside and climbed to the top of the dam
 	- Being alone on a dam is one of the most amazing feelings: alone, in front of a vast water body, which is totally calm, held together by a wall of rock, on which you stand. I have had this opportunity some times now and always look forward to it
 	- I walked the length of the dam, till the time I could see the people on the road, who were looking at me on the dam! ;)
