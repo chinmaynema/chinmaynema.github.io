@@ -11,7 +11,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: http://onetriptoanother.com/
 # disqus: 'justgoodthemes'
-# mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+mailchimp_url: 'https://us10.admin.mailchimp.com/lists/integration/embeddedcode?source=blueprint_form_option_EmbeddedForm&create_location=deep+link&time_to_create=397&id=846789'
 # Add your GA Tracking Id
 #ga_analytics:
 
