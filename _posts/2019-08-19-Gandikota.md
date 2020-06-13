@@ -84,7 +84,7 @@ August mid
 - We reached the Haritha Resort in Gandikota (literally the only establishment in that area!) around 2:30pm
 	- We were hoping to find a good restaurant at the resort, but were extremely disappointed to find only a canteen (similar to a college mess) which served only rice and curry. I think the only reason that place is surviving is because there is no other alternative for some kilometers at least!
 	- I was aware of the tent-stay option at Gandikota and enquired one of the staff members at the resort about it. He offered to connect us to the person, but himself negotiated the price with us - I think the staff members help generate leads for the tent companies and hence you can have a word with either of them. I think we got a pretty good deal - Rs. 900 per person per night, and Rs. 250 per person for kayaking!
-- On seeing the campsite, "stunned" would be an understatement for what we felt! It was better than anything we had imagined
+- On seeing the campsite, "blown away" would be an understatement for what we felt! It was better than anything we had imagined
 	- It was right at the edge of the cliff, next to the fort, atop the Pennar river
 	- There were some 50 tents pitched next to each other, all occupied
 	- The tents were spacious and of good quality; same was true for the sleeping bags provided
