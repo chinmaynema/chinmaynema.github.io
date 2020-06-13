@@ -26,7 +26,7 @@ August mid
     <td>Self-drive rental car from Drivezy</td>
 </tr>	
 <tr>
-    <td width="22%">Distance and Duration</td>
+    <td width="22%">Distance & Duration</td>
     <td>~290 kms, ~7 hours either way</td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ August mid
 
 <p align="center">
 <img src="Gandikota Pics/1.jpg" width="99.4%"><br><br>
-<img src="Gandikota Pics/4.jpg" width="49.4%"> <img src="Gandikota Pics/IMG_20190817_184554_1.jpg" width="49.4%">
+<img src="Gandikota Pics/4.jpg" width="51.4%"> <img src="Gandikota Pics/IMG_20190817_184554_1.jpg" width="47.4%">
 </p>
 
 - We decided to visit the Gandikota fort in the evening
@@ -100,8 +100,8 @@ August mid
 	- We climbed a small wall at the Ranganathaswamy Temple, found a spot on the side-porch cut-off from public view and spent two peaceful hours watching the sun go down in front of us
 
 <p align="center">
-<img src="Gandikota Pics/6.jpg" width="90%"><br><br>
-<img src="Gandikota Pics/9.jpg" width="44.2%"><img src="Gandikota Pics/IMG_20190817_163344_1.jpg" width="44.2%">
+<img src="Gandikota Pics/6.jpg" width="81%"><br><br>
+<img src="Gandikota Pics/9.jpg" width="40%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" width="40%">
 </p>
 	
 - Late evening, we returned to the campsite
@@ -109,7 +109,7 @@ August mid
 	- As a good compensation for that, the camp guys put several small bonfires all across the campsite, where people clustered together and sat till late into the night. We had one right in front of our tent
 
 <p align="center">
-<img src="Gandikota Pics/3.jpg" width="60%">
+<img src="Gandikota Pics/3.jpg" width="55%">
 </p>
 
 **Day 2: Hiking - Kayaking - Mylavaram Dam**
@@ -120,7 +120,7 @@ August mid
 	- The views along the route are amazing - looking from different angles at the rugged landmasses rising from the river and the vegetation on them
 
 <p align="center">
-<img src="Gandikota Pics/IMG_20190818_093923_1.jpg" width="100%">
+<img src="Gandikota Pics/IMG_20190818_093923_1.jpg" alt="Hiking at Gandikota - Grand Canyon of India" width="99.4%">
 </p>
 	
 - At the river, the person in-charge guided us to our kayak, gave instructions and with his gentle push, off we were on our 45 minutes excursion
@@ -138,7 +138,7 @@ August mid
 	- Being alone on a dam is one of the most amazing feelings: alone, in front of a vast water body, which is totally calm, held together by a wall of rock, on which you stand. I have had this opportunity some times now and always look forward to it
 
 <p align="center">
-<img src="Gandikota Pics/7.jpg" width="60%">
+<img src="Gandikota Pics/7.jpg" width="80%">
 </p>
 
 - The roadtrip back was equally pleasing as the onward journey. But somehow return journeys always seem quicker...
