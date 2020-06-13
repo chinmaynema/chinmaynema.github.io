@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gandikota (2 days, 1 night | 2 people)
-tags: [hills, hiking, trekking, roadtrip, solo]
+tags: [hills, hiking, trekking, roadtrip, kayak, archaeology, history]
 featured_image_thumbnail: Grand Canyon of India
 featured_image: assets/images/posts/gandikota/Gandikota Cover.jpg
 featured: true
