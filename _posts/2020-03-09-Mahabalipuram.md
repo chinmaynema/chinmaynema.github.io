@@ -161,6 +161,6 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 -	Food and drinks
 
 ## Tips and Resources
--	[Group of Monuments at Mahabalipuram](https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram) - About the monuments, on Wikipedia
--	[Mahabalipuram](https://www.ancient.eu/Mahabalipuram/) - History of Mahabalipuram, on ancient.eu
--	[Mamallapuram](https://www.mahabalipuram.co.in/) - About Mahabalipuram, on mahabalipuram.co.in
+-	[Group of Monuments at Mahabalipuram](https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram): About the monuments, on Wikipedia
+-	[Mahabalipuram](https://www.ancient.eu/Mahabalipuram/): History of Mahabalipuram, on ancient.eu
+-	[Mamallapuram](https://www.mahabalipuram.co.in/): About Mahabalipuram, on mahabalipuram.co.in
