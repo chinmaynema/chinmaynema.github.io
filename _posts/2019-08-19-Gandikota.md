@@ -105,7 +105,7 @@ August mid
 
 <p align="center">
 <img src="Gandikota Pics/6.jpg" width="81%"><br><br>
-<img src="Gandikota Pics/9.jpg" width="38%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" width="42%">
+<img src="Gandikota Pics/9.jpg" width="37.8%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" width="42.2%">
 </p>
 	
 - Late evening, we returned to the campsite
