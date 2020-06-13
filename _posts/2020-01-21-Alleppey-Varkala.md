@@ -74,8 +74,8 @@ Varkala
 </p>
 
 ## Itinerary
-
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ar6WuoiWGjKD2T8hNDSqcxAA7DB7z8V4" width="640" height="480"></iframe><br>
+<p align="center">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ar6WuoiWGjKD2T8hNDSqcxAA7DB7z8V4" width="640" height="480"></iframe></p>
 
 **Day 1: Houseboat tour and stay**
 
