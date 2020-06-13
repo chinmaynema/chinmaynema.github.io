@@ -7,12 +7,7 @@ featured_image: assets/images/posts/mahabalipuram/Mahabalipuram Cover.jpg
 featured: true
 hidden: false
 ---
-<style>
-table, th, td {
-  border: 1px;
-  bordercolor: 666666;
-}
-</style>
+
 Courtesy a visa interview, I found myself in Chennai on a Friday morning (why they don’t have a visa centre in Bangalore, beats me!), leaving the rest of the day, plus the weekend for myself. I had to be back home by Sunday night, and hence could not travel very far. Mahabalipuram was an obvious choice - it’s ideally located 1.5 hours from Chennai, is a UNESCO World Heritage site, plus has vibrant beach cafes. I needed no other reasons to head to Mahabalipuram, though I did end up discovering more!
 
 ## Duration and Time of Visit
@@ -22,7 +17,7 @@ March beginning
 
 ## To and From
 
-<table style="width:100%">
+<table border=10 bordercolor="#666666" width="100%">
 <tr>
     <td width="22%">Route</td>
     <td>Chennai - Mahabalipuram - Chennai</td>
