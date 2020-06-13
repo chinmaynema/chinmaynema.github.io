@@ -18,17 +18,17 @@ January mid
 
 <table style="width:100%">
 <tr>
-    <td>Route</td>
+    <td width="22%">Route</td>
     <td>Bangalore - Kochi - Alleppey - Varkala - Kochi - Bangalore</td>
 </tr>
 <tr>
-    <td>Mode</td>
+    <td width="22%">Mode</td>
     <td>Flight: Bangalore - Kochi - Bangalore<br>
 Cab: Kochi - Alleppey - Varkala - Kochi
 </td>
 </tr>	
 <tr>
-    <td>Duration</td>
+    <td width="22%">Duration</td>
     <td>Bangalore - Kochi (Flight): 1.5 hours<br>
 Kochi - Alleppey (Cab): 2 hours<br>
 Alleppey - Varkala (Cab): 3 hours<br>
@@ -36,7 +36,7 @@ Varkala - Kochi (Cab): 5 hours
 </td>
 </tr>
 <tr>
-    <td>Cost</td>
+    <td width="22%">Cost</td>
     <td>Flight: Rs. 5K for the round trip<br>
 Cab: Hired full-time for 3 days for Rs. 12K
 </td>
@@ -47,19 +47,19 @@ Cab: Hired full-time for 3 days for Rs. 12K
 
 <table style="width:100%">
 <tr>
-    <td>Hotel</td>
+    <td width="22%">Hotel</td>
     <td>Alleppey: Houseboat<br>
 Varkala: Zostel
 </td>
 </tr>
 <tr>
-    <td>Cost</td>
+    <td width="22%">Cost</td>
     <td>Houseboat (Alleppey): Rs. 18K per night<br>
 Zostel (Varkala): Rs. 700 / person / night
 </td>
 </tr>	
 <tr>
-    <td>Best area to stay</td>
+    <td width="22%">Best area to stay</td>
     <td>Alleppey: On a houseboat (Vembanad lake)<br>
 Varkala: On the North Cliff
 </td>
