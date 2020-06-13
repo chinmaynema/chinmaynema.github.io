@@ -105,7 +105,7 @@ August mid
 
 <p align="center">
 <img src="Gandikota Pics/6.jpg" alt="Temple and Mosque at Gandikota Fort - Grand Canyon of India" width="81%"><br><br>
-<img src="Gandikota Pics/9.jpg" alt="A house made of stones at Gandikota - Grand Canyon of India" width="37.7%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" alt="A structure in Ranganathaswamy Temple at Gandikota Fort - Grand Canyon of India" width="42.3%">
+<img src="Gandikota Pics/9.jpg" alt="A house made of stones at Gandikota - Grand Canyon of India" width="37.65%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" alt="A structure in Ranganathaswamy Temple at Gandikota Fort - Grand Canyon of India" width="42.35%">
 </p>
 	
 - Late evening, we returned to the campsite
