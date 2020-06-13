@@ -23,19 +23,19 @@ March beginning
 
 <table style="width:100%">
 <tr>
-    <td>Route</td>
+    <td width="22%">Route</td>
     <td>Chennai - Mahabalipuram - Chennai</td>
 </tr>
 <tr>
-    <td>Mode</td>
+    <td width="22%">Mode</td>
     <td>Cab</td>
 </tr>	
 <tr>
-    <td>Duration</td>
+    <td width="22%">Duration</td>
     <td>1.5 hours either way</td>
 </tr>
 <tr>
-    <td>Cost</td>
+    <td width="22%">Cost</td>
     <td>~Rs. 850 one way</td>
 </tr>
 </table>
@@ -46,19 +46,19 @@ Ola Outstation and Uber Intercity are easily available from Chennai to Mahabalip
 
 <table style="width:100%">
 <tr>
-    <td>Hotel</td>
+    <td width="22%">Hotel</td>
     <td>Seashore Hotel</td>
 </tr>
 <tr>
-    <td>Cost</td>
+    <td width="22%">Cost</td>
     <td>Rs. 1,800 per night</td>
 </tr>	
 <tr>
-    <td>Best area to stay</td>
+    <td width="22%">Best area to stay</td>
     <td>On the Mahabalipuram beach, north of the Shore Temple</td>
 </tr>
 <tr>
-    <td>Hotel Options</td>
+    <td width="22%">Other Options</td>
     <td>Seashore, Santana and Kalo’s</td>
 </tr>
 </table>
