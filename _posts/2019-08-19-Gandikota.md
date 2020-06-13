@@ -26,8 +26,12 @@ August mid
     <td>Self-drive rental car from Drivezy</td>
 </tr>	
 <tr>
-    <td width="22%">Distance & Duration</td>
-    <td>~290 kms, ~7 hours either way</td>
+    <td width="22%">Distance</td>
+    <td>~290 kms one way</td>
+</tr>
+<tr>
+    <td width="22%">Duration</td>
+    <td>~7 hours one way</td>
 </tr>
 <tr>
     <td width="22%">Cost</td>
@@ -90,7 +94,7 @@ August mid
 
 <p align="center">
 <img src="Gandikota Pics/1.jpg" width="99.4%"><br><br>
-<img src="Gandikota Pics/4.jpg" width="51.4%"> <img src="Gandikota Pics/IMG_20190817_184554_1.jpg" width="47.4%">
+<img src="Gandikota Pics/4.jpg" width="52.4%"> <img src="Gandikota Pics/IMG_20190817_184554_1.jpg" width="46.4%">
 </p>
 
 - We decided to visit the Gandikota fort in the evening
@@ -101,7 +105,7 @@ August mid
 
 <p align="center">
 <img src="Gandikota Pics/6.jpg" width="81%"><br><br>
-<img src="Gandikota Pics/9.jpg" width="40%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" width="40%">
+<img src="Gandikota Pics/9.jpg" width="37%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" width="43%">
 </p>
 	
 - Late evening, we returned to the campsite
@@ -121,6 +125,7 @@ August mid
 
 <p align="center">
 <img src="Gandikota Pics/IMG_20190818_093923_1.jpg" alt="Hiking at Gandikota - Grand Canyon of India" width="99.4%">
+	People hiking down the canyon to the river
 </p>
 	
 - At the river, the person in-charge guided us to our kayak, gave instructions and with his gentle push, off we were on our 45 minutes excursion
@@ -156,7 +161,7 @@ August mid
 
 
 ## Tips and Resources
-- [Gandikota - History, Geography and Architecture] (https://en.wikipedia.org/wiki/Gandikota): On Wikipedia
+- [Gandikota - History, Geography and Architecture](https://en.wikipedia.org/wiki/Gandikota): On Wikipedia
 - If it's a busy weekend, it's best to reach a bit early so as to get a vacant tent
 - It's a good idea to carry some things to eat since all you get is fried rice at the campsite! There are only few small shops which serve some other cooked and packaged items
 - Carry the things you might need for camping (eg. toiletries)
