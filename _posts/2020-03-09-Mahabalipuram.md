@@ -17,7 +17,7 @@ March beginning
 
 ## To and From
 
-<table border="1" bordercolor="666666">
+<table style="width:100%">
 <tr>
     <td width="22%">Route</td>
     <td>Chennai - Mahabalipuram - Chennai</td>
