@@ -8,7 +8,7 @@ featured: true
 hidden: false
 ---
 
-Gandikota, popularly known as the Grand Canyon of India, is surprisingly not that popular! Its unique terrain makes it a one-of-a-kind place in India. This, clubbed with the amazing camping experience, make it a real hidden gem. Unless you have already been to the Grand Canyon in the USA, I would definitely recommend you to visit Gandikota. The more I heard or read about it, the more I wanted to go there, and finally in August'19, a friend and I planned a weekend trip to Gandikota.
+Gandikota, popularly known as the Grand Canyon of India, is surprisingly not that popular! Its unique terrain makes it a one-of-a-kind place in India. This, clubbed with the amazing camping experience, makes it a real hidden gem. Unless you have already been to the Grand Canyon in the USA, I would definitely recommend you to visit Gandikota. The more I heard or read about it, the more I wanted to go there, and finally in August'19, a friend and I planned a weekend trip to Gandikota.
 
 ## Duration and Time of Visit
 2 days, 1 night<br>
