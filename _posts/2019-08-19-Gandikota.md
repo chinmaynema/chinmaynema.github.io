@@ -65,7 +65,7 @@ August mid
 </table>
 
 <p align="center">
-<img src="Gandikota Pics/Gandikota - Best area.png" width="90%">
+<img src="Gandikota Pics/Gandikota - Best area.png" alt="Best area to stay in Gandikota - Grand Canyon of India" width="90%">
 </p>
 
 ## Itinerary
@@ -79,7 +79,7 @@ August mid
 	- It is a great drive, especially the last 2 hours or so - fast highways, negligible traffic, beautiful scenes. As a bonus, it was raining the day we went!
 
 <p align="center">
-<img src="Gandikota Pics/5.jpg" width="90%">
+<img src="Gandikota Pics/5.jpg" alt="Sunflowers on the way to Gandikota - Grand Canyon of India" width="90%">
 </p>
 	
 - We reached the Haritha Resort in Gandikota (literally the only establishment in that area!) around 2:30pm
@@ -93,8 +93,8 @@ August mid
 	- We spent about 1 hour just exploring the space, the tent, the view - soaking it all in
 
 <p align="center">
-<img src="Gandikota Pics/1.jpg" width="99.4%"><br><br>
-<img src="Gandikota Pics/4.jpg" width="52.4%"> <img src="Gandikota Pics/IMG_20190817_184554_1.jpg" width="46.4%">
+<img src="Gandikota Pics/1.jpg" alt="View of the Gorge at Gandikota - Grand Canyon of India" width="99.4%"><br><br>
+<img src="Gandikota Pics/4.jpg" alt="View from the tent at Gandikota - Grand Canyon of India" width="52.4%"> <img src="Gandikota Pics/IMG_20190817_184554_1.jpg" alt="Tents at Gandikota - Grand Canyon of India" width="46.4%">
 </p>
 
 - We decided to visit the Gandikota fort in the evening
@@ -104,8 +104,8 @@ August mid
 	- We climbed a small wall at the Ranganathaswamy Temple, found a spot on the side-porch cut-off from public view and spent two peaceful hours watching the sun go down in front of us
 
 <p align="center">
-<img src="Gandikota Pics/6.jpg" width="81%"><br><br>
-<img src="Gandikota Pics/9.jpg" width="37.8%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" width="42.2%">
+<img src="Gandikota Pics/6.jpg" alt="Temple and Mosque at Gandikota Fort - Grand Canyon of India" width="81%"><br><br>
+<img src="Gandikota Pics/9.jpg" alt="A house made of stones at Gandikota - Grand Canyon of India" width="37.7%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" alt="A structure in Ranganathaswamy Temple at Gandikota Fort - Grand Canyon of India" width="42.3%">
 </p>
 	
 - Late evening, we returned to the campsite
@@ -113,7 +113,7 @@ August mid
 	- As a good compensation for that, the camp guys put several small bonfires all across the campsite, where people clustered together and sat till late into the night. We had one right in front of our tent
 
 <p align="center">
-<img src="Gandikota Pics/3.jpg" width="55%">
+<img src="Gandikota Pics/3.jpg" alt="Bonfire at campsite at Gandikota - Grand Canyon of India" width="55%">
 </p>
 
 **Day 2: Hiking - Kayaking - Mylavaram Dam**
@@ -133,8 +133,8 @@ August mid
 	- The water is quite still in that area, only a mild drift of the river, hence making the adventure very safe
 
 <p align="center">
-<img src="Gandikota Pics/2.jpg" width="99.4%"><br><br>
-<img src="Gandikota Pics/IMG_20190818_085649_1.jpg" width="49.4%"> <img src="Gandikota Pics/IMG_20190818_091415_1.jpg" width="49.4%">
+<img src="Gandikota Pics/2.jpg" alt="Kayaking at Gandikota - Grand Canyon of India" width="99.4%"><br><br>
+<img src="Gandikota Pics/IMG_20190818_085649_1.jpg" alt="Kayaking at Gandikota - Grand Canyon of India" width="49.4%"> <img src="Gandikota Pics/IMG_20190818_091415_1.jpg" alt="View from the kayak at Gandikota - Grand Canyon of India" width="49.4%">
 </p>
 	
 - Post kayaking, we hiked back up, stopping at some of the view points to rest and click pictures
@@ -143,7 +143,7 @@ August mid
 	- Being alone on a dam is one of the most amazing feelings: alone, in front of a vast water body, which is totally calm, held together by a wall of rock, on which you stand. I have had this opportunity some times now and always look forward to it
 
 <p align="center">
-<img src="Gandikota Pics/7.jpg" width="80%">
+<img src="Gandikota Pics/7.jpg" alt="Mylavaram Dam at Gandikota - Grand Canyon of India" width="80%">
 </p>
 
 - The roadtrip back was equally pleasing as the onward journey. But somehow return journeys always seem quicker...
