@@ -71,12 +71,11 @@ August mid
 ## Itinerary
 **Day 1: Roadtrip - Fort - Bonfire**
 
--	I collected the car early morning from the Drivezy Bellandur hub, picked up my friend from Whitefield and we dashed out of the city
-- Being a long drive, we made only few stops:
+- I collected the car early morning from the Drivezy Bellandur hub, picked up my friend from Whitefield and we dashed out of the city
+- It is a great drive, especially the last 2 hours or so - fast highways, negligible traffic, beautiful scenes. As a bonus, it was raining the day we went! Being a long drive, we made only few stops:
 	- An Udupi restaurant for a heavy South Indian breakfast
 	- A gorgeous field of sunflowers
 	- 5 minutes on the roadside, for my friend to puke once(!)
-	- It is a great drive, especially the last 2 hours or so - fast highways, negligible traffic, beautiful scenes. As a bonus, it was raining the day we went!
 
 <p align="center">
 <img src="Gandikota Pics/5.jpg" alt="Sunflowers on the way to Gandikota - Grand Canyon of India" width="90%">
