@@ -79,7 +79,7 @@ August mid
 	- It is a great drive, especially the last 2 hours or so - fast highways, negligible traffic, beautiful scenes. As a bonus, it was raining the day we went!
 
 <p align="center">
-<img src="Gandikota Pics/5.jpg" width="100%">
+<img src="Gandikota Pics/5.jpg" width="90%">
 </p>
 	
 - We reached the Haritha Resort in Gandikota (literally the only establishment in that area!) around 2:30pm
@@ -105,7 +105,7 @@ August mid
 
 <p align="center">
 <img src="Gandikota Pics/6.jpg" width="81%"><br><br>
-<img src="Gandikota Pics/9.jpg" width="37%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" width="43%">
+<img src="Gandikota Pics/9.jpg" width="38%"> <img src="Gandikota Pics/IMG_20190817_163344_1.jpg" width="42%">
 </p>
 	
 - Late evening, we returned to the campsite
