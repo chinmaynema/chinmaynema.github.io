@@ -27,17 +27,22 @@ December beginning
     <td>Self-drive rental car from Drivezy</td>
 </tr>	
 <tr>
+    <td>Distance</td>
+    <td>Bangalore - Ramanagara: 65 kms one way<br>
+    Ramanagara - Kanva Dam: 16 kms</td>
+</tr>
+<tr>
     <td>Duration</td>
     <td>Bangalore - Ramanagara: 1.5 hours either way<br>
     Ramanagara - Kanva Dam: 30 minutes</td>
-</tr>
+</tr>	
 <tr>
     <td>Cost</td>
     <td>Rs. 2,200 (including fuel)</td>
 </tr>
 <tr>
     <td>Other options</td>
-    <td>Train: There are several trains from SBC<br>Bus: <br>Cab: You can rent a cab for the day</td>
+    <td>Train: There are several trains from SBC<br>Bus: Regular connectivity<br>Cab: You can rent a cab for the day</td>
 </tr>
 </table>
 
