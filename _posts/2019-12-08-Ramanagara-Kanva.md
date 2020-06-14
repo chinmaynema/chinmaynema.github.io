@@ -57,7 +57,7 @@ December beginning
 	- The route is dotted with tiny temples every 10 minutes or so
 
 <p align="center">
-<img src="Ramanagara-Kanva Pics/IMG_20191208_112358_1.jpg" width="60%">
+<img src="Ramanagara-Kanva Pics/IMG_20191208_112358_1.jpg" alt="Shiva Temple in Ramadevarabetta Vulture Sanctuary (Ramanagara)" width="60%">
 </p>
 
 - Around the midway, comes the biggest and the most famous temple of Lord Ram in the area
@@ -65,8 +65,8 @@ December beginning
 	- Beyond the temple, the path becomes a bit tedious and the view becomes a bit gorgeous
 
 <p align="center">
-<img src="Ramanagara-Kanva Pics/IMG_20191208_113030_1.jpg" width="90%"><br><br>
-<img src="Ramanagara-Kanva Pics/IMG_20191208_113300_1.jpg" width="50%">
+<img src="Ramanagara-Kanva Pics/IMG_20191208_113030_1.jpg" alt="Rocky hills in Ramadevarabetta Vulture Sanctuary (Ramanagara)" width="90%"><br><br>
+<img src="Ramanagara-Kanva Pics/IMG_20191208_113300_1.jpg" alt="Rocky steps in Ramadevarabetta Vulture Sanctuary (Ramanagara)" width="50%">
 </p>
 
 - For the final ascent, there is a small tricky stretch with steps cut into the rock, that may look a bit scary to some, but don't worry - there are hand rails along, and the rock is not slippery at all. This brings you to the summit!
@@ -74,7 +74,7 @@ December beginning
 	- These hills are very different from the usual ones we see or imagine, giving a very raw and badass feel to the place - exactly like Sholay!
 	- You can spot vultures from the top: There are two varieties of vultures in these areas: Egyptian and Indian. I was lucky to bump into a birdwatching enthusiast, who lent me his binoculars
 <p align="center">
-<img src="Ramanagara-Kanva Pics/IMG_20191208_115407_1.jpg" width="35.2%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_120836_1.jpg" width="63.2%">
+<img src="Ramanagara-Kanva Pics/IMG_20191208_115407_1.jpg" alt="Steps cut into a rock in Ramadevarabetta Vulture Sanctuary (Ramanagara)" width="35.2%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_120836_1.jpg" alt="View from the top at Ramadevarabetta Vulture Sanctuary (Ramanagara)" width="63.2%">
 </p>
 - I took a round of the small hill top to check out the views from all angles and finally chose a spot I liked
 	- I switched on my speakers, took out my Kindle, and I was in my zone :)
@@ -82,7 +82,7 @@ December beginning
 	- I spent about 4 hours there, seeing the weather change from harsh sunshine to cloudy / breezy to drizzling
 	- That's when I accepted it was time to go back - not a good idea to get stuck alone in the rain, that too on a hill, even though I did have an umbrella
 <p align="center">
-<img src="Ramanagara-Kanva Pics/IMG_20191208_132158_1.jpg" width="90%">
+<img src="Ramanagara-Kanva Pics/IMG_20191208_132158_1.jpg" alt="At the top in Ramadevarabetta Vulture Sanctuary (Ramanagara)" width="90%">
 </p>
 - I managed to reach the bottom in about 15 minutes, but by now, it had stopped raining - so I decided to go to the closeby Kanva Dam!
 
@@ -101,9 +101,9 @@ December beginning
 	- Again, I chose a good spot and took out my kit - speakers and Kindle
 	- I got a guest in some time, in the form of a vulture, who came and sat on the light pole next to me - keeping me busy photographing it for a good 15 minutes
 <p align="center">
-<img src="Ramanagara-Kanva Pics/IMG_20191208_160746_1.jpg" width="99.5%"><br><br>
-<img src="Ramanagara-Kanva Pics/IMG_20191208_152703_1.jpg" width="99.5%"><br><br>
-<img src="Ramanagara-Kanva Pics/IMG_20191208_150020_1.jpg" width="35.7%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_163306_1.jpg" width="63.1%">
+<img src="Ramanagara-Kanva Pics/IMG_20191208_160746_1.jpg" alt="On Kanva Dam and Reservoir (Ramanagara)" width="99.5%"><br><br>
+<img src="Ramanagara-Kanva Pics/IMG_20191208_152703_1.jpg" alt="View behind Kanva Dam and Reservoir (Ramanagara)" width="99.5%"><br><br>
+<img src="Ramanagara-Kanva Pics/IMG_20191208_150020_1.jpg" alt="Kanva Dam and Reservoir (Ramanagara)" width="35.7%"> <img src="Ramanagara-Kanva Pics/IMG_20191208_163306_1.jpg" alt="View behind Kanva Dam and Reservoir (Ramanagara)" width="63.1%">
 </p>
 - After about an hour there, I got up to drive back to Bangalore, in time to hand back my car
 
