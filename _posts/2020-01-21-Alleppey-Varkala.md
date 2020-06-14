@@ -28,6 +28,13 @@ Cab: Kochi - Alleppey - Varkala - Kochi
 </td>
 </tr>	
 <tr>
+    <td width="22%">Distance</td>
+    <td>Kochi - Alleppey: 85 kms<br>
+Alleppey - Varkala: 125 kms<br>
+Varkala - Kochi: 200 kms
+</td>
+</tr>
+<tr>
     <td width="22%">Duration</td>
     <td>Bangalore - Kochi (Flight): 1.5 hours<br>
 Kochi - Alleppey (Cab): 2 hours<br>
