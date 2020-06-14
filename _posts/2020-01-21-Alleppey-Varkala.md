@@ -8,7 +8,7 @@ featured: true
 hidden: false
 ---
 
-For our wing reunion from undergrad, the six of us wanted to go to a leisurely place, where we spend more time together rather than at parties. So Goa was out (:P)! We also wanted a place with good connectivity so that all of us could be back to work via a morning flight. So most hill stations were out. And a place which had enough attractions for us to last 3 days. Kerala was definitely a strong contender, and we finally chose Alleppey - Varkala. And we were not disappointed!
+For our wing reunion from undergrad, the six of us wanted to go to a leisurely place, where we can spend more time together rather than at parties. Hence Goa was out (:P)! We also wanted a place with good connectivity so that all of us could be back to work via a morning flight. So most hill stations were out. And a place which had enough attractions for us to last 3 days. Kerala was definitely a strong contender, and we finally chose Alleppey - Varkala. And we were not disappointed!
 
 ## Duration and Time of Visit
 3 days, 3 nights<br>
@@ -97,7 +97,7 @@ Varkala
 	- The road was good, but the weather and landscape not particularly exciting
 -	We couldn’t wait to be on the houseboat, and needless to say, went directly to it
 	-	It was a beautiful boat, simple yet elegant. It had two bedrooms with attached washrooms, an upper deck, a glass-enclosed lower deck, a captain and a cook!
-	-	<u>Tip:</u> I think it’s best to pre-book a houseboat, especially during the busy season. At the bottom, I have shared a list of things to look out for while choosing a houseboat
+	-	<u>Tip:</u> I think it’s best to pre-book a houseboat, especially during the busy season. Towards the end, I have shared a list of things to look out for while choosing a houseboat
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200118_150533_1.jpg" alt="Houseboat in Vembanad Lake in Alleppey (Alappuzha)" width="55%">
 </p>
@@ -128,7 +128,7 @@ Varkala
 **Day 2: Last boat ride, Varkala beach and cafes**
 
 -	When at such locations, I try to get up early to experience the glory of the wee hours
-	-	Being on the west coast, the actual sunrise was not the attraction, but morning still has its own charm
+	-	Being on the west coast, the actual sunrise was not the attraction, but mornings still have their own charm
 -	We had one last excursion of ~1.5 hours planned, in yet another direction in the lake. That brought us to the end of this one of its kind experience
 -	We quickly packed up and were on our way to Varkala
 	-	The coastline was beyond imagination - magnificent yet empty beaches. We stopped at multiple spots to just hang around for a while, click pictures and soak it in
@@ -181,7 +181,7 @@ Varkala
 <img src="Alleppey-Varkala Pics/IMG_20200120_151203_1.jpg" alt="Beautiful Odayam Beach, Varkala" width="70%">
 </p>
 -	In the afternoon, we did a quick tour of Jatayu Earth’s Centre, which is about 30kms (50 minutes) far
-	-	It is a magnificent structure atop a hill, reachable via a cable car, feeling like an oasis in the middle of nowhere
+	-	It is a magnificent structure atop a hill, reachable via a cable car
 	-	The grandeur and the history associated with it left everyone spellbound, besides seeing how beautifully it has been maintained
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20190804_173037_1.jpg" alt="Jatayu Earth's Centre, Varkala" width="70%">
