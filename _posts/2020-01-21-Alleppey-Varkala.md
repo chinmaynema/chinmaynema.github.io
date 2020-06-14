@@ -224,3 +224,4 @@ Varkala:
 	-	Boat rules
 	-	Docking location
 -	<u>Alternate route:</u> A better route for us would have been to land at Kochi, go to Alleppey, then Varkala and finally catch a flight from Thiruvananthapuram, which is just 1.5 hours from Varkala by road
+- Since we were short on time, we decided to spend only one day in Alleppey. On hindsight, I think it was a good decision as there is not much to do in Alleppey, especially for a bunch of college friends. You can also plan keeping this in mind
