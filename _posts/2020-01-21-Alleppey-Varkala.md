@@ -192,16 +192,15 @@ Varkala
 
 Alleppey:
 
--	Alappuzha / Marari beach and the Lighthouse
--	Beaches: Pozhiyoram, Thumpoly, Punnapra
--	Kuttanad (low altitude farming)
+Since we had only one day, a friend who is from Alleppey suggested we do just the houseboat as the rest of the things were not that great. Still, sharing the list if you have time:
+-	Beaches: Alappuzha / Marari beach and the Lighthouse, Pozhiyoram, Thumpoly, Punnapra
+-	Kuttanad (low altitude farming): This is one place I wanted to see but it was a little off-course
 -	Elephant Training Camp
--	Revi Karunakaran Museum (Crystal Musuem)
--	International Coir Museum
+-	Museums: Revi Karunakaran Museum (Crystal Musuem), International Coir Museum
 -	Temples and Churches: Ambalapuzha Krishna Temple, Nagaraja Temple, Chettikulangara Bhagavathy Temple, St Mary’s Church, St Andrew’s Florence Forance Church, Latin Catholic Church  
 
 Varkala:
--	Ponnumthuruthu Island
+-	Ponnumthuruthu Island: This 
 -	Varkala Culture Center
 -	Varkala Aquarium
 -	Anjengo Fort And Lighthouse
