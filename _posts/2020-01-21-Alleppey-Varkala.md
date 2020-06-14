@@ -48,6 +48,12 @@ Varkala - Kochi (Cab): 5 hours
 Cab: Hired full-time for 3 days for Rs. 12K
 </td>
 </tr>
+<tr>
+    <td width="22%">Other Options</td>
+    <td>Alleppey: Bus connections from major cities; Railway station at Alleppey<br>
+Varkala: Bus connections from major cities; Railway station at Varkala; Thiruvananthapuram is the nearest major city
+</td>
+</tr>
 </table>
 
 ## Stay
@@ -204,7 +210,7 @@ Varkala:
 -	Varkala Culture Center
 -	Varkala Aquarium
 -	Anjengo Fort And Lighthouse
--	Janardhana Swami Temple
+-	Janardhana Swami Temple: a very prominent temple of Sounth India
 
 ## Major Expenses
 -	Flight: Rs. 5,000 (per person)
@@ -223,5 +229,5 @@ Varkala:
 	-	Food served as per your preference (esp. veg / non-veg)
 	-	Boat rules
 	-	Docking location
--	<u>Alternate route:</u> A better route for us would have been to land at Kochi, go to Alleppey, then Varkala and finally catch a flight from Thiruvananthapuram, which is just 1.5 hours from Varkala by road
+-	Alternate route: A better route for us would have been to land at Kochi, go to Alleppey, then Varkala and finally catch a flight from Thiruvananthapuram, which is just 1.5 hours from Varkala by road
 - Since we were short on time, we decided to spend only one day in Alleppey. On hindsight, I think it was a good decision as there is not much to do in Alleppey, especially for a bunch of college friends. You can also plan keeping this in mind
