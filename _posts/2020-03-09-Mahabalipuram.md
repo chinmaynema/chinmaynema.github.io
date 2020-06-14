@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Mahabalipuram (3 days, 2 nights | Solo)
-tags: [solo, beach, chill, archaeology, history]
+tags: [beach, chill, archaeology, history, solo]
 featured_image_thumbnail: Mahabalipuram Temples
 featured_image: assets/images/posts/mahabalipuram/Mahabalipuram Cover.jpg
 featured: true
 hidden: false
 ---
 
-Courtesy a visa interview, I found myself in Chennai on a Friday morning (why they don’t have a visa centre in Bangalore, beats me!), leaving the rest of the day, plus the weekend for myself. I had to be back home by Sunday night, and hence could not travel very far. Mahabalipuram was an obvious choice - it’s ideally located 1.5 hours from Chennai, is a UNESCO World Heritage site, plus has vibrant beach cafes. I needed no other reasons to head to Mahabalipuram, though I did end up discovering more!
+Courtesy a visa interview, I found myself in Chennai on a Friday morning (why they don’t have a visa centre in Bangalore, beats me!), leaving the rest of the day, plus the weekend for myself. I had to be back home by Sunday night, and hence could not travel very far. Mahabalipuram (also called Mamallapuram) was an obvious choice - it’s ideally located 1.5 hours from Chennai, is a UNESCO World Heritage site, plus has vibrant beach cafes. I needed no other reasons to head to Mahabalipuram, though I did end up discovering more!
 
 ## Duration and Time of Visit
 
@@ -27,12 +27,20 @@ March beginning
     <td>Cab</td>
 </tr>	
 <tr>
+    <td width="22%">Distance</td>
+    <td>60 kms one way</td>
+</tr>
+<tr>
     <td width="22%">Duration</td>
-    <td>1.5 hours either way</td>
+    <td>1.5 hours one way</td>
 </tr>
 <tr>
     <td width="22%">Cost</td>
     <td>~Rs. 850 one way</td>
+</tr>
+<tr>
+    <td width="22%">Other Options</td>
+    <td>Bus: regular connectivity<br>Rail: nearest station is Chengalpattu Junction (29 kms)</td>
 </tr>
 </table>
 
@@ -60,7 +68,7 @@ Ola Outstation and Uber Intercity are easily available from Chennai to Mahabalip
 </table>
 
 <p align="center">
-<img src="Mahabalipuram Pics/Mahabalipuram - Best area.png" width="90%">
+<img src="Mahabalipuram Pics/Mahabalipuram - Best area.png" alt="Best area to stay in Mahabalipuram (Mamallapuram)" width="90%">
 </p>
 
 Whenever I travel solo, I prefer not to book a hotel beforehand so that I can explore the area first and find the most suited one, keeping in mind:  
@@ -77,7 +85,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 - I checked-in to my hotel around 1 pm  
 	-	Being March, the Sun was unforgiving, and tired from all the hotel visits, the first thing I did was to take a shower!  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200306_150923_1.jpg" width="45%">
+<img src="Mahabalipuram Pics/IMG_20200306_150923_1.jpg" alt="Rooftop cafe in Mahabalipuram (Mamallapuram)" width="45%">
 </p>
 - I headed straight to the rooftop cafe, ordered pasta and some drinks and spent the afternoon with a book and some solemn music  
 	-	A beautiful sea, a sparse beach (being a Friday), soothing wind, a pretty cafe, an intellectually stimulating book and slow music. What more could I have asked for!  
@@ -88,7 +96,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	It’s a beautiful property. They have a gorgeous restaurant by the beach (which is ~0.5 kms from the entrance! Hence they have golf carts to ferry people)  
 	-	I spent about 5 hours there, again in the company of my book and some good African music, slowly eating a delicious vegetarian Lasagna and sipping my drink  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200306_194457_1.jpg" width="60%">
+<img src="Mahabalipuram Pics/IMG_20200306_194457_1.jpg" alt="Dinner at seaside restaurant at Radison, Mahabalipuram (Mamallapuram)" width="60%">
 </p>
 -	I walked back, all set for the sunrise the next day
 
@@ -96,7 +104,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 
 -	The Sun rises at ~5:45 am in Mahabalipuram in March beginning. I got up in time to see it rise through my window. Luckily, the sky was kind enough to be clear that day  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200307_101755_1.jpg" width="60%">
+<img src="Mahabalipuram Pics/IMG_20200307_101755_1.jpg" alt="Sunrise from the window in Mahabalipuram (Mamallapuram)" width="60%">
 </p>
 -	When I finally woke up for good, I was starving. Sri Anand Bhavan happened to be close-by and a recommended restaurant for a heavy vegetarian meal  
 -	Around 1 pm, I headed to the main attraction of Mahabalipuram - the famous archaeological monuments  
@@ -113,10 +121,10 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	I entered from Krishna’s Butterball side and exited from the Lighthouse side, which is closer to the second complex  
 	-	There are several excavated temples and structures, and thankfully, direction-signs to guide you  
 	-	<u>Tip:</u> But still, I felt the need to follow Google Maps, so as to not miss any site. For eg. Arjuna’s Penance and Krishna Mandapa are accessible from the road outside and not from within the complex  
-	-	Highlights: I liked Krishna’s Butterball, Arjuna’s Penance, Mahishasuramardini and Krishna Mandapa the most - the former for its magnificence, the latter three for their intricate details  
+	-	Highlights: I liked Krishna’s Butterball, Arjuna’s Penance, Mahishasuramardini and Krishna Mandapam the most - the former for its magnificence, the latter three for their intricate details  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" width="99.4%"> <br> <br>
-<img src="Mahabalipuram Pics/IMG_20200307_144742_1.jpg" width="35.7%"> <img src="Mahabalipuram Pics/IMG_20200307_150304_1.jpg" width="63.1%">
+<img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" alt="Arjuna's Penance in Mahabalipuram (Mamallapuram)" width="99.4%"> <br> <br>
+<img src="Mahabalipuram Pics/IMG_20200307_144742_1.jpg" alt="Lighthouse in Mahabalipuram (Mamallapuram)" width="35.7%"> <img src="Mahabalipuram Pics/IMG_20200307_150304_1.jpg" alt="Krishna Mandapam in Mahabalipuram (Mamallapuram) " width="63.1%">
 </p> 
 -	Pancha Rathas (20 minutes):  
 	-	This is about 800 m away from the Lighthouse exit of the first complex  
@@ -126,7 +134,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	It’s a beautiful temple complex with lawns around it and the sea in front of it  
 	-	I stayed here till the sunset  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200307_155919_1.jpg" width="100%">
+<img src="Mahabalipuram Pics/IMG_20200307_155919_1.jpg" alt="Shore Temple in Mahabalipuram (Mamallapuram)" width="100%">
 </p> 
 *(For more information about the monuments, you can refer to the links posted at the end)*
 -	On my way back, I unwound at a Kerala massage centre  
@@ -141,17 +149,17 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	I walked for about 1.5 kms, seeing on the way, other tourists calmly walking along, happy kids playing in the water, some locals catching fish / shells, beautiful resorts and a dead turtle washed ashore, all the while listening to soothing music  
 	-	People ask me what I like about solo trips. I don’t think these trips provide me a gateway for introspection particularly; just being with oneself in the present and figuring out things on one’s own is surprisingly refreshing.  
 <p align="center">
-<img src="Mahabalipuram Pics/IMG_20200308_070932_1.jpg" width="99.4%"> <br> <br>
-<img src="Mahabalipuram Pics/IMG_20200308_095610_1.jpg" width="49.4%"> <img src="Mahabalipuram Pics/IMG_20200308_093435_1.jpg" width="49.4%"> <br> <br>
-<img src="Mahabalipuram Pics/IMG_20200308_103015_1.jpg" width="99.4%">
+<img src="Mahabalipuram Pics/IMG_20200308_070932_1.jpg" alt="Mahabalipuram Beach in the morning (Mamallapuram)" width="99.4%"> <br> <br>
+<img src="Mahabalipuram Pics/IMG_20200308_095610_1.jpg" alt="Mahabalipuram Beach in the morning (Mamallapuram)" width="49.4%"> <img src="Mahabalipuram Pics/IMG_20200308_093435_1.jpg" alt="Mahabalipuram Beach in the morning (Mamallapuram)" width="49.4%"> <br> <br>
+<img src="Mahabalipuram Pics/IMG_20200308_103015_1.jpg" alt="Mahabalipuram Beach in the morning (Mamallapuram)" width="99.4%">
 </p>
 -	Post that, I spent the rest of the morning at the rooftop cafe, till ~1 pm, when I took a cab to Chennai (Ola / Uber to the rescue again)  
 
 ## Other Things To Do (that I didn’t)
--	Crocodile Farm
--	Tiger Cave
--	India Seashell Museum
--	Surfing
+- Tiger Cave: This could be worth visiting, but since it is situated away from all other monuments, I didn't want to go all the way only for this
+- Crocodile Farm	
+- India Seashell Museum
+- Surfing
 
 ## Major Expenses
 -	Travel by Cab: Rs. 850 X 2 = Rs. 1,700
