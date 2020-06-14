@@ -34,7 +34,7 @@ post_class: post-template
             {% endif %}
             <div class="post-content">
                 {{content}}
-            </div>
+            </div><br>
             <footer class="post-footer">
                 <div class="post-share">
                     <span class="post-share-title">Share:</span>
@@ -42,7 +42,7 @@ post_class: post-template
                     <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}">Facebook</a>
                 </div><!-- .share-post -->
             </footer>
-            <br><br><div class="fb-comments" data-href="http://onetriptoanother.com/" data-numposts="10" data-width=""></div>
+            <br><div class="fb-comments" data-href="http://onetriptoanother.com/" data-numposts="10" data-width=""></div>
             {% include disqus.html %}
         </article>
         {% if site.mailchimp_url %}
