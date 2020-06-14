@@ -119,4 +119,4 @@ December beginning
 - It can be very sunny and since there are only few trees, it's best to wear a cap, apply sunscreen and carry sufficient water
 - Do carry an umbrella, especially during the monsoon or extreme sunshine
 - [Ramadevarabetta Vulture Sanctuary](https://www.conservationindia.org/case-studies/case-study-declaration-of-a-vulture-sanctuary-in-karnataka): Background of the setup of Ramadevarabetta Vulture Sanctuary
-- [Locatoins from Sholay](https://culturebowl.com/ramanagara/): Showing the popular spots, for the Sholay fans
+- [Locatoins from Sholay](https://culturebowl.com/ramanagara/): Showing the popular spots, for Sholay fans
