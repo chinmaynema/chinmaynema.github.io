@@ -74,9 +74,9 @@ Varkala: On the North Cliff
 </table>
 
 <p align="center">
-<img src="Alleppey-Varkala Pics/Alleppey - Best area.png" width="90%"><br>
+<img src="Alleppey-Varkala Pics/Alleppey - Best area.png" alt="Best area to stay in Alleppey" width="90%"><br>
 Alleppey<br><br>
-<img src="Alleppey-Varkala Pics/Varkala - Best area.png" width="90%"><br>
+<img src="Alleppey-Varkala Pics/Varkala - Best area.png" alt="Best area to stay in Varkala" width="90%"><br>
 Varkala
 </p>
 
@@ -200,7 +200,7 @@ Since we had only one day, a friend who is from Alleppey suggested we do just th
 -	Temples and Churches: Ambalapuzha Krishna Temple, Nagaraja Temple, Chettikulangara Bhagavathy Temple, St Mary’s Church, St Andrew’s Florence Forance Church, Latin Catholic Church  
 
 Varkala:
--	Ponnumthuruthu Island: This 
+-	Ponnumthuruthu Island: I would have loved to visit this beautiful island
 -	Varkala Culture Center
 -	Varkala Aquarium
 -	Anjengo Fort And Lighthouse
