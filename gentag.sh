@@ -1,6 +1,8 @@
+#!/bin/bash
+set -e
 git pull -r
-bundle exec jekyll serve -B
 rm -rf tag
+bundle exec jekyll serve -B
 cp -r _site/tag .
 find tag/ -name \*.html -exec sed -i '' -e "s/localhost:4000/onetriptoanother.com/g" {} \;
 git add .
