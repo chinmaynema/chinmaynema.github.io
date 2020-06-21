@@ -66,7 +66,7 @@ December beginning
 </p>
 
 - Around the midway, comes the biggest and the most famous temple of Lord Ram in the area
-	- Its a lively place, with some crowd around, sermons playing on speakers, prasad being served
+	- It's a lively place, with some crowd around, sermons playing on speakers, prasad being served
 	- Beyond the temple, the path becomes a bit tedious and the view becomes a bit gorgeous
 
 <p align="center">
