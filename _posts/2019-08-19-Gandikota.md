@@ -119,7 +119,7 @@ August mid
 
 - It wasn't a clear sunrise, but the play of colours against the canyons and the river still made the morning mesmerising
 - Post breakfast (again from Haritha!), we started off on the hike from the top of the canyon to the river at the bottom, where we were supposed to do kayaking
-	- It's a long but easy hike of about 30 minutes - from kids to elders, everyone was doing it, with verying levels of fatigue. Only towards the end do you need to take support of your hands. Also, there are many other people doing it with you, hence that keeps you going
+	- It's a long but easy hike of about 30 minutes - from kids to elders, everyone was doing it, with varying levels of fatigue. Only towards the end do you need to take support of your hands. Also, there are many other people doing it with you, hence that keeps you going
 	- The views along the route are amazing - looking from different angles at the rugged landmasses rising from the river and the vegetation on them
 
 <p align="center">
