@@ -1,6 +1,5 @@
 #!/bin/bash
 set -e
-pkill -f jekyll
 git pull -r
 rm -rf tag
 bundle exec jekyll serve -B
