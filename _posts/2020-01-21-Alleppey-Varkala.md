@@ -91,12 +91,12 @@ Varkala
 <p align="center">
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ar6WuoiWGjKD2T8hNDSqcxAA7DB7z8V4" width="640" height="480"></iframe></p>
 
-**Day 1: Houseboat tour and stay**
+<span style="color: #000000">**Day 1: Houseboat tour and stay**</span>
 
--	All of us landed in Kochi early morning, around 8 am
+-	All of us landed in **Kochi** early morning, around 8 am
 -	We grabbed a quick bite and booked an Ola Outstation to Alleppey
 	- The road was good, but the weather and landscape not particularly exciting
--	We couldn’t wait to be on the houseboat, and needless to say, went directly to it
+-	We couldn’t wait to be on the houseboat, and needless to say, went directly to it, at the **Punnamada Jetty**
 	-	It was a beautiful boat, simple yet elegant. It had two bedrooms with attached washrooms, an upper deck, a glass-enclosed lower deck, a captain and a cook!
 	-	<u>Tip:</u> I think it’s best to pre-book a houseboat, especially during the busy season. Towards the end, I have shared a list of things to look out for while choosing a houseboat
 <p align="center">
@@ -126,7 +126,7 @@ Varkala
 <img src="Alleppey-Varkala Pics/IMG_20200118_190857_1.jpg" alt="Interior of a houseboat in Vembanad Lake in Alleppey (Alappuzha)" width="55%">
 </p>
 
-**Day 2: Last boat ride, Varkala beach and cafes**
+<span style="color: #000000">**Day 2: Last boat ride, Varkala beach and cafes**</span>
 
 -	When at such locations, I try to get up early to experience the glory of the wee hours
 	-	Being on the west coast, the actual sunrise was not the attraction, but mornings still have their own charm
@@ -136,14 +136,14 @@ Varkala
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200119_123541_1.jpg" alt="Beach on the way to Varkala, Kerala" width="70%">
 </p>
--	Just before Varkala, there is Kappil Beach, which has sea on the right side, a backwater lake on the left, and lush green all around. We had to stop there!
+-	Just before Varkala, there is **Kappil Beach**, which has sea on the right side, a backwater lake on the left, and lush green all around. We had to stop there!
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200119_130351_1.jpg" alt="Kappil Beach, Varkala, Kerala" width="35.6%"> <img src="Alleppey-Varkala Pics/IMG_20200119_130209_1.jpg" alt="Kappil Beach, Varkala, Kerala" width="63.2%">
 </p>
--	On reaching Varkala, we checked-in to Zostel first, freshened up and headed out for lunch
+-	On reaching Varkala, we checked-in to **Zostel** first, freshened up and headed out for lunch
 	-	Zostel has a beautiful place, with amazing artwork done across. It was very well maintained, with a hospitable staff. But the place was a bit smaller than expected and also, a little off the main cliff area
 	-	The whole of the North Cliff is full of amazing cafes, with beautiful ambience, good menus, groovy music and good vibes
-	-	It was so hard to choose a place, but finally majority ruled for Caffé Italiano
+	-	It was so hard to choose a place, but finally majority ruled for **Caffé Italiano**
 	-	It is always a good idea to talk to the local people - you’d be surprised at what all interesting information they can share! Give it a shot – and maybe you can find what you are looking for
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200119_163807_1.jpg" alt="North Cliff, Varkala, Kerala" width="70%">
@@ -154,14 +154,14 @@ Varkala
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200119_182151_1.jpg" alt="Sunset at Varkala Beach" width="70%">
 </p>
--	We went back to Zostel, bathed and were back on the cliff to try out yet another place – Darjeeling Café this time
+-	We went back to Zostel, bathed and were back on the cliff to try out yet another place – **Darjeeling Café** this time
 	-	It is a very pretty place, with beautiful ambience, hip staff, peppy beats and delectable food
 -	We stayed till late and strolled back to our place
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200119_185707_1.jpg" alt="North Cliff at night in Varkala" width="70%">
 </p>
 
-**Day 3: Odayam Beach and Jatayu Earth’s Centre**
+<span style="color: #000000">**Day 3: Odayam Beach and Jatayu Earth’s Centre**</span>
 
 -	Staying true to my vacation ritual, I got up early and walked to the beach, with my Kindle and speakers, to see the sunrise and the morning charm from yet another angle
 	-	I didn’t walk far, just till the nearer end of the North Cliff, found a rocky slope and a niche to sit in
@@ -171,17 +171,17 @@ Varkala
 <img src="Alleppey-Varkala Pics/IMG_20200120_072149_1.jpg" alt="Sunrise in Varkala" width="63.3%"> <img src="Alleppey-Varkala Pics/IMG_20200120_090956_1.jpg" alt="Sunrise in Varkala" width="35.5%">
 </p>
 -	For breakfast, we went to the terrace café at Zostel and chilled there for some hours - soulful music, hammocks, reclining chairs and a gentle breeze
--	Then we left for the day and decided to go in the opposite direction this time - on Odayam Beach
+-	Then we left for the day and decided to go in the opposite direction this time - on **Odayam Beach**
 	-	It’s far more beautiful than its more popular neighbour, Varkala beach, and to our pleasant surprise, empty
 	-	We kept walking for a good half hour, stopping to take pictures or just hang around, till we reached the end
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200120_142018_1.jpg" alt="Beautiful Odayam Beach, Varkala" width="70%">
 </p>
--	We zeroed in on the beach restaurant of Blue Water resort, enjoying the scene, the café and the company, occasionally taking walks on the beach
+-	We zeroed in on the beach restaurant of **Blue Water resort**, enjoying the scene, the café and the company, occasionally taking walks on the beach
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200120_151203_1.jpg" alt="Beautiful Odayam Beach, Varkala" width="70%">
 </p>
--	In the afternoon, we did a quick tour of Jatayu Earth’s Centre, which is about 30kms (50 minutes) far
+-	In the afternoon, we did a quick tour of **Jatayu Earth’s Centre**, which is about 30kms (50 minutes) far
 	-	It is a magnificent structure atop a hill, reachable via a cable car
 	-	The grandeur and the history associated with it left everyone spellbound, besides seeing how beautifully it has been maintained
 <p align="center">
