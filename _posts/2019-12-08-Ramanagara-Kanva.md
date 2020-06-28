@@ -11,6 +11,8 @@ hidden: false
 
 Who wouldn't get excited on knowing that Sholay was shot just 60 kms away from Bangalore? We sure did! One fine weekend, my flatmate and I decided to go on a short, relaxed roadtrip to Ramanagara, where the famous hill on which Gabbar once sat is located. Only unfortunately, my friend wasn't feeling well on the day of the trip and had to bail out. I decided to march on.
 
+**Trek difficulty: Easy**
+
 ## Duration and Time of Visit
 
 1 day  
