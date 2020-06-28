@@ -70,7 +70,7 @@ August mid
 </p>
 
 ## Itinerary
-**Day 1: Roadtrip - Fort - Bonfire**
+<span style="color: #000000">**Day 1: Roadtrip - Fort - Bonfire**</span>
 
 - I collected the car early morning from the Drivezy Bellandur hub, picked up my friend from Whitefield and we dashed out of the city
 - It is a great drive, especially the last 2 hours or so - fast highways, negligible traffic, beautiful scenes. As a bonus, it was raining the day we went! Being a long drive, we made only few stops:
@@ -82,10 +82,10 @@ August mid
 <img src="Gandikota Pics/5.jpg" alt="Sunflowers on the way to Gandikota - Grand Canyon of India" width="90%">
 </p>
 	
-- We reached the Haritha Resort in Gandikota (literally the only establishment in that area!) around 2:30pm
+- We reached the **Haritha Resort** in Gandikota (literally the only establishment in that area!) around 2:30pm
 	- We were hoping to find a good restaurant at the resort, but were extremely disappointed to find only a canteen (similar to a college mess) which served only rice and curry. I think the only reason that place is surviving is because there is no other alternative for some kilometers at least!
 	- I was aware of the tent-stay option at Gandikota and enquired one of the staff members at the resort about it. He offered to connect us to the person, but himself negotiated the price with us - I think the staff members help generate leads for the tent companies and hence you can have a word with either of them. I think we got a pretty good deal - Rs. 900 per person per night, and Rs. 250 per person for kayaking!
-- On seeing the campsite, "blown away" would be an understatement for what we felt! It was better than anything we had imagined
+- On seeing the **campsite**, "blown away" would be an understatement for what we felt! It was better than anything we had imagined
 	- It was right at the edge of the cliff, next to the fort, atop the Pennar river
 	- There were some 50 tents pitched next to each other, all occupied
 	- The tents were spacious and of good quality; same was true for the sleeping bags provided
@@ -97,7 +97,7 @@ August mid
 <img src="Gandikota Pics/4.jpg" alt="View from the tent at Gandikota - Grand Canyon of India" width="52.4%"> <img src="Gandikota Pics/IMG_20190817_184554_1.jpg" alt="Tents at Gandikota - Grand Canyon of India" width="46.4%">
 </p>
 
-- We decided to visit the Gandikota fort in the evening
+- We decided to visit the **Gandikota Fort** in the evening
 	- Its a formerly grand, but currently dilapidated fort, with a long history and large footprint
 	- There are several buildings within the complex, all made of stone
 	- Highlights: I liked the architecture of Ranganathaswamy Temple, Mosque, Granary, especially the fact that the Temple and the Mosque were so close to each other
@@ -116,7 +116,7 @@ August mid
 <img src="Gandikota Pics/3.jpg" alt="Bonfire at campsite at Gandikota - Grand Canyon of India" width="55%">
 </p>
 
-**Day 2: Hiking - Kayaking - Mylavaram Dam**
+<span style="color: #000000">**Day 2: Hiking - Kayaking - Mylavaram Dam**</span>
 
 - It wasn't a clear sunrise, but the play of colours against the canyons and the river still made the morning mesmerising
 - Post breakfast (again from Haritha!), we started off on the hike from the top of the canyon to the river at the bottom, where we were supposed to do kayaking
@@ -138,7 +138,7 @@ August mid
 </p>
 	
 - Post kayaking, we hiked back up, stopping at some of the view points to rest and click pictures
-- On the way back, we first hit the Mylavaram Dam, less than 10 kms from the campsite
+- On the way back to Bangalore, we first hit the **Mylavaram Dam**, less than 10 kms from the campsite
 	- Its a huge reservoir on the same river, somehow not very popular, and hence empty
 	- Being alone on a dam is one of the most amazing feelings: alone, in front of a vast water body, which is totally calm, held together by a wall of rock, on which you stand. I have had this opportunity some times now and always look forward to it
 
