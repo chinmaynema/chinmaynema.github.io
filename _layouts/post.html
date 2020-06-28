@@ -16,7 +16,7 @@ post_class: post-template
                     <time class="post-date" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d,
                         %Y" }}</time>
                 </div><!-- .post-meta -->
-                <h1 class="post-title">{{ page.title }}</h1>
+                <h1 class="post-title">{{ page.heading }}</h1>
                 {% if page.tags.size > 0 %}
                 <div class="post-tags">
                     {% for tag in page.tags %} {% if forloop.index == page.tags.size %}
