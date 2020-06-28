@@ -8,6 +8,7 @@ class: 'tag-template'
 <main id="main" class="site-main">
     <div class="post-feed inner">
         <header class="page-header">
+            <title>{{ page.tag }}</title>
             <h1 class="page-title">{{ page.tag }}</h1>
             <p class="page-description">A collection of {{ paginator.total_posts }} {% if paginator.total_posts == 1 %}post{% else %}posts{% endif %}</p>
         </header>
