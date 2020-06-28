@@ -68,7 +68,7 @@ December beginning
 
 - Around the midway, comes the biggest and the most famous temple of Lord Ram in the area
 	- It's a lively place, with some crowd around, sermons playing on speakers, prasad being served
-	- Beyond the temple, the path becomes a bit tedious and the view becomes a bit gorgeous
+	- Beyond the temple, the path becomes a bit tedious and the view becomes gorgeous
 
 <p align="center">
 <img src="Ramanagara-Kanva Pics/IMG_20191208_113030_1.jpg" alt="Rocky hills in Ramadevarabetta Vulture Sanctuary (Ramanagara)" width="90%"><br><br>
