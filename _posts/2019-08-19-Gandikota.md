@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Gandikota (2 days, 1 night | 2 people)
+title: Gandikota - Detailed Itinerary, Things To Do and Tips
 tags: [hills, hiking, trekking, roadtrip, kayaking, archaeology, history]
 featured_image_thumbnail: Grand Canyon of India
 featured_image: assets/images/posts/gandikota/Gandikota Cover.jpg
+heading: Gandikota (2 days, 1 night | 2 people)
 featured: true
 hidden: false
 ---
