@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Ramanagara-Kanva Dam (1 day | Solo)
+title: Ramanagara-Kanva Dam - Detailed Itinerary, Things To Do and Tips
 tags: [hills, hiking, trekking, roadtrip, solo]
 featured_image_thumbnail: Ramadevara Betta Hill
 featured_image: assets/images/posts/ramanagara-kanva/Ramanagara Cover_3.jpg
+heading: Ramanagara-Kanva Dam (1 day | Solo)
 featured: false
 hidden: false
 ---
