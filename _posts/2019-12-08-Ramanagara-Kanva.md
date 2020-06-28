@@ -49,12 +49,12 @@ December beginning
 
 ## Itinerary
 
-**Ramanagara:**
+<span style="color: #000000">**Ramanagara:**</span>
 
 - I picked up my car from the Drivezy hub in Bellandur around 8 am, and dashed out of the town
 - I drove till the NICE Ring Road Toll Booth in a single shot and as is customary for all our road trips in that direction, stopped at the Udupi Gardenia right after that to have a good South Indian breakfast
 	- It is best to escape the traffic early morning and stop only after crossing the city boundaries
-- From there, I drove straight to the Ramadevarabetta Vulture Sanctuary in Ramanagara, where Sholay was shot
+- From there, I drove straight to the **Ramadevarabetta Vulture Sanctuary** in Ramanagara, where Sholay was shot
 	- I wasn't aware that this is the only vulture sanctuary in India, setup only recently in 2012
 	- In case you face any issues locating the sanctuary, look out for a huge statue of Lord Hanuman - that's the road to take
 	- There is an entry fee of Rs. 25 which includes parking
@@ -92,7 +92,7 @@ December beginning
 </p>
 - I managed to reach the bottom in about 15 minutes, but by now, it had stopped raining - so I decided to go to the closeby Kanva Dam!
 
-**Kanva Dam:**
+<span style="color: #000000">**Kanva Dam:**</span>
 
 - It took me about 30 minutes and about 5 direction-requests to reach the dam (somehow Google points you inside the reservoir!)
 	- It was a bit dampening to find out that the dam was closed to public and people could only look at it from a spot on the road
