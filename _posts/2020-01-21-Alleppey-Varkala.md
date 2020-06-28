@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Alleppey-Varkala - Detailed Itinerary, Things To Do and Tips
+title: Alleppey-Varkala - Detailed Itinerary, Things To Do, Tips
+heading: Alleppey-Varkala (3 days, 3 nights | 6 people)
 tags: [houseboat, kerala, beach, chill]
 featured_image_thumbnail: Houseboat in Alleppey
 featured_image: assets/images/posts/alleppey-varkala/Alleppey Cover.jpg
-heading: Alleppey-Varkala (3 days, 3 nights | 6 people)
 featured: true
 hidden: false
 ---
