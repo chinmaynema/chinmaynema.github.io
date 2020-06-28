@@ -81,9 +81,9 @@ Whenever I travel solo, I prefer not to book a hotel beforehand so that I can ex
 Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (at the Shore Temple) and went hotel-hopping on foot. I realised that the main part of Mahabalipuram Beach was extremely crowded, and hence went in the opposite direction (north). There were a couple of resorts (albeit shabby), costing ~Rs. 5K per room per night. Since I didn’t want to spend that much, I proceeded to the hotels next to them, found Seashore, Santana and Kalo’s to have decent rooms - and chose to stay at Seashore. It had a modest room (a little too modest to be frank!) with a beautiful sea-facing view and a rooftop cafe, costing Rs. 1.8K per night. If luxury is what you are looking for, you have Radisson, Welcome Group, Taj resorts as well, all further north.
 
 ## Itinerary
-**Day 1: Chilling at beach cafes; swimming**  
+<span style="color: #000000">**Day 1: Chilling at beach cafes; swimming**</span>
 
-- I checked-in to my hotel around 1 pm  
+- I checked-in to my hotel, **Seashore**, around 1 pm  
 	-	Being March, the Sun was unforgiving, and tired from all the hotel visits, the first thing I did was to take a shower!  
 <p align="center">
 <img src="Mahabalipuram Pics/IMG_20200306_150923_1.jpg" alt="Rooftop cafe in Mahabalipuram (Mamallapuram)" width="45%">
@@ -93,7 +93,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 	-	Here’s what more I could have asked for: less Sun and a prettier beach! It was a bit littered and had several fishing boats anchored haphazardly. That said, I think it was definitely better than most Indian beaches - the water was clean, sand not as dirty and crowd good (less in quantity, sensible in quality)  
 -	As the Sun set, I decided to go in for a swim  
 	-	I like to just lie in water - floating on the back, ears underwater, eyes shut. You are able to hear the water - the waves along with the tiny particles moving in the current - and it cancels the rest of the outside noise. This, plus the gentle pressure on the ears, is one of the most calming and meditative sensations I have experienced. Try this whenever you are next in water!  
--	Late evening, I went to Radisson for dinner  
+-	Late evening, I went to **Radisson** for dinner  
 	-	It’s a beautiful property. They have a gorgeous restaurant by the beach (which is ~0.5 kms from the entrance! Hence they have golf carts to ferry people)  
 	-	I spent about 5 hours there, again in the company of my book and some good African music, slowly eating a delicious vegetarian Lasagna and sipping my drink  
 <p align="center">
@@ -101,13 +101,13 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 </p>
 -	I walked back, all set for the sunrise the next day
 
-**Day 2: Exploring the monuments**  
+<span style="color: #000000">**Day 2: Exploring the monuments**</span>
 
 -	The Sun rises at ~5:45 am in Mahabalipuram in March beginning. I got up in time to see it rise through my window. Luckily, the sky was kind enough to be clear that day  
 <p align="center">
 <img src="Mahabalipuram Pics/IMG_20200307_101755_1.jpg" alt="Sunrise from the window in Mahabalipuram (Mamallapuram)" width="60%">
 </p>
--	When I finally woke up for good, I was starving. Sri Anand Bhavan happened to be close-by and a recommended restaurant for a heavy vegetarian meal  
+-	When I finally woke up for good, I was starving. **Sri Anand Bhavan** happened to be close-by and a recommended restaurant for a heavy vegetarian meal  
 -	Around 1 pm, I headed to the main attraction of Mahabalipuram - the famous archaeological monuments  
 	-	There are three separate complexes with some monuments within each  
 	-	A single ticket (Rs. 30 for Indians; Rs. 500 for foreigners) allows you entry to all three complexes  
@@ -118,7 +118,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 <u>Itinerary for the monument visit:</u>
 
 -	I planned to visit the largest complex first, then the Pancha Rathas and finally the Shore Temple, which is by the sea, hence offering a great view to relax after the tiring day  
--	Largest complex (1.5-2 hours):  
+-	**Largest complex** (1.5-2 hours):  
 	-	I entered from Krishna’s Butterball side and exited from the Lighthouse side, which is closer to the second complex  
 	-	There are several excavated temples and structures, and thankfully, direction-signs to guide you  
 	-	<u>Tip:</u> But still, I felt the need to follow Google Maps, so as to not miss any site. For eg. Arjuna’s Penance and Krishna Mandapa are accessible from the road outside and not from within the complex  
@@ -127,10 +127,10 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 <img src="Mahabalipuram Pics/IMG_20200307_141805_1.jpg" alt="Arjuna's Penance in Mahabalipuram (Mamallapuram)" width="99.4%"> <br> <br>
 <img src="Mahabalipuram Pics/IMG_20200307_144742_1.jpg" alt="Lighthouse in Mahabalipuram (Mamallapuram)" width="35.7%"> <img src="Mahabalipuram Pics/IMG_20200307_150304_1.jpg" alt="Krishna Mandapam in Mahabalipuram (Mamallapuram) " width="63.1%">
 </p> 
--	Pancha Rathas (20 minutes):  
+-	**Pancha Rathas** (20 minutes):  
 	-	This is about 800 m away from the Lighthouse exit of the first complex  
 	-	It has 5 beautiful chariots made out of rock, named after the five Pandavas  
--	Shore Temple (20 minutes):  
+-	**Shore Temple** (20 minutes):  
 	-	It’s about 1.5 kms from the Pancha Rathas - so I took an auto-rickshaw  
 	-	It’s a beautiful temple complex with lawns around it and the sea in front of it  
 	-	I stayed here till the sunset  
@@ -139,7 +139,7 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 </p> 
 *(For more information about the monuments, you can refer to the links posted at the end)*
 -	On my way back, I unwound at a Kerala massage centre  
--	Finally, I returned to the hotel, took a shower and headed to the beach cafe of Sea Breeze Resort for dinner, again with the same old company of my book  
+-	Finally, I returned to the hotel, took a shower and headed to the beach cafe of **Sea Breeze Resort** for dinner, again with the same old company of my book  
 	-	It was an average restaurant, with basic ambience, menu and service  
 	-	However, the weather and the view made up for everything else :)  
 
