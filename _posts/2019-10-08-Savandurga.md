@@ -46,7 +46,8 @@ October beginning
 </tr>
 </table>
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1t5n-z7OXuFdH1U9xQ-Mz5mPn_wp7L6Vp" width="640" height="480"></iframe>
+<p align="center">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1t5n-z7OXuFdH1U9xQ-Mz5mPn_wp7L6Vp" width="640" height="480"></iframe></p>
 
 ## Itinerary
 
