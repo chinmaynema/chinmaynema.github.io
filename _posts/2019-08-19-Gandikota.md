@@ -24,7 +24,7 @@ August mid
 </tr>
 <tr>
     <td width="22%">Mode</td>
-    <td>Self-drive rental car from Drivezy</td>
+    <td>Self-drive rental car</td>
 </tr>	
 <tr>
     <td width="22%">Distance</td>
@@ -149,7 +149,7 @@ August mid
 - The roadtrip back was equally pleasing as the onward journey. But somehow return journeys always seem quicker...
 
 ## Major Expenses
-- Car (including fuel): Rs. 10,900
+- Self-drive rental car (including fuel): Rs. 10,900
 - Tent (including 3 meals): Rs. 900 per person
 - Kayaking: Rs. 250 per person
 - Toll: Rs. 360
