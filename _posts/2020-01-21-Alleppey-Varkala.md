@@ -197,8 +197,7 @@ Varkala
 
 ## Other Things To Do (that we didn’t)
 
-Alleppey:
-
+Alleppey:<br>
 Since we had only one day, a friend who is from Alleppey suggested we do just the houseboat as the rest of the things were not that great. Still, sharing the list if you have time:
 -	Beaches: Alappuzha / Marari beach and the Lighthouse, Pozhiyoram, Thumpoly, Punnapra
 -	Kuttanad (low altitude farming): This is one place I wanted to see but it was a little off-course
@@ -206,7 +205,7 @@ Since we had only one day, a friend who is from Alleppey suggested we do just th
 -	Museums: Revi Karunakaran Museum (Crystal Musuem), International Coir Museum
 -	Temples and Churches: Ambalapuzha Krishna Temple, Nagaraja Temple, Chettikulangara Bhagavathy Temple, St Mary’s Church, St Andrew’s Florence Forance Church, Latin Catholic Church  
 
-Varkala:
+Varkala:<br>
 -	Ponnumthuruthu Island: I would have loved to visit this beautiful island
 -	Varkala Culture Center
 -	Varkala Aquarium
