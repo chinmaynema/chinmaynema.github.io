@@ -63,7 +63,7 @@ October beginning
 	- And finally, we reached the fort wall. These are the ruins of the fort built by Kempegowda II in the 16th century
 
 <p align="center">
-<img src="Savandurga Pics/IMG_20191008_124432_1.jpg" width="100%">
+<img src="Savandurga Pics/IMG_20191008_124432_1.jpg" width="90%">
 </p>
 	
 
@@ -77,7 +77,7 @@ October beginning
 	- So we spent a good 1.5 hours here, lying down under the structure and enjoying the view of the **Manchibele dam** and the reservoir at the foot of the massive boulder we were on, with many such hills filling up the landscape, albeit all smaller. I think this was the highlight of the trek for us, more than the peak
 
 <p align="center">
-<img src="Savandurga Pics/DSC_0049_1.jpg" width="100%">
+<img src="Savandurga Pics/DSC_0049_1.jpg" width="99.4%"><br><br>
 <img src="Savandurga Pics/DSC_0050_1.jpg" width="52%"> <img src="Savandurga Pics/IMG_20191008_131923_1.jpg" width="46.4%">
 </p>
 	
@@ -87,7 +87,7 @@ October beginning
 	- As soon as we reached the top, it started drizzling. We most definitely did not want to descend the already slippery hill during rainfall and hence, we started the journey down right away
 
 <p align="center">
-<img src="Savandurga Pics/DSC_0052_1.jpg" width="60%">
+<img src="Savandurga Pics/DSC_0052_1.jpg" width="70%">
 </p>
 
 - **Descent** (30 minutes)
@@ -95,7 +95,7 @@ October beginning
 	- Luckily we did not get much wet before reaching the car
 
 <p align="center">
-<img src="Savandurga Pics/IMG_20191008_161822_1.jpg" width="60%">
+<img src="Savandurga Pics/IMG_20191008_161822_1.jpg" width="50%">
 </p>
 
 - Without wasting a minute, and unfortunately, without visiting the temple, we left for Bangalore
