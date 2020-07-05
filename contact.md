@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+heading: Contact
 featured_image: /assets/images/pages/contact/Contact.jpg
 ---
     
