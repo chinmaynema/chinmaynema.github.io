@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-heading: Contact
+heading: Contact Chinmay - One Trip to Another
 featured_image: /assets/images/pages/contact/Contact.jpg
 ---
     
