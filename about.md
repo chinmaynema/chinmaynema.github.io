@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Chinmay - One Trip to Another
+heading: About
 featured_image: /assets/images/pages/about/About.jpg
 ---
 
