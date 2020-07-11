@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Savandurga - Detailed Itinerary and Tips
+title: Savandurga - Detailed Itinerary, Things To Do, Tips
 heading: Savandurga (1 day | 2 people)
 tags: [hills, hiking, trekking, roadtrip, Bangalore]
 featured_image_thumbnail: View from Savandurga
