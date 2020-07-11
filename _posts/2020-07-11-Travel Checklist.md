@@ -116,7 +116,7 @@ Always end up missing something or the other while travelling? I know that feeli
 </tr>
 </table>
 
-##Travel Stuff
+## Travel Stuff
 <table style="width:100%">
 <tr>
     <td width="50%"><input type="checkbox"> Suitcase, Backpack</td>
