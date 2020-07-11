@@ -2,7 +2,7 @@
 layout: post
 title: Exhaustive Travel Checklist: So You Don't Miss Anything
 heading: Travel Checklist: So You Don't Miss Anything
-tags:[tips]
+tags:[tips, travel]
 featured_image_thumbnail: Hogenakkal Falls - Niagara Falls of India
 featured_image: assets/images/posts/travelchecklist/Travel Checklist.jpg
 featured: false
