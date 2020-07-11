@@ -57,6 +57,12 @@ October beginning
 	- In terms of difficulty, I would rate the trek as moderate. There are some stretches where it becomes quite diffcult. But it is doable - may just take some extra time. The path is quite clearly marked with yellow arrows on the ground and electric poles all along
 	- The trek can be divided into four parts
 
+<p align="center">
+<img src="Savandurga Pics/Savandurga Hill.jpg" width="80%" alt="View of Savandurga Hill">
+</p>
+Source: MemExp Blog
+
+
 - **Till the first Fort wall** (25 minutes)
 	- The initial 10 minutes were quite easy with a defined and well-trodden trail
 	- But soon the path became steeper and slippery. Unfortunately, the day we went, it was quite sultry, making it all the more difficult, and hence we liberally took breaks in between
