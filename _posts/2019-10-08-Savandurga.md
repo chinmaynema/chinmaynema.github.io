@@ -75,6 +75,7 @@ October beginning
 <p align="center">
 <img src="Savandurga Pics/Steps-Savandurga.jpg" width="80%" alt="Difficult Trek on Steps at Savandurga">
 </p>
+Source: MemExp Blog
 
 
 - **Till the pond** (20 minutes)
