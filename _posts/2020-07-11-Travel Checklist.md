@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exhaustive Travel Checklist: So You Don't Miss Anything
-heading: Travel Checklist
+heading: Travel Checklist: So You Don't Miss Anything
 tags:[tips]
 featured_image_thumbnail: Hogenakkal Falls - Niagara Falls of India
 featured_image: assets/images/posts/travelchecklist/Travel Checklist.jpg
@@ -14,7 +14,7 @@ Always end up missing something or the other while travelling? I know that feeli
 - You can tick the items you have kept
 - For items that you don't need, you can click the "X" button next to the item to strike it out
 
-##Documents
+## Documents
 
 <table style="width:100%">
 <tr>
@@ -40,7 +40,7 @@ Always end up missing something or the other while travelling? I know that feeli
 </table>
 
 
-##Financial
+## Financial
 <table style="width:100%">
 <tr>
     <td width="50%"><input type="checkbox"> Cash - Local and Foreign</td>
@@ -52,7 +52,7 @@ Always end up missing something or the other while travelling? I know that feeli
 </tr>
 </table>
 
-##Clothing
+## Clothing
 <table style="width:100%">
 <tr>
     <td width="50%"><input type="checkbox"> Top Wear </td>
@@ -72,7 +72,7 @@ Always end up missing something or the other while travelling? I know that feeli
 </tr>
 </table>
 
-##Toiletries
+## Toiletries
 <table style="width:100%">
 <tr>
     <td width="50%"><input type="checkbox"> Toothbrush, Toothpaste, Floss </td>
@@ -100,7 +100,7 @@ Always end up missing something or the other while travelling? I know that feeli
 </tr>
 </table>
 
-##Appliances
+## Appliances
 <table style="width:100%">
 <tr>
     <td width="50%"><input type="checkbox"> Mobile + Charger</td>
@@ -156,7 +156,7 @@ Always end up missing something or the other while travelling? I know that feeli
 </tr>
 </table>
 
-##Health
+## Health
 <table style="width:100%">
 <tr>
     <td width="50%"><input type="checkbox"> Medications, Vitamins, Pain Reliever</td>
@@ -176,7 +176,7 @@ Always end up missing something or the other while travelling? I know that feeli
 </tr>
 </table>
 
-##General Tips
+## General Tips
 <table style="width:100%">
 <tr>
     <td width="50%"><input type="checkbox"> No Disllowed Items in Hand Baggage</td>
