@@ -72,6 +72,11 @@ October beginning
 	- The slope was mostly gentle in this stretch, except the last part, when we were just a stone's throw from the second Fort wall - there were steps cut into the rock at an inclination of ~60 degrees, for which most people had to bend down and climb on all fours
 	- It was a sense of achievement to reach the second Fort wall and look down
 
+<p align="center">
+<img src="Savandurga Pics/Steps-Savandurga.jpg" width="80%" alt="Difficult Trek on Steps at Savandurga">
+</p>
+
+
 - **Till the pond** (20 minutes)
 	- This stretch was quite easy, with broad steps to climb for most part of it. Additionally, the weather had also improved by now
 	- At the end we encountered a stone structure and a small pond. It was a perfect spot for a halt - the view was epic, plus it was empty, as all the people who managed to come till here, had directly headed for the peak, and the rest had already given up
