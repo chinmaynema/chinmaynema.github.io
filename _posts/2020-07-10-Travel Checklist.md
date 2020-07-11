@@ -179,7 +179,7 @@ Always end up missing something or the other while travelling? I know that feeli
 ## General Tips
 <table style="width:100%">
 <tr>
-    <td width="50%"><input type="checkbox"> No Disllowed Items in Hand Baggage</td>
-    <td><input type="checkbox"> Copies of Important Documents on E-mail </td>
+    <td width="50%"><input type="checkbox"> No Disallowed Items in Hand Baggage</td>
+    <td><input type="checkbox"> Soft Copies of Important Documents on E-mail </td>
 </tr>
 </table>
