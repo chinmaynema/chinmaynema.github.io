@@ -59,33 +59,33 @@ December beginning (best time to visit is October to February)
 	- The direct path to the falls does provide you a great view of the many waterfalls in Hogenakkal, but only in that one section of the entire area, and it is nothing compared to the views (and the experience) seen from the coracle ride. The ride covers a much larger area, with many more waterfalls, as described below. So trust me - do go for the coracle ride
 
 <p align="center">
-<img src="Hogenakkal Pics/DSC_0266_1.jpg" width="80%">
+<img src="Hogenakkal Pics/DSC_0266_1.jpg" width="80%" alt="Coracle Ride at Hogenakkal Falls">
 </p>
 	
 - Since it was only the two of us, we waited to find two more people willing to share the boat with us, bought the ticket and off we were to the boarding point
 	- The coracle owners will start pursuing you very strongly right from the beginning of the town itself, so that they can get more out of you than the Rs. 750 at the ticket counter. It's wise to buy the ticket from the counter only
 
 <p align="center">
-<img src="Hogenakkal Pics/DSC_0264_1.jpg" width="80%">
+<img src="Hogenakkal Pics/DSC_0264_1.jpg" width="80%" alt="Coracle Ride at Hogenakkal Falls">
 </p>
 	
 - The trip started from a gentler part of the Kaveri river. The coracle plodded steadily as we saw the unique rocky terrain of the area all around. On the way we found coracle-shops, with people selling snacks and beverages
 
 <p align="center">
-<img src="Hogenakkal Pics/DSC_0274_1.jpg" width="80%">
+<img src="Hogenakkal Pics/DSC_0274_1.jpg" width="80%" alt="Coracle Ride at Hogenakkal Falls">
 </p>
 
 - The coracle driver frequently took us close to the cliffs, on some occasions inside crevices where water was falling from the top. It was definitely a unique experience rowing through a narrow channel between huge rocky cliffs with waterfalls every now and then
 
 <p align="center">
-<img src="Hogenakkal Pics/IMG_20181201_141025159_1.jpg" width="80%">
+<img src="Hogenakkal Pics/IMG_20181201_141025159_1.jpg" width="80%" alt="Coracle Ride at Hogenakkal Falls View Point">
 </p>
 
 - After more than an hour, we reached the final and also the most popular section of Hogenakkal falls (the one which is visible from the direct path)
 	- There were mighty waterfalls falling from all directions, and we were rowing right towards them. As an exhilirating icing on the cake, all drivers take their coracles to the centre of that area and spin wildly for a minute or two! This was surely the highlight of the ride
 
 <p align="center">
-<img src="Hogenakkal Pics/IMG_20181201_141129853_1.jpg" width="60%">
+<img src="Hogenakkal Pics/IMG_20181201_141129853_1.jpg" width="60%" alt="Coracle Ride at Hogenakkal Falls View Point">
 </p>
 	
 - Finally, the coracle dropped us off at the base of the cliff of the **Hogenakkal Waterfall View Point**, from where we took the steps to the top
@@ -93,13 +93,13 @@ December beginning (best time to visit is October to February)
 	- The waterfalls that we just went close to were visible from the end of this cliff - it's a beautiful site, one waterfall after another, falling off barren rocky hills
 
 <p align="center">
-<img src="Hogenakkal Pics/IMG_20181201_143544653_1.jpg" width="80%">
+<img src="Hogenakkal Pics/IMG_20181201_143544653_1.jpg" width="80%" alt="Hogenakkal Waterfall View Point">
 </p>
 	
 - On the cliff, there were small areas where people were playing / bathing in water. While this was fun, a rather unpleasant site was some people getting oil massage in the open!
 
 <p align="center">
-<img src="Hogenakkal Pics/IMG_20181201_152422815_1.jpg" width="80%">
+<img src="Hogenakkal Pics/IMG_20181201_152422815_1.jpg" width="80%" alt="Hogenakkal Waterfall View Point">
 </p>
 
 - We spent about 1 hour here and then went back to our coracle, which took us back to the starting point, bringing the ride to an end
