@@ -58,9 +58,8 @@ October beginning
 	- The trek can be divided into four parts
 
 <p align="center">
-<img src="Savandurga Pics/Savandurga Hill.jpg" width="80%" alt="View of Savandurga Hill">
-</p>
-Source: MemExp Blog
+<img src="Savandurga Pics/Savandurga Hill.jpg" width="80%" alt="View of Savandurga Hill"><br>
+Source: MemExp Blog</p>
 
 
 - **Till the first Fort wall** (25 minutes)
@@ -79,9 +78,8 @@ Source: MemExp Blog
 	- It was a sense of achievement to reach the second Fort wall and look down
 
 <p align="center">
-<img src="Savandurga Pics/Steps-Savandurga.jpg" width="80%" alt="Difficult Trek on Steps at Savandurga">
-</p>
-Source: MemExp Blog
+<img src="Savandurga Pics/Steps-Savandurga.jpg" width="80%" alt="Difficult Trek on Steps at Savandurga"><br>
+Source: MemExp Blog</p>
 
 
 - **Till the pond** (20 minutes)
