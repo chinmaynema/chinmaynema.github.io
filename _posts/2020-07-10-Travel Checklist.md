@@ -89,7 +89,7 @@ Always end up missing something or the other while travelling? I know that feeli
     <td><input type="checkbox"> Skin care - Moisturiser, Face Cream etc.</td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Feminine Hygiene</td>
+    <td width="50%"><input type="checkbox"> Feminine Hygiene Products</td>
     <td><input type="checkbox"> Shaving Kit</td>
 </tr>
 <tr>
