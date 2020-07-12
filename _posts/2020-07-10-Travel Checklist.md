@@ -18,8 +18,10 @@ Always end up missing something or the other while travelling? I know that feeli
 
 <table style="width:100%">
 <tr>
+    <div class="checkbox">
     <td width="50%"><input type="checkbox"/> <label class="strikethrough">Passport</label></td>
     <td><input type="checkbox"> Visa</td>
+    </div>
 </tr>
 <tr>
     <td width="50%"><input type="checkbox"> Online Bookings - Travel, Hotels, Tourist Spots</td>
