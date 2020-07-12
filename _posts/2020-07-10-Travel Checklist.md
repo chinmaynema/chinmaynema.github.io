@@ -18,26 +18,26 @@ Always end up missing something or the other while travelling? I know that feeli
 
 <table style="width:100%">
 <tr>
-    <td width="3%" valign="middle"><input type="checkbox"/></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
     <div class="checkbox">
-    <td width="47%" valign="middle"><input type="checkbox"/> <label class="strikethrough">Passport</label></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough">Passport</label></td>
     </div>
-    <td width="3%" valign="middle"><input type="checkbox"/></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
     <div class="checkbox">
-    <td width="47%" valign="middle"><input type="checkbox"> <label class="strikethrough">Visa</label></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough">Visa</label></td>
     </div>
 </tr>
 <tr>
-    <td width="3%" valign="middle"><input type="checkbox"/></td>
-    <td width="47%" valign="middle"><input type="checkbox"/> <label class="strikethrough">Online Bookings - Travel, Hotels, Tourist Spots</label></td>
-    <td width="3%" valign="middle"><input type="checkbox"/></td>
-    <td width="47%" valign="middle"><input type="checkbox"/> <label class="strikethrough">Copies of Important Documents - Passport, Bookings etc.</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough">Online Bookings - Travel, Hotels, Tourist Spots</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough">Copies of Important Documents - Passport, Bookings etc.</label></td>
 </tr>
 <tr>
-    <td width="3%" valign="middle"><input type="checkbox"/></td>
-    <td width="47%" valign="middle"><input type="checkbox"/> <label class="strikethrough">Boarding Pass</label></td>
-    <td width="3%" valign="middle"><input type="checkbox"/></td>
-    <td width="47%" valign="middle"><input type="checkbox"/> <label class="strikethrough">Driver's Licence</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough">Boarding Pass</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough">Driver's Licence</label></td>
 </tr>
 <tr>
     <td width="3%"><input type="checkbox"/></td>
