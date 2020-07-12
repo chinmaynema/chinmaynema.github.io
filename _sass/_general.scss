@@ -262,7 +262,7 @@ textarea:focus {
   outline: 0;
 }
 
-input[type=checkbox]:checked + label.strikethrough{
+input[type=checkbox]: label.strikethrough{
   text-decoration: line-through;
 }
 
