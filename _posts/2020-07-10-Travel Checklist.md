@@ -19,64 +19,85 @@ Always end up missing something or the other while travelling? I know that feeli
 <table style="width:100%">
 <tr>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough">Passport</label></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Passport</label></td>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough">Visa</label></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Visa</label></td>
 </tr>
 <tr>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough">Online Bookings - Travel, Hotels, Tourist Spots</label></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Online Bookings - Travel, Hotels, Tourist Spots</label></td>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough">Copies of Important Documents - Passport, Bookings etc.</label></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Copies of Important Documents - Passport, Bookings etc.</label></td>
 </tr>
 <tr>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough">Boarding Pass</label></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Boarding Pass</label></td>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough">Driver's Licence</label></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Driver's Licence</label></td>
 </tr>
 <tr>
     <td width="3%"><input type="checkbox"/></td>
-    <td width="47%"><input type="checkbox"/> <label class="strikethrough">Health Insurance Card</label></td>
+    <td width="47%"><input type="checkbox"/> <label class="strikethrough"> Health Insurance Card</label></td>
     <td width="3%"><input type="checkbox"/></td>
-    <td width="47%"><input type="checkbox"/> <label class="strikethrough">Travel Insurance</label></td>
+    <td width="47%"><input type="checkbox"/> <label class="strikethrough"> Travel Insurance</label></td>
 </tr>
 <tr>
     <td width="3%"><input type="checkbox"/></td>
-    <td width="47%"><input type="checkbox"/> <label class="strikethrough">Student Card</label></td>
+    <td width="47%"><input type="checkbox"/> <label class="strikethrough"> Student Card</label></td>
     <td width="3%"><input type="checkbox"/></td>
-    <td width="47%"><input type="checkbox"/> <label class="strikethrough">List of Medications</label></td>
+    <td width="47%"><input type="checkbox"/> <label class="strikethrough"> List of Medications</label></td>
 </tr>
 </table>
 
 ## Financial
+
 <table style="width:100%">
 <tr>
-    <td width="50%"><input type="checkbox"> Cash - Local and Foreign</td>
-    <td width="50%"><input type="checkbox"> Forex Card, Credit Card, Debit Card</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Cash - Local and Foreign</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Forex Card, Credit Card, Debit Card</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Traveller's Cheques</label></td>
-    <td width="50%"><input type="checkbox"> Emergency Cash (in a safe place)</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Traveller's Cheques</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Emergency Cash (in a safe place)</label></td> 
 </tr>
 </table>
 
 ## Clothing
 <table style="width:100%">
 <tr>
-    <td width="50%"><input type="checkbox"> Top Wear </td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Cash - Local and Foreign</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Forex Card, Credit Card, Debit Card</label></td>
+<td width="50%"><input type="checkbox"> Top Wear </td>
     <td><input type="checkbox"> Bottom Wear</td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Footwear - Shoes, Slippers</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Cash - Local and Foreign</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Forex Card, Credit Card, Debit Card</label></td>
+<td width="50%"><input type="checkbox"> Footwear - Shoes, Slippers</td>
     <td><input type="checkbox"> Winter Wear - Jackets, Coats etc.</td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Underwear</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Cash - Local and Foreign</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Forex Card, Credit Card, Debit Card</label></td>
+<td width="50%"><input type="checkbox"> Underwear</td>
     <td><input type="checkbox"> Sleep Wear</td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Accessories - Belts, Caps, Gloves, Scarves etc.</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Cash - Local and Foreign</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Forex Card, Credit Card, Debit Card</label></td>
+<td width="50%"><input type="checkbox"> Accessories - Belts, Caps, Gloves, Scarves etc.</td>
     <td><input type="checkbox"> Socks</td>
 </tr>
 </table>
