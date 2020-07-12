@@ -11,8 +11,8 @@ hidden: false
 
 Always end up missing something or the other while travelling? I know that feeling! So here's an exhaustive checklist for you so that now on, you never miss anything on your trips.
 
-- You can tick the items you have kept
-- For items that you don't need, you can click the "X" button next to the item to strike it out
+- For the items that you have kept, you can tick the first checkbox
+- For the items that you don't need, you can tick the second checkbox to strike it out
 
 ## Documents
 
@@ -257,3 +257,5 @@ Always end up missing something or the other while travelling? I know that feeli
     <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Soft Copies of Important Documents on E-mail</label></td>
 </tr>
 </table>
+
+PS: Please drop me a message / comment in case I have missed anything important in the list - will update it
