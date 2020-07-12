@@ -52,7 +52,7 @@ November end
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1B2eeAMhuBliYwf4rcXPfTlCpdJQRRPkj" width="640" height="480"></iframe>
 
-- We followed the route suggested by Google, took a quick breakfast at the only Cafe Coffee Day open that early, and finally landed right at the Thattekere Lake
+- We followed the route suggested by Google, took a quick breakfast at the only Cafe Coffee Day open that early, and finally landed right at the **Thattekere Lake**
 	- It is a huge, tranquil expanse of water, with no people around, only birds for company. It was also a pleasant surprise to see the water and the banks so clean
 	- There was a barricade restricting access to the lake: seems rumour number 2 was actually true! But we crossed it and proceeded towards the water
 
@@ -81,7 +81,7 @@ November end
 - Watch Tower: We had planned to find it, but our plan was cut short by the forest guard
 
 ## Tips and Resources
-- You can park at the Kanive Mahadeswara Temple, which is near the lake
+- You can park at the **Kanive Mahadeswara Temple**, which is near the lake
 - Don't venture into the water - you never know if the crocodiles are there for real
 - Beware of the forest guards!
 - Please don't litter the place
