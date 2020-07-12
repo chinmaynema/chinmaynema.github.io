@@ -20,7 +20,7 @@ Always end up missing something or the other while travelling? I know that feeli
 <tr>
     <div class="checkbox">
     <td width="50%"><input type="checkbox"/> <label class="strikethrough">Passport</label></td>
-    <td><input type="checkbox"> Visa</td>
+    <td><input type="checkbox"> <label class="strikethrough">Visa</label></td>
     </div>
 </tr>
 <tr>
