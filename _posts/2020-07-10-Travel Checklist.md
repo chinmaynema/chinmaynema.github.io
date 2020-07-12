@@ -15,8 +15,9 @@ Always end up missing something or the other while travelling? I know that feeli
 - For items that you don't need, you can click the "X" button next to the item to strike it out
 
 ## Documents
-<div class="checkbox">
+
 <table style="width:100%">
+<div class="checkbox">
 <tr>
     <td width="3%"><input type="checkbox"/>
     <td width="47%"><input type="checkbox"/> <label class="strikethrough">Passport</label></td>
@@ -47,8 +48,8 @@ Always end up missing something or the other while travelling? I know that feeli
     <td width="3%"><input type="checkbox"/>
     <td width="47%"><input type="checkbox"/> <label class="strikethrough">List of Medications</label></td>
 </tr>
-</table>
 </div>
+</table>
 
 ## Financial
 <table style="width:100%">
