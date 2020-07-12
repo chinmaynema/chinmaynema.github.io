@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exhaustive Travel Checklist - So You Don't Miss a Thing
+title: Exhaustive Travel Checklist - So You Don't Miss A Thing
 heading: Travel Checklist - So You Don't Miss Anything
 tags: [tips]
 featured_image_thumbnail: Travel Checklist
