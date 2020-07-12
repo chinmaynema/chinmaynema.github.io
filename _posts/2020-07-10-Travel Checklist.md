@@ -45,12 +45,16 @@ Always end up missing something or the other while travelling? I know that feeli
 ## Financial
 <table style="width:100%">
 <tr>
-    <td width="50%"><input type="checkbox"> Cash - Local and Foreign</td>
-    <td><input type="checkbox"> Forex Card, Credit Card, Debit Card</td>
+    <td width="10%"><input type="checkbox"></td>
+    <div class="checkbox">
+    <td width="40%"><input type="checkbox"> <label class="strikethrough">Cash - Local and Foreign</label></td></div>
+    <td width="10%"><input type="checkbox"></td>
+    <div class="checkbox">
+    <td width="40%"><input type="checkbox"> <label class="strikethrough">Cash - Local and Foreign</label>Forex Card, Credit Card, Debit Card</td></div>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Traveller's Cheques</td>
-    <td><input type="checkbox"> Emergency Cash (in a safe place)</td>
+    <td width="50%"><input type="checkbox"> <label class="strikethrough">Traveller's Cheques</label></td>
+    <td><input type="checkbox"> <label class="strikethrough">Emergency Cash (in a safe place)</label></td>
 </tr>
 </table>
 
