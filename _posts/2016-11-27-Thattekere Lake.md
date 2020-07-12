@@ -63,7 +63,7 @@ November end
 </p>
 
 - We sat at the lake for about 1.5 hours - clicking pictures, chilling, chatting, eating, napping
-	- The pristine lake is in the middle of a dense forest. The area is also an Elephant Crossing Zone - with cautionary boards and electric fences / barbed wires all around, proving rumour number 3 also true!
+	- The lake is located in the middle of a dense forest. The area is also an Elephant Crossing Zone - with cautionary boards and electric fences / barbed wires all around, proving rumour number 3 also true!
 
 <p align="center">
 <img src="Thattekere Lake Pics/DSC_0004_1.jpg" width="99.4%" alt="Thattekere Lake - No Crowd"><br><br>
