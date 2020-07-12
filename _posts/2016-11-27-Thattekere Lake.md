@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thattekere Lake - Detailed Itinerary, Things To Do, Tips
+title: Thattekere Lake - Beautiful Lake near Bangalore + Tips
 heading: Thattekere Lake (1 day | 3 people)
 tags: [lake, roadtrip, Bangalore]
 featured_image_thumbnail: Thattekere Lake
