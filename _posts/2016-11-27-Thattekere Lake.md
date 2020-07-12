@@ -11,7 +11,7 @@ hidden: false
 
 While there are tonnes of lakes in and around Bangalore, I think Thattekere Lake stands out because of its size, but more importantly, because of being so cut-off from the mainstream. It is a pure delight to sit here alone in the early morning hours of the day.
 
-It is also a well-kept secret of Bangalore - rarely do I hear people talk about it. As with most secrets, there are also several rumours associated with Thattekere Lake - that it has crocodiles, that access is restricted to public and that elephants frequent the place. But these were not sufficient to hold us back, and we planned to explore it ourselves.
+It is also a well-kept secret of Bangalore - rarely do I hear people talk about it. As with most secrets, there are also several rumours associated with Thattekere Lake - that it has crocodiles, that access is denied to public and that elephants frequent the place. But these were not sufficient to hold us back, and we planned to explore it ourselves.
 
 ## Duration and Time of Visit
 1 day<br>
