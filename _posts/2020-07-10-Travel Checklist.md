@@ -18,26 +18,34 @@ Always end up missing something or the other while travelling? I know that feeli
 
 <table style="width:100%">
 <tr>
-    <div class="checkbox">
-    <td width="50%"><input type="checkbox"/> <label class="strikethrough">Passport</label></td>
-    <td><input type="checkbox"> <label class="strikethrough">Visa</label></td>
-    </div>
+    <td width="3%"><input type="checkbox"/>
+    <td width="47%"><div class="checkbox"><input type="checkbox"/> <label class="strikethrough">Passport</label></td></div>
+    <td width="3%"><input type="checkbox"/>
+    <td><input type="checkbox"><div class="checkbox"><input type="checkbox"/> <label class="strikethrough">Visa</label></td></div>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Online Bookings - Travel, Hotels, Tourist Spots</td>
-    <td><input type="checkbox"> Copies of Important Documents - Passport, Bookings etc.</td>
+    <td width="3%"><input type="checkbox"/>
+    <td width="47%"><div class="checkbox"><input type="checkbox"/> <label class="strikethrough">Online Bookings - Travel, Hotels, Tourist Spots</label></td></div>
+    <td width="3%"><input type="checkbox"/>
+    <td width="47%"><div class="checkbox"><input type="checkbox"/> <label class="strikethrough">Copies of Important Documents - Passport, Bookings etc.</label></td></div>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Boarding Pass</td>
-    <td><input type="checkbox"> Driver's Licence</td>
+    <td width="3%"><input type="checkbox"/>
+    <td width="47%"><div class="checkbox"><input type="checkbox"/> <label class="strikethrough">Boarding Pass</label></td></div>
+    <td width="3%"><input type="checkbox"/>
+    <td width="47%"><div class="checkbox"><input type="checkbox"/> <label class="strikethrough">Driver's Licence</label></td></div>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Health Insurance Card</td>
-    <td><input type="checkbox"> Travel Insurance</td>
+    <td width="3%"><input type="checkbox"/>
+    <td width="47%"><div class="checkbox"><input type="checkbox"/> <label class="strikethrough">Health Insurance Card</label></td></div>
+    <td width="3%"><input type="checkbox"/>
+    <td width="47%"><div class="checkbox"><input type="checkbox"/> <label class="strikethrough">Travel Insurance</label></td></div>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Student Card</td>
-    <td><input type="checkbox"> List of Medications</td>
+    <td width="3%"><input type="checkbox"/>
+    <td width="47%"><div class="checkbox"><input type="checkbox"/> <label class="strikethrough">Student Card</label></td></div>
+    <td width="3%"><input type="checkbox"/>
+    <td width="47%"><div class="checkbox"><input type="checkbox"/> <label class="strikethrough">List of Medications</label></td></div>
 </tr>
 </table>
 
