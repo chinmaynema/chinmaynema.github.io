@@ -78,7 +78,7 @@ November end
 - Food and drinks
 
 ## Other Things To Do (that we didn’t)
-- Watch Tower: We couldn't find it near where we were
+- Watch Tower: We had planned to find it, but were cut short by the forest guard
 
 ## Tips and Resources
 - You can park at the Kanive Mahadeswara Temple, which is near the lake
