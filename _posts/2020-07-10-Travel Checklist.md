@@ -48,7 +48,7 @@ Always end up missing something or the other while travelling? I know that feeli
     <td width="47%"><input type="checkbox"/> <label class="strikethrough">List of Medications</label></td>
 </tr>
 </table>
-
+</div>
 
 ## Financial
 <table style="width:100%">
