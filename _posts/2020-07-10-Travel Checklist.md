@@ -17,12 +17,15 @@ Always end up missing something or the other while travelling? I know that feeli
 ## Documents
 
 <table style="width:100%">
-<div class="checkbox">
 <tr>
     <td width="3%"><input type="checkbox"/>
+    <div class="checkbox">
     <td width="47%"><input type="checkbox"/> <label class="strikethrough">Passport</label></td>
+    </div>
     <td width="3%"><input type="checkbox"/>
+    <div class="checkbox">
     <td><input type="checkbox"><input type="checkbox"/> <label class="strikethrough">Visa</label></td>
+    </div>
 </tr>
 <tr>
     <td width="3%"><input type="checkbox"/>
@@ -48,7 +51,6 @@ Always end up missing something or the other while travelling? I know that feeli
     <td width="3%"><input type="checkbox"/>
     <td width="47%"><input type="checkbox"/> <label class="strikethrough">List of Medications</label></td>
 </tr>
-</div>
 </table>
 
 ## Financial
