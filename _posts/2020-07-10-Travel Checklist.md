@@ -36,16 +36,16 @@ Always end up missing something or the other while travelling? I know that feeli
     <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Driver's Licence</label></td>
 </tr>
 <tr>
-    <td width="3%"><input type="checkbox"/></td>
-    <td width="47%"><input type="checkbox"/> <label class="strikethrough"> Health Insurance Card</label></td>
-    <td width="3%"><input type="checkbox"/></td>
-    <td width="47%"><input type="checkbox"/> <label class="strikethrough"> Travel Insurance</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Health Insurance Card</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Travel Insurance</label></td>
 </tr>
 <tr>
-    <td width="3%"><input type="checkbox"/></td>
-    <td width="47%"><input type="checkbox"/> <label class="strikethrough"> Student Card</label></td>
-    <td width="3%"><input type="checkbox"/></td>
-    <td width="47%"><input type="checkbox"/> <label class="strikethrough"> List of Medications</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Student Card</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> List of Medications</label></td>
 </tr>
 </table>
 
