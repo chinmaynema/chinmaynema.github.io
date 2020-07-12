@@ -114,13 +114,17 @@ Always end up missing something or the other while travelling? I know that feeli
 <table style="width:100%">
 <tr>
     <td width="50%"><input type="checkbox"> Mobile + Charger</td>
-    <td><input type="checkbox"> Laptop, Tablet, Kindle + Chargers</td>
+    <td><input type="checkbox"> Camera + Charger and Memory Card</td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Camera + Charger and Memory Card</td>
-    <td><input type="checkbox"> Earphones, Headphones</td>
+    <td width="50%"><input type="checkbox"> Laptop + Charger</td>
+    <td><input type="checkbox"> Tablet, Kindle + Chargers</td>
 </tr>
 <tr>
+    <td width="50%"><input type="checkbox"> Earphones, Headphones</td>
+    <td><input type="checkbox"> Power Bank</td>
+</tr>
+    <tr>
     <td width="50%"><input type="checkbox"> Travel Adapter and Converter</td>
     <td><input type="checkbox"> Travel Iron</td>
 </tr>
