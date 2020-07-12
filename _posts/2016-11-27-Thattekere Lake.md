@@ -78,11 +78,11 @@ November end
 - Food and drinks
 
 ## Other Things To Do (that we didn’t)
-- Watch Tower: We had planned to find it, but were cut short by the forest guard
+- Watch Tower: We had planned to find it, but our plan was cut short by the forest guard
 
 ## Tips and Resources
 - You can park at the Kanive Mahadeswara Temple, which is near the lake
 - Don't venture into the water - you never know if the crocodiles are there for real
-- Be cautious of the forest guards
+- Beware of the forest guards!
 - Please don't litter the place
 - There are no restaurants or shops nearby - you can carry your own food and drinks
