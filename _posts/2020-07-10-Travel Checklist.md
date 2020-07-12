@@ -49,7 +49,7 @@ Always end up missing something or the other while travelling? I know that feeli
 </tr>
 </table>
 
-## Financial
+## Money
 
 <table style="width:100%">
 <tr>
@@ -97,115 +97,163 @@ Always end up missing something or the other while travelling? I know that feeli
 ## Toiletries
 <table style="width:100%">
 <tr>
-    <td width="50%"><input type="checkbox"> Toothbrush, Toothpaste, Floss </td>
-    <td><input type="checkbox"> Soap</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Toothbrush, Toothpaste, Floss</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Soap</label></td>
 </tr>
 <tr>
-    <td><input type="checkbox"> Shampoo, Conditioner</td>
-    <td width="50%"><input type="checkbox"> Perfume, Deodorant</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Shampoo, Conditioner</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Perfume, Deodorant</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Towel</td>
-    <td><input type="checkbox"> Skin care - Moisturiser, Face Cream etc.</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Towel</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Skin care - Moisturiser, Face Cream etc.</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Feminine Hygiene Products</td>
-    <td><input type="checkbox"> Shaving Kit</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Feminine Hygiene Products</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Shaving Kit</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Makeup Kit</td>
-    <td><input type="checkbox"> Hair care - Comb, Oil, Gel etc.</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Makeup Kit</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Hair care - Comb, Oil, Gel etc.</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Toilet Roll, Tissues</td>
-    <td><input type="checkbox"> Accessories - Nail Cutter, Tweezer</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Toilet Roll, Tissues</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Accessories - Nail Cutter, Tweezer</label></td>
 </tr>
 </table>
 
 ## Appliances
 <table style="width:100%">
 <tr>
-    <td width="50%"><input type="checkbox"> Mobile + Charger</td>
-    <td><input type="checkbox"> Camera + Charger and Memory Card</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Mobile + Charger</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Camera + Charger and Memory Card</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Laptop + Charger</td>
-    <td><input type="checkbox"> Tablet, Kindle + Chargers</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Laptop + Charger</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Tablet, Kindle + Chargers</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Earphones, Headphones</td>
-    <td><input type="checkbox"> Power Bank</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Earphones, Headphones</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Power Bank</label></td>
 </tr>
-    <tr>
-    <td width="50%"><input type="checkbox"> Travel Adapter and Converter</td>
-    <td><input type="checkbox"> Travel Iron</td>
+<tr>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Travel Adapter and Converter</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Travel Iron</label></td>
 </tr>
 </table>
 
 ## Travel Stuff
 <table style="width:100%">
 <tr>
-    <td width="50%"><input type="checkbox"> Suitcase, Backpack</td>
-    <td><input type="checkbox"> Travel Pillow, Eye Mask, Earplugs</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Suitcase, Backpack</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Travel Pillow, Eye Mask, Earplugs</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Itinerary</td>
-    <td><input type="checkbox"> Travel Guide</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Itinerary</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Travel Guide</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Maps and Directions</td>
-    <td><input type="checkbox"> Language Guide</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Maps and Directions</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Language Guide</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Pocket Knife</td>
-    <td><input type="checkbox"> Flashlight</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Pocket Knife</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Flashlight</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Sunglasses</td>
-    <td><input type="checkbox"> Sunscreen</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Sunglasses</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Sunscreen</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Umbrella</td>
-    <td><input type="checkbox"> Daypack</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Umbrella</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Daypack</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Swimming Gear</td>
-    <td><input type="checkbox"> Books, E-books, Magazines</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Swimming Gear</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Books, E-books, Magazines</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Travel Locks</td>
-    <td><input type="checkbox"> Luggage Tags</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Travel Locks</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Luggage Tags</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Snacks, Drinks</td>
-    <td><input type="checkbox"> Rope, Expandable Clothesline</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Snacks, Drinks</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Rope, Expandable Clothesline</label></td>
 </tr>
 </table>
 
 ## Health
 <table style="width:100%">
 <tr>
-    <td width="50%"><input type="checkbox"> Medications, Vitamins, Pain Reliever</td>
-    <td><input type="checkbox"> First Aid Kit</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Medications, Vitamins, Pain Reliever</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> First Aid Kit</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Insect Repellent, Mosquito Net</td>
-    <td><input type="checkbox"> Oral Rehydration Solution (ORS)</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Insect Repellent, Mosquito Net</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Oral Rehydration Solution (ORS)</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Hand Sanatizer</td>
-    <td><input type="checkbox"> Glasses, Contact Lenses</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Hand Sanatizer</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Glasses, Contact Lenses</label></td>
 </tr>
 <tr>
-    <td width="50%"><input type="checkbox"> Vaccines, Health Check-up</td>
-    <td><input type="checkbox"> Energy Drinks, Protein Bars</td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Vaccines, Health Check-up</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Energy Drinks, Protein Bars</label></td>
 </tr>
 </table>
 
 ## General Tips
 <table style="width:100%">
 <tr>
-    <td width="50%"><input type="checkbox"> No Disallowed Items in Hand Baggage</td>
-    <td><input type="checkbox"> Soft Copies of Important Documents on E-mail </td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> No Disallowed Items in Hand Baggage</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Soft Copies of Important Documents on E-mail</label></td>
 </tr>
 </table>
