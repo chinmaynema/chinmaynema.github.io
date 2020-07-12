@@ -18,7 +18,7 @@ Always end up missing something or the other while travelling? I know that feeli
 
 <table style="width:100%">
 <tr>
-    <td width="50%"><input type="checkbox"> Passport</td>
+    <td width="50%"><input type="checkbox"/> <label class="strikethrough">Passport</label></td>
     <td><input type="checkbox"> Visa</td>
 </tr>
 <tr>
