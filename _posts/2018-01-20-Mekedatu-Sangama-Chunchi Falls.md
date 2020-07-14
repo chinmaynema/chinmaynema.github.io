@@ -46,10 +46,11 @@ January mid
 
 ## Itinerary
 
-- As conventional wisdom suggests, we left early morning from Bangalore, to avoid the city traffic and the scorching afternoon sun, and headed directly to Sangam, following dear Google
+- As conventional wisdom suggests, we left early morning from Bangalore, to avoid the city traffic and the scorching afternoon sun, and headed directly to Sangam, unquestioningly following Google Maps
 	- The last ~10 kms are very beautiful - going up and down on the curves of small hills, which finally end with a steep dip into the valley at Sangam
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1KZ6XW9Ua8ZThP_m7oPZBUu4XHhNcgkde" width="640" height="480"></iframe>
+<p align="center">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1KZ6XW9Ua8ZThP_m7oPZBUu4XHhNcgkde" width="640" height="480"></iframe></p>
 
 - We parked in the designated area next to the rivers and headed for the water
 	- Sangam is the confluence of rivers Kaveri and Arkavathi. In non-monsoon months, both rivers run shallow, making it a great spot to step into the water. And that's exactly what we did!
@@ -71,7 +72,7 @@ January mid
 - From this side, a rickety bus took us to Mekedatu (~4 kms away), charging Rs. 40 for the to and fro journey
 	- You also have the option to walk along the same route, but since it was a sunny day, we preferred the bus
 - A quick walk from the deboarding point took us to the mesmerising view of Mekedatu
-	- It is amazing to see the same river Kaveri which was so wide at Sangam gush through the narrow the passage between the two cliffs at Mekedatu
+	- It is amazing to see the same river Kaveri which was so wide at Sangam gush through the narrow passage between the two cliffs at Mekedatu
 	- "Mekedatu" in Kannada means "goat's leap" (meke = goat, datu = cross), hence meaning that the passage was so narrow in the past that goats could cross over
 
 <p align="center">
@@ -79,9 +80,9 @@ January mid
 </p>
 
 - We came back to Sangam, crossed the river and headed to Chunchi Falls
-	- There is a small right turn to Chunchi Falls from Sangam, which is quite easy to miss. We had to take help of some locals
+	- There is a small right turn to Chunchi Falls from Sangam, which is quite easy to miss. We had to take help of some locals for the directions
 - There was a walk of ~15 minutes from the parking to a watch tower, from which we could see the beautiful waterfalls
-	- There were several spurts of water from different directions. Obviously, the waterfalls would have been fuller during the monsoon
+	- There were several spurts of water from different directions. Obviously, the waterfalls would have been fuller during the monsoon. The terrain in this part is extraordinary - sharply cut rocky cliffs with the river flowing between them
 	- Chunchi Falls are not as popular as Sangam and Mekedatu, hence you can expect solitude. We sat there for a while, listening to music, clicking pictures
 
 <p align="center">
