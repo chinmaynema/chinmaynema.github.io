@@ -97,9 +97,10 @@ January mid
 - Food and drinks
 
 ## Other Things To Do (that we didn’t)
-- Walk from Sangam to Mekedatu: since it was a sunny day, we preferred the bus
+- Walk from Sangam to Mekedatu: we preferred the bus since it was a sunny day
 
 ## Tips and Resources
 - Since you will most likely enter the water, either to cross the river or to just play, it is best to wear shorts
 - Keep a lookout for the turn for Chunchi Falls - it is easy to miss
-- Do not get adventurous and try any stunts at Sangam or at Mekedatu - the rocks can be slippery
+- Do not get adventurous and try any stunts at Sangam or at Mekedatu - the rocks can be slippery. Many people have already lost their lives in this way
+- There are no good restaurants in the area, hence it's best to carry your own snacks and drinks
