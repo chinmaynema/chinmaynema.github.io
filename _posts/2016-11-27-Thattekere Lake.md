@@ -50,7 +50,8 @@ November end
 
 - It was a pleasant November morning, and before it could get sunny, we picked up our car and left for the short roadtrip trip at around 6:30 am
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1B2eeAMhuBliYwf4rcXPfTlCpdJQRRPkj" width="640" height="480"></iframe>
+<p align="center">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1B2eeAMhuBliYwf4rcXPfTlCpdJQRRPkj" width="640" height="480"></iframe></p>
 
 - We followed the route suggested by Google, took a quick breakfast at the only Cafe Coffee Day open that early, and finally landed right at the **Thattekere Lake**
 	- It is a huge, tranquil expanse of water, with no people around, only birds for company. It was also a pleasant surprise to see the water and the banks so clean
