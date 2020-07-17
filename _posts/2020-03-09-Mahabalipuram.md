@@ -2,7 +2,7 @@
 layout: post
 title: Mahabalipuram - Detailed Itinerary, Things To Do, Tips
 heading: Mahabalipuram (3 days, 2 nights | Solo)
-tags: [beach, chill, archaeology, history, solo]
+tags: [beach, chill, archaeology, history, solo, roadtrip, Bangalore, Chennai]
 featured_image_thumbnail: Mahabalipuram Temples
 featured_image: assets/images/posts/mahabalipuram/Mahabalipuram Cover.jpg
 featured: true
