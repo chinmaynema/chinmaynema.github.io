@@ -164,4 +164,4 @@ August mid
 - [Gandikota - History, Geography and Architecture](https://en.wikipedia.org/wiki/Gandikota): On Wikipedia
 - If it's a busy weekend, it's best to reach a bit early so as to get a vacant tent
 - It's a good idea to carry some things to eat since all you get is fried rice at the campsite! There are only few small shops which serve some other cooked and packaged items
-- Carry the things you might need for camping (eg. toiletries)
+- Carry the things you might need for camping (toiletries, first aid)
