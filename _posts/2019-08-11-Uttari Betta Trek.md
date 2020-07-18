@@ -13,7 +13,7 @@ A "Sunrise Trek" sounds exciting, and it sure is! You trek at night, camp at the
 
 Uttari Betta, also called Hutridurga, is one of the Navadurgas, the nine fortified hills around Bangalore. The ruins are still visible all along the way. Being fairly easy and short, it is a great place for a quick getaway for people of all ages.
 
-Trek difficulty: Easy
+**Trek difficulty: Easy**
 
 ## Duration and Time of Visit
 1 night<br>
