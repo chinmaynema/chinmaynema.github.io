@@ -2,7 +2,7 @@
 layout: post
 title: Uttari Betta (Hutridurga) Trek - Itinerary and Tips
 heading: Uttari Betta (Hutridurga) Trek (1 night | 20 people)
-tags: [hills, hiking, trekking, roadtrip, Bangalore]
+tags: [hills, hiking, trekking, roadtrip, one day, Bangalore]
 featured_image_thumbnail: Uttari Betta (Hutridurga) Trek
 featured_image: assets/images/posts/uttaribetta/IMG_20190811_065035_1.jpg
 featured: false
