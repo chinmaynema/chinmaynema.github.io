@@ -22,7 +22,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 <table style="width:80%;margin-left:auto;margin-right:auto;">
 <tr>
     <td width="25%">Things to Do</td>
-    <td>Trek on the largest monolith hill in Asia</td>
+    <td>Trekking on the largest monolith hill in Asia</td>
 </tr>
 <tr>
     <td width="25%">Distance</td>
@@ -89,7 +89,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 <table style="width:80%;margin-left:auto;margin-right:auto;">
 <tr>
     <td width="25%">Things to Do</td>
-    <td>Trek, Vulture sanctuary and Dam</td>
+    <td>Trekking, Vulture sanctuary and Dam</td>
 </tr>
 <tr>
     <td width="25%">Distance</td>
@@ -136,7 +136,7 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 <table style="width:80%;margin-left:auto;margin-right:auto;">
 <tr>
     <td width="25%">Things to Do</td>
-    <td>Trek (can do a night trek)</td>
+    <td>Trekking (can do a night trek)</td>
 </tr>
 <tr>
     <td width="25%">Distance</td>
