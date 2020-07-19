@@ -32,7 +32,7 @@ September end
 </tr>
 <tr>
     <td width="22%">Duration</td>
-    <td>~3.5 hours either way</td>
+    <td>~3 hours either way</td>
 </tr>
 <tr>
     <td width="22%">Cost</td>
