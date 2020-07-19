@@ -80,7 +80,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 </tr>
 </table>
 
-## 4. <a href="https://onetriptoanother.com/Ramanagara-Kanva-Dam">Ramanagara - Kanva Dam</a>
+## 4. <a href="https://onetriptoanother.com/Ramanagara-Kanva">Ramanagara - Kanva Dam</a>
 
 <p align="center">
 <img src="assets/images/posts/ramanagara-kanva/Ramanagara Cover_3.jpg" width="80%">
@@ -127,7 +127,7 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 </tr>
 </table>
 
-## 6. <a href="https://onetriptoanother.com/Uttari-Betta">Uttari Betta (Hutridurga) Trek</a>
+## 6. <a href="https://onetriptoanother.com/Uttari-Betta-Trek">Uttari Betta (Hutridurga) Trek</a>
 
 <p align="center">
 <img src="assets/images/posts/uttaribetta/IMG_20190811_065035_1.jpg" width="80%">
