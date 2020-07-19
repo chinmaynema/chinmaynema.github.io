@@ -9,10 +9,10 @@ featured: true
 hidden: false
 ---
 
-Xx
+Shivanasamudra was the very first weekend getaway I did on moving to Bangalore. It is that popular! Shivanasamudra literally means "Shiva’s Sea" and the force of the water here justifies the name. It is an island town, created by the splitting of the Kaveri river
 Gaganchukki and Barachukki
-island town of Shivanasamudra in the Mandya district of Karnatak, vreated by the splitting of the Kaveri river
-Shivanasamudra literally means Shiva’s Sea
+ of Shivanasamudra in the Mandya district of Karnatak, vreated by the splitting of the Kaveri river
+
 The area near the waterfalls is famous for being the location of Asia’s first hydro-electric power station that was set up in the year 1902 and is still functional.
 
 ## Duration and Time of Visit
