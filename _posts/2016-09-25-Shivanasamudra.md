@@ -44,7 +44,7 @@ September end
 </tr>
 <tr>
     <td width="22%">Other Options</td>
-    <td>Bus</td>
+    <td>Bus: Bangalore - Kollegala (~20kms away)</td>
 </tr>
 </table>
 
@@ -92,19 +92,21 @@ September end
 
 <p align="center">
 <img src="Shivanasamudra Pics/IMG_20160925_160549_1.jpg" width="99.4%" alt="Gaganchukki Falls Shivanasamudra Falls"><br><br>
-<img src="Shivanasamudra Pics/IMG_20160925_161415_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls"> <img src="Shivanasamudra Pics/IMG_20160925_120556Y_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls">
+<img src="Shivanasamudra Pics/IMG_20160925_161415_1.jpg" width="49.9%" alt="Gaganchukki Falls Shivanasamudra Falls"> <img src="Shivanasamudra Pics/IMG_20160925_120556Y_1.jpg" width="48.9%" alt="Gaganchukki Falls Shivanasamudra Falls">
 </p>
 
 ## Major Expenses
 - Self-drive rental car: ~Rs. 2,700 (including fuel)
 - Food and drinks
-- Entrance to both the waterfalls are free of cost, likewise for parking
+- Entrance and parking at both the waterfalls are free of cost
 
 ## Other Things To Do (that we didn’t)
-- Talakad: a desert-like town located on the banks of Kaveri, famous for its temples, ~35kms from Shivanasamudra
+- Shivanasamudra Hydro-Electric Power Station: I hear that one can visit it by obtaining special permission through Karnataka Power Corporation. Travelling in British built winch lift would be a unique experience
+- Talakadu: a desert-like town located on the banks of Kaveri, famous for its temples, ~35kms from Shivanasamudra
 - Somnathpur: a small village situated on the banks Kaveri, boasting of grand monuments dating back to the Hoysala period, ~45kms away
 - Channapatna: a small town famous for wooden toys and lacquerware, located on the same route
 - Sri Ranganathaswamy Temples: Two of the three popular Ranganathaswamy Temples of South India are located nearby
 
 ## Tips and Resources
-- Xx
+- Carry a few things to eat as there are not many good quality restaurants in the area, and it will most likely be a long day
+- If you are the type who doesn't realise how much time has gone by at a spot, you will definitely get delayed, since all the spots are magnificent. Hence, factor in some extra time for the trip
