@@ -167,7 +167,7 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 <tr>
     <td width="25%">Time Required</td>
     <td>Travel: 1.25 hrs X 2 = 2.5 hrs<br>
-    Spot: ~1-1.5 hrs</td>
+    Spot: 1-1.5 hrs</td>
 </tr>
 </table>
 
