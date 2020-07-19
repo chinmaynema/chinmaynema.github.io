@@ -63,8 +63,8 @@ September end
 	- We spent about an hour here, enjoying the view, the weather and the music, before leaving for the Barachukki Falls, which are just 15 minutes away
 
 <p align="center">
-<img src="Shivanasamudra Pics/IMG_20191008_124432_1.jpg" width="99.4%" alt="Gaganchukki Falls Shivanasamudra Falls"><br><br>
-<img src="Shivanasamudra Pics/IMG_20191008_124432_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls"> <img src="Shivanasamudra Pics/IMG_20191008_124432_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls">
+<img src="Shivanasamudra Pics/DSC_0012Y_1.jpg" width="99.4%" alt="Gaganchukki Falls Shivanasamudra Falls"><br><br>
+<img src="Shivanasamudra Pics/DSC_0015Y_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls"> <img src="Shivanasamudra Pics/DSC_0016Y_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls">
 </p>
 
 - We stopped at the **Wesley Bridge**, which is midway to the Barachukki Falls
@@ -72,8 +72,8 @@ September end
 	- We sat at the river for a while - the solitude was a welcome break from the crowd at the waterfalls
 
 <p align="center">
-<img src="Shivanasamudra Pics/IMG_20191008_124432_1.jpg" width="99.4%" alt="Gaganchukki Falls Shivanasamudra Falls"><br><br>
-<img src="Shivanasamudra Pics/IMG_20191008_124432_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls"> <img src="Shivanasamudra Pics/IMG_20191008_124432_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls">
+<img src="Shivanasamudra Pics/IMG_20160925_125518Y_1.jpg" width="99.4%" alt="Gaganchukki Falls Shivanasamudra Falls"><br><br>
+<img src="Shivanasamudra Pics/DSC_0020Y_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls"> <img src="Shivanasamudra Pics/DSC_0021Y_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls">
 </p>
  
 - Just before the Barachukki Falls, we took a left turn for the Dargah of Hazrath Mardane Gaib, which took us to the **Dargah View Point**
@@ -83,12 +83,17 @@ September end
 	- Till some years back, a coracle (a small round boat made of bamboo and wood) could take you close to the waterfall and people were also allowed to go into the shallow waters. But due to some fatal accidents, both have been banned now
 
 <p align="center">
-<img src="Shivanasamudra Pics/IMG_20191008_124432_1.jpg" width="99.4%" alt="Gaganchukki Falls Shivanasamudra Falls"><br><br>
-<img src="Shivanasamudra Pics/IMG_20191008_124432_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls"> <img src="Shivanasamudra Pics/IMG_20191008_124432_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls">
+<img src="Shivanasamudra Pics/DSC_0026Y_1.jpg" width="99.4%" alt="Gaganchukki Falls Shivanasamudra Falls"><br><br>
+<img src="Shivanasamudra Pics/DSC_0025Y_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls"> <img src="Shivanasamudra Pics/DSC_0027Y_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls">
 </p>
 
 - We had a heavy meal at Hotel Maurya and then on our way back to Bangalore, to our pleasant surprise, found a **Reservoir** which was totally empty
 	- The evening sky, the calm water, and the empty banks were too inviting to miss and we complied. 30 minutes later, we were back on the road
+
+<p align="center">
+<img src="Shivanasamudra Pics/IMG_20160925_160549_1.jpg" width="99.4%" alt="Gaganchukki Falls Shivanasamudra Falls"><br><br>
+<img src="Shivanasamudra Pics/IMG_20160925_161415_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls"> <img src="Shivanasamudra Pics/IMG_20160925_120556Y_1.jpg" width="49.4%" alt="Gaganchukki Falls Shivanasamudra Falls">
+</p>
 
 ## Major Expenses
 - Self-drive rental car: ~Rs. 2,700 (including fuel)
