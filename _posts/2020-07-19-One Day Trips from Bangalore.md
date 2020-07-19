@@ -13,7 +13,7 @@ Bangalore is truly blessed to have a rich list of interesting places to visit ne
 
 I have compiled a list of all the one day trips from Bangalore that I am aware of - including the ones that I have not visited till now myself. So I hope you pack your bags and don't let the next weekend go waste!
 
-## 1. <a href="https://onetriptoanother.com/Savandurga">Savandurga</a>
+### 1. <a href="https://onetriptoanother.com/Savandurga">Savandurga</a>
 
 <p align="center">
 <img src="assets/images/posts/savandurga/SavandurgaCover.jpg" width="80%">
@@ -35,7 +35,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 </tr>
 </table>
 
-## 2. <a href="https://onetriptoanother.com/Shivanasamudra">Shivanasamudra</a>
+### 2. <a href="https://onetriptoanother.com/Shivanasamudra">Shivanasamudra</a>
 
 <p align="center">
 <img src="assets/images/posts/shivanasamudra/DSC_0026Y_1.jpg" width="80%">
@@ -57,7 +57,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 </tr>
 </table>
 
-## 3. <a href="https://onetriptoanother.com/Hogenakkal-Falls">Hogenakkal Falls</a>
+### 3. <a href="https://onetriptoanother.com/Hogenakkal-Falls">Hogenakkal Falls</a>
 
 <p align="center">
 <img src="assets/images/posts/hogenakkal/HogenakkalCover.jpg" width="80%">
