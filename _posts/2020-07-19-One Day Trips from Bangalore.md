@@ -173,7 +173,7 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 
 
 <br>
-Sharing the rest of the places that I have not written about yet. Will keep linking the blog posts as I continue to write.
+Sharing the rest of the places that I have not written about yet. Will keep linking the blog posts as I continue to write.<br>
 
 8. Nandi Hills
 9. Mysore
