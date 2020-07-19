@@ -175,76 +175,78 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 <br>
 Sharing the rest of the places that I have not written about yet. Will keep linking the blog posts as I continue to write.<br>
 
-8. Nandi Hills
-9. Mysore
-10. Bandipur National Park
-11. Bannerghatta National Park
-12. Manchinbele Reservoir
-13. Skandagiri Trek
-14. Kabbaladurga Trek
-15. Huliyurdurga Trek
-16. Kunti Betta Trek
-17. Shettihalli Church and Gorur Dam
-18. Vani Vilas Dam and Chitradurga Fort
-19. BR Hills
-20. Yelagiri
-21. Lepakshi
-22. Bilikal Rangaswamy Betta
-23. TG Reservoir
-24. Talakadu
-25. Shivagange
-26. Ratnagiri Fort
-27. Horsley Hill
-28. TK Falls
-29. Shanmukha Temple and Omkar Hills
-30. NG Lake
-31. Revanasiddeshwara Trek
-32. Hesarghatta Grassland
-33. Lokaruch
-34. Turahalli Fores
-35. Maddur
-36. Pearl Valley (Muthaylamaduvu)
-37. Muthathi Forest Ride
-38. Maasti Malur
-39. Makalidurga Railway Trek
-40. Nijagal Trek
-41. Devarayanadurga
-42. Mandharagiri Trek
-43. Narayanagiri Trek
-44. Medigeshi Trek
-45. Avalabetta Hill
-46. Bananthimari Betta Trek
-47. Bhairavadurga Trek
-48. Melukote
-49. Balmuri Falls
-50. Markonahalli Dam
-51. Channarayanaddurga Trek
-52. Tonnurkere
-53. Panchapalli Dam
-54. Somnathpura
-55. Srirangapatna
-56. Madhugiri Trek
-57. Maasti Malur
-58. Mahadevapura
-59. Medigeshi Fort Trek
-60. Siddarabetta Trek
-61. Gudibande Trek
-62. Bhasmangi Fort Trek
-63. KRS Backwaters and Venugopala Swamy Temple
-64. Dandiganahalli Day
-65. Rayakottai Trek
-66. Bettamugililam and Aiyur Spider Valley
-67. Gummanayaka Fort Trek
-68. Gundal Dam
-69. Chamundi Hills
-70. Mahadevpura
-71. Penukonda Fort Ride
-72. Madakasira Fort Trek
-73. Pavagada Fort Trek
-74. Hosaholalu Temple
-75. Doddagaddavali
-76. Nidagal Betta Trek
-77. Himvadgopalswamy Betta
-78. Doddagadavali Temple
+<ol start="8">
+<li>Nandi Hills</li>
+<li>Mysore</li>
+<li>Bandipur National Park</li>
+<li>Bannerghatta National Park</li>
+<li>Manchinbele Reservoir</li>
+<li>Skandagiri Trek</li>
+<li>Kabbaladurga Trek</li>
+<li>Huliyurdurga Trek</li>
+<li>Kunti Betta Trek</li>
+<li>Shettihalli Church and Gorur Dam</li>
+<li>Vani Vilas Dam and Chitradurga Fort</li>
+<li>BR Hills</li>
+<li>Yelagiri</li>
+<li>Lepakshi</li>
+<li>Bilikal Rangaswamy Betta</li>
+<li>TG Reservoir</li>
+<li>Talakadu</li>
+<li>Shivagange</li>
+<li>Ratnagiri Fort</li>
+<li>Horsley Hill</li>
+<li>TK Falls</li>
+<li>Shanmukha Temple and Omkar Hills</li>
+<li>NG Lake</li>
+<li>Revanasiddeshwara Trek</li>
+<li>Hesarghatta Grassland</li>
+<li>Lokaruch</li>
+<li>Turahalli Fores</li>
+<li>Maddur</li>
+<li>Pearl Valley (Muthaylamaduvu)</li>
+<li>Muthathi Forest Ride</li>
+<li>Maasti Malur</li>
+<li>Makalidurga Railway Trek</li>
+<li>Nijagal Trek</li>
+<li>Devarayanadurga</li>
+<li>Mandharagiri Trek</li>
+<li>Narayanagiri Trek</li>
+<li>Medigeshi Trek</li>
+<li>Avalabetta Hill</li>
+<li>Bananthimari Betta Trek</li>
+<li>Bhairavadurga Trek</li>
+<li>Melukote</li>
+<li>Balmuri Falls</li>
+<li>Markonahalli Dam</li>
+<li>Channarayanaddurga Trek</li>
+<li>Tonnurkere</li>
+<li>Panchapalli Dam</li>
+<li>Somnathpura</li>
+<li>Srirangapatna</li>
+<li>Madhugiri Trek</li>
+<li>Maasti Malur</li>
+<li>Mahadevapura</li>
+<li>Medigeshi Fort Trek</li>
+<li>Siddarabetta Trek</li>
+<li>Gudibande Trek</li>
+<li>Bhasmangi Fort Trek</li>
+<li>KRS Backwaters and Venugopala Swamy Temple</li>
+<li>Dandiganahalli Day</li>
+<li>Rayakottai Trek</li>
+<li>Bettamugililam and Aiyur Spider Valley</li>
+<li>Gummanayaka Fort Trek</li>
+<li>Gundal Dam</li>
+<li>Chamundi Hills</li>
+<li>Mahadevpura</li>
+<li>Penukonda Fort Ride</li>
+<li>Madakasira Fort Trek</li>
+<li>Pavagada Fort Trek</li>
+<li>Hosaholalu Temple</li>
+<li>Doddagaddavali</li>
+<li>Nidagal Betta Trek</li>
+<li>Himvadgopalswamy Betta</li>
+<li>Doddagadavali Temple</li>
+</ol>
 
 PS: Please drop me a message / comment in case I have missed any place. Would love to hear about it from you.
