@@ -5,15 +5,11 @@ heading: Shivanasamudra (1 day | 2 people)
 tags: [waterfall, river, hills, roadtrip, one day, Bangalore]
 featured_image_thumbnail: Shivanasamudra Falls
 featured_image: assets/images/posts/shivanasamudra/DSC_0026Y_1.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
-Shivanasamudra was the very first weekend getaway I did on moving to Bangalore. It is that popular! Shivanasamudra literally means "Shiva’s Sea" and the force of the water here justifies the name. It is an island town, created by the splitting of the Kaveri river
-Gaganchukki and Barachukki
- of Shivanasamudra in the Mandya district of Karnatak, vreated by the splitting of the Kaveri river
-
-The area near the waterfalls is famous for being the location of Asia’s first hydro-electric power station that was set up in the year 1902 and is still functional.
+Shivanasamudra was the very first weekend getaway I did on moving to Bangalore, on the recommendation of several people. It is that popular! Shivanasamudra literally means "Shiva’s Sea" and the force of water here totally justifies the name. It is an island town, created by the splitting of the river Kaveri, where it falls off huge cliffs at majorly two separate spots, giving rise to the two waterfall zones - Gaganchukki and Barachukki. The best time to visit is during the monsoon, since the waterfalls run full then.
 
 ## Duration and Time of Visit
 1 day<br>
