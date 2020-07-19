@@ -31,13 +31,13 @@ December beginning
 </tr>	
 <tr>
     <td>Distance</td>
-    <td>Bangalore - Ramanagara: 65 kms one way<br>
-    Ramanagara - Kanva Dam: 16 kms</td>
+    <td>Bangalore - Ramanagara: 65 kms either way<br>
+    Ramanagara - Kanva Dam: 16 kms either way</td>
 </tr>
 <tr>
     <td>Duration</td>
     <td>Bangalore - Ramanagara: 1.5 hours either way<br>
-    Ramanagara - Kanva Dam: 30 minutes</td>
+    Ramanagara - Kanva Dam: 30 minutes either way</td>
 </tr>	
 <tr>
     <td>Cost</td>
