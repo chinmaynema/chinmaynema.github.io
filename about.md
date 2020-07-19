@@ -9,7 +9,7 @@ featured_image: /assets/images/pages/about/About.jpg
 
 Hi, I am Chinmay, and I really hope to inspire, and help, you to travel!
 
-Travel for me is a way to go back to first principles. I think what I love the most about travelling is how one has to figure out everything from scratch - where all to go, how to go, how to optimise for preferences, time and money, how to learn from other's mistakes - revealing so much about the world, about others and about oneself.
+Travel, for me, is a way to go back to first principles. I think what I love the most about travelling is how one has to figure out everything from scratch - where all to go, how to go, how to optimise for preferences, time and money, how to learn from other's mistakes - revealing so much about the world, about others and about oneself.
 
 Another thing I love about travelling is it opens one's mind to possibilities. It is amazing how different, and similar, people and things are across geographies!
 
