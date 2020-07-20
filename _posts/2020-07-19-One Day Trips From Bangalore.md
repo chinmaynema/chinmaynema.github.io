@@ -243,10 +243,9 @@ Sharing the rest of the places that I have not written about yet. Will keep link
 <li>Madakasira Fort Trek</li>
 <li>Pavagada Fort Trek</li>
 <li>Hosaholalu Temple</li>
-<li>Doddagaddavali</li>
 <li>Nidagal Betta Trek</li>
 <li>Himvadgopalswamy Betta</li>
-<li>Doddagadavali Temple</li>
+<li>Doddagadavali Temple and Yagachi Dam</li>
 </ol>
 
 PS: Please drop me a message / comment in case I have missed any place. Would love to hear about it from you.
