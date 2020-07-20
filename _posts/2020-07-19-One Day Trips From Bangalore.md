@@ -19,7 +19,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 <img src="assets/images/posts/savandurga/SavandurgaCover.jpg" width="80%">
 </p>
 
-<table style="width:80%;margin-left:auto;margin-right:auto;">
+<table style="width:100%">
 <tr>
     <td width="25%">Things to Do</td>
     <td>Trekking on the largest monolith hill in Asia</td>
@@ -41,7 +41,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 <img src="assets/images/posts/shivanasamudra/DSC_0026Y_1.jpg" width="80%">
 </p>
 
-<table style="width:80%;margin-left:auto;margin-right:auto;">
+<table style="width:100%">
 <tr>
     <td width="25%">Things to Do</td>
     <td>Waterfalls, River and Lake</td>
@@ -63,7 +63,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 <img src="assets/images/posts/hogenakkal/HogenakkalCover.jpg" width="80%">
 </p>
 
-<table style="width:80%;margin-left:auto;margin-right:auto;">
+<table style="width:100%">
 <tr>
     <td width="25%">Things to Do</td>
     <td>Waterfalls and Coracle ride in the river</td>
@@ -86,7 +86,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 <img src="assets/images/posts/ramanagara-kanva/Ramanagara Cover_3.jpg" width="80%">
 </p>
 
-<table style="width:80%;margin-left:auto;margin-right:auto;">
+<table style="width:100%">
 <tr>
     <td width="25%">Things to Do</td>
     <td>Trekking, Vulture sanctuary and Dam</td>
@@ -109,7 +109,7 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 <img src="assets/images/posts/mekedatu/DSC_0082_1.jpg" width="80%">
 </p>
 
-<table style="width:80%;margin-left:auto;margin-right:auto;">
+<table style="width:100%">
 <tr>
     <td width="25%">Things to Do</td>
     <td>Rivers, Gorge, Waterfall</td>
@@ -133,7 +133,7 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 <img src="assets/images/posts/uttaribetta/IMG_20190811_065035_1.jpg" width="80%">
 </p>
 
-<table style="width:80%;margin-left:auto;margin-right:auto;">
+<table style="width:100%">
 <tr>
     <td width="25%">Things to Do</td>
     <td>Trekking (can do a night trek)</td>
@@ -155,7 +155,7 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 <img src="assets/images/posts/thattekere/DSC_0004_1.jpg" width="80%">
 </p>
 
-<table style="width:80%;margin-left:auto;margin-right:auto;">
+<table style="width:100%">
 <tr>
     <td width="25%">Things to Do</td>
     <td>Lake</td>
