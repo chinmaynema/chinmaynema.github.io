@@ -5,7 +5,7 @@ heading: Mahabalipuram (3 days, 2 nights | Solo)
 tags: [beach, chill, archaeology, history, solo, roadtrip, Bangalore, Chennai]
 featured_image_thumbnail: Mahabalipuram Temples
 featured_image: assets/images/posts/mahabalipuram/IMG_20200307_155919_1.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
