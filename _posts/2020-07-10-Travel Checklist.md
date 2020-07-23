@@ -186,7 +186,7 @@ Always end up missing something or the other while travelling? I know that feeli
     <td width="3%" valign="top"><input type="checkbox"/></td>
     <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Maps and Directions</label></td>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Language Guide</label></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Daypack</label></td>
 </tr>
 <tr>
     <td width="3%" valign="top"><input type="checkbox"/></td>
@@ -204,7 +204,7 @@ Always end up missing something or the other while travelling? I know that feeli
     <td width="3%" valign="top"><input type="checkbox"/></td>
     <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Umbrella</label></td>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Daypack</label></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Plastic Bag for Laundry/ Wet Clothes</label></td>
 </tr>
 <tr>
     <td width="3%" valign="top"><input type="checkbox"/></td>
@@ -242,7 +242,7 @@ Always end up missing something or the other while travelling? I know that feeli
 </tr>
 <tr>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Hand Sanatizer</label></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Hand Sanitizer</label></td>
     <td width="3%" valign="top"><input type="checkbox"/></td>
     <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Glasses, Contact Lenses</label></td>
 </tr>
