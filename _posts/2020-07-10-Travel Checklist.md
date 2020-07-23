@@ -100,7 +100,7 @@ Always end up missing something or the other while travelling? I know that feeli
     <td width="3%" valign="top"><input type="checkbox"/></td>
     <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Toothbrush, Toothpaste, Floss</label></td>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Soap</label></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Soap (Bathing and Washing)</label></td>
 </tr>
 <tr>
     <td width="3%" valign="top"><input type="checkbox"/></td>
