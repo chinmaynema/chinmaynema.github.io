@@ -152,7 +152,13 @@ Always end up missing something or the other while travelling? I know that feeli
     <td width="3%" valign="top"><input type="checkbox"/></td>
     <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Earphones, Headphones</label></td>
     <td width="3%" valign="top"><input type="checkbox"/></td>
-    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> Power Bank</label></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> AUX Cable</label></td>
+</tr>
+<tr>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"/> <label class="strikethrough"> Power Bank</label></td>
+    <td width="3%" valign="top"><input type="checkbox"/></td>
+    <td width="47%" valign="top"><input type="checkbox"> <label class="strikethrough"> USB Drive, External Hard Disk</label></td>
 </tr>
 <tr>
     <td width="3%" valign="top"><input type="checkbox"/></td>
