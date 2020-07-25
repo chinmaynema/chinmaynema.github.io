@@ -156,7 +156,17 @@ Hence, on reaching Mahabalipuram, I deboarded the cab at one end of the beach (a
 </p>
 -	Post that, I spent the rest of the morning at the rooftop cafe, till ~1 pm, when I took a cab to Chennai (Ola / Uber to the rescue again)  
 
-## Other Things To Do (that I didn’t)
+## Summary of Things To Do
+**Things I did:**
+- Seaside hotel and cafe
+- Swim in the sea
+- Monuments:
+	- Main Complex: Krishna’s Butterball, Arjuna’s Penance, Mahishasuramardini and Krishna Mandapam
+	- Pancha Rathas
+	- Shore Temple
+- Local market
+
+**Things I didn't do:**
 - Tiger Cave: This could be worth visiting, but since it is situated away from all other monuments, I didn't want to go all the way only for this
 - Crocodile Farm	
 - India Seashell Museum
