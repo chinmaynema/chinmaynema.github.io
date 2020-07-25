@@ -212,6 +212,7 @@ Sharing the rest of the places that I have not written about yet. Will keep link
 <li>Maasti Malur</li>
 <li>Makalidurga Railway Trek</li>
 <li>Nijagal Trek</li>
+<li>Kaiwara and Kailasagiri Hill</li>
 <li>Devarayanadurga</li>
 <li>Mandharagiri Trek</li>
 <li>Narayanagiri Trek</li>
@@ -250,6 +251,7 @@ Sharing the rest of the places that I have not written about yet. Will keep link
 <li>Nidagal Betta Trek</li>
 <li>Himvadgopalswamy Betta</li>
 <li>Doddagadavali Temple and Yagachi Dam</li>
+<li>Turuvekere Hoysala Temples & Lakes</li>
 </ol>
 
 PS: Please drop me a message / comment in case I have missed any place. Would love to hear about it from you.
