@@ -103,7 +103,7 @@ Zoomed-in images
 - Dargah View Point
 - Barachukki Falls
 - Lunch at Hotel Maurya
-- Reservoir
+- Reservoir<br>
 **Things we didn't do:**
 - Shivanasamudra Hydro-Electric Power Station: I hear that one can visit it by obtaining special permission through Karnataka Power Corporation. Travelling in British built winch lift would be a unique experience
 - Talakadu: a desert-like town located on the banks of Kaveri, famous for its temples, ~35kms from Shivanasamudra
