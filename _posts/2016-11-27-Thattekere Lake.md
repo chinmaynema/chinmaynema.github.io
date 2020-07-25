@@ -81,6 +81,7 @@ November end
 ## Summary of Things To Do
 **Things we did:**
 - Thattekere Lake
+
 **Things we didn't do:**
 - Watch Tower: We had planned to find it, but our plan was cut short by the forest guard
 - Kanive Mahadeswara Temple
