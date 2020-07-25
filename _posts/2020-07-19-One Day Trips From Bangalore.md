@@ -83,7 +83,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 ### 4. <a href="https://onetriptoanother.com/Ramanagara-Kanva">Ramanagara - Kanva Dam</a>
 
 <p align="center">
-<img src="assets/images/posts/ramanagara-kanva/Ramanagara Cover_3.jpg" width="80%">
+<img src="assets/images/posts/ramanagara-kanva/RamanagaraCover.jpg" width="80%">
 </p>
 
 <table style="width:100%">
