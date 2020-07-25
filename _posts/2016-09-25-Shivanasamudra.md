@@ -96,7 +96,15 @@ Zoomed-in images
 - Food and drinks
 - Entrance and parking at both the waterfalls are free of cost
 
-## Other Things To Do (that we didn’t)
+## Summary of Things To Do
+**Things we did:**
+- Gaganchukki Falls
+- Wesley Bridge
+- Dargah View Point
+- Barachukki Falls
+- Lunch at Hotel Maurya
+- Reservoir
+**Things we didn't do:**
 - Shivanasamudra Hydro-Electric Power Station: I hear that one can visit it by obtaining special permission through Karnataka Power Corporation. Travelling in British built winch lift would be a unique experience
 - Talakadu: a desert-like town located on the banks of Kaveri, famous for its temples, ~35kms from Shivanasamudra
 - Somnathpur: a small village situated on the banks Kaveri, boasting of grand monuments dating back to the Hoysala period, ~45kms away
