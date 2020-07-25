@@ -116,6 +116,7 @@ December beginning
 - Food and drinks
 
 ## Tips and Resources
-- Nandi Hill is very crowded on weekends. If possible, try to go early morning on a weekday
+- Access to the hill opens only at 6am
+- Nandi Hills is very crowded on weekends. If possible, try to go early morning on a weekday
+- Obviously, monsoon is the best time to visit
 - Beware of monkeys - do not carry or keep food in the open
-- Access to the hill opens at 6am
