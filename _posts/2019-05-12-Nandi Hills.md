@@ -113,7 +113,7 @@ December beginning
 
 ## Major Expenses
 - Self-drive rental car: ~Rs. 2,500 (including fuel)
-- Parking: Rs. 100
+- Parking and Entrance Fee
 - Food and drinks
 
 ## Tips and Resources
