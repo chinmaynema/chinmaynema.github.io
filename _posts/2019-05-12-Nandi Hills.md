@@ -38,7 +38,7 @@ December beginning
 </tr>
 <tr>
     <td width="22%">Cost</td>
-    <td>~Rs. 2,000 (including fuel)</td>
+    <td>~Rs. 2,500 (including fuel)</td>
 </tr>
 <tr>
     <td width="22%">Other Options</td>
@@ -112,7 +112,8 @@ December beginning
 - Nehru Nilaya: Also called Cubbon House, this was the summer residence of Mark Cubbon, the commissioner of Mysore during late 1800s
 
 ## Major Expenses
-- Self-drive rental car: ~Rs. 2,000 (including fuel)
+- Self-drive rental car: ~Rs. 2,500 (including fuel)
+- Parking: Rs. 100
 - Food and drinks
 
 ## Tips and Resources
