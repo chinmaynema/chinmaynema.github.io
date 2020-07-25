@@ -27,7 +27,7 @@ December beginning
 </tr>
 <tr>
     <td>Mode</td>
-    <td>Self-drive rental car from Drivezy</td>
+    <td>Self-drive rental car</td>
 </tr>	
 <tr>
     <td>Distance</td>
