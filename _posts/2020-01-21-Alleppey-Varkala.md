@@ -209,6 +209,7 @@ Varkala:<br>
 - Jatayu Earth’s Centre
 
 **Things we didn't do:**
+
 Alleppey:<br>
 Since we had only one day, a friend who is from Alleppey suggested we do just the houseboat as the rest of the things were not that great. Still, sharing the list if you have time:
 -	Beaches: Alappuzha / Marari beach and the Lighthouse, Pozhiyoram, Thumpoly, Punnapra
