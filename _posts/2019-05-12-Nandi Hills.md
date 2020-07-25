@@ -96,7 +96,6 @@ December beginning
 ## Summary of Things To Do
 
 **Things we did:**
-
 - Sunrise View Point
 - Yoga Nandeeshwar Temple
 - Tipu's Drop
@@ -106,7 +105,6 @@ December beginning
 - Bhoga Nandeeshwara Temple
 
 **Things we didn't do:**
-
 - Trek to the peak: A flight of 1,175 steps leads from the base to the top
 - Brahmashram: This cave was used by the sage Ramakrishna Paramhansa for meditation
 - Nehru Nilaya: Also called Cubbon House, this was the summer residence of Mark Cubbon, the commissioner of Mysore during late 1800s
