@@ -194,7 +194,9 @@ Sharing the rest of the places that I have not written about yet. Will keep link
 <li>TG Reservoir</li>
 <li>Talakadu</li>
 <li>Shivagange</li>
+<li>Antaragange</li>
 <li>Ratnagiri Fort</li>
+<li>Krishnagiri and Shoolagiri</li>
 <li>Horsley Hill</li>
 <li>TK Falls</li>
 <li>Shanmukha Temple and Omkar Hills</li>
@@ -204,8 +206,9 @@ Sharing the rest of the places that I have not written about yet. Will keep link
 <li>Lokaruch</li>
 <li>Turahalli Fores</li>
 <li>Maddur</li>
+<li>Haddinakallu and Basaralu</li>
 <li>Pearl Valley (Muthaylamaduvu)</li>
-<li>Muthathi Forest Ride</li>
+<li>Muthathi Forest Ride and Achalu Betta</li>
 <li>Maasti Malur</li>
 <li>Makalidurga Railway Trek</li>
 <li>Nijagal Trek</li>
@@ -218,7 +221,7 @@ Sharing the rest of the places that I have not written about yet. Will keep link
 <li>Bhairavadurga Trek</li>
 <li>Melukote</li>
 <li>Balmuri Falls</li>
-<li>Markonahalli Dam</li>
+<li>Shravanabelagola and Markonahalli Dam</li>
 <li>Channarayanaddurga Trek</li>
 <li>Tonnurkere</li>
 <li>Panchapalli Dam</li>
@@ -226,13 +229,13 @@ Sharing the rest of the places that I have not written about yet. Will keep link
 <li>Srirangapatna</li>
 <li>Madhugiri Trek</li>
 <li>Maasti Malur</li>
-<li>Mahadevapura</li>
+<li>Mahadevapura and Karighatta Hill</li>
 <li>Medigeshi Fort Trek</li>
 <li>Siddarabetta Trek</li>
 <li>Gudibande Trek</li>
 <li>Bhasmangi Fort Trek</li>
 <li>KRS Backwaters and Venugopala Swamy Temple</li>
-<li>Dandiganahalli Day</li>
+<li>Dandiganahalli Dam</li>
 <li>Rayakottai Trek</li>
 <li>Bettamugililam and Aiyur Spider Valley</li>
 <li>Gummanayaka Fort Trek</li>
@@ -243,10 +246,10 @@ Sharing the rest of the places that I have not written about yet. Will keep link
 <li>Madakasira Fort Trek</li>
 <li>Pavagada Fort Trek</li>
 <li>Hosaholalu Temple</li>
+<li>Channapatna</li>
 <li>Nidagal Betta Trek</li>
 <li>Himvadgopalswamy Betta</li>
 <li>Doddagadavali Temple and Yagachi Dam</li>
-<li>Krishnagiri and Shoolagiri</li>
 </ol>
 
 PS: Please drop me a message / comment in case I have missed any place. Would love to hear about it from you.
