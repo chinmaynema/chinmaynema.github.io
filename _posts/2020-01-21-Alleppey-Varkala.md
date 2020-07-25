@@ -96,7 +96,7 @@ Varkala
 -	All of us landed in **Kochi** early morning, around 8 am
 -	We grabbed a quick bite and booked an Ola Outstation to Alleppey
 	- The road was good, but the weather and landscape not particularly exciting
--	We couldn’t wait to be on the houseboat, and needless to say, went directly to it, at the **Punnamada Jetty**
+-	We couldn’t wait to be on the **houseboat**, and needless to say, went directly to it, at the **Punnamada Jetty**
 	-	It was a beautiful boat, simple yet elegant. It had two bedrooms with attached washrooms, an upper deck, a glass-enclosed lower deck, a captain and a cook!
 	-	<u>Tip:</u> I think it’s best to pre-book a houseboat, especially during the busy season. Towards the end, I have shared a list of things to look out for while choosing a houseboat
 <p align="center">
@@ -148,7 +148,7 @@ Varkala
 <p align="center">
 <img src="Alleppey-Varkala Pics/IMG_20200119_163807_1.jpg" alt="North Cliff, Varkala, Kerala" width="70%">
 </p>
--	Towards evening, we descended to the beach, did a quick recce to zero in on a less crowded stretch and went right into the water
+-	Towards evening, we descended to the **Varkala Beach**, did a quick recce to zero in on a less crowded stretch and went right into the water
 	-	We spent about 2 hours in there. My friends preferred to stay closer to the beach. Knowing swimming well, I ventured alone a little further. Watching the sunset from inside the sea is a sight to remember!
 	-	I like to just lie in water - floating on the back, ears underwater, eyes shut. You are able to hear the water - the waves along with the tiny particles moving in the current - and it cancels the rest of the outside noise. This, plus the gentle pressure on the ears, is one of the most calming and meditative sensations I have experienced. Try this whenever you are next in water!
 <p align="center">
@@ -195,8 +195,20 @@ Varkala
 -	We left late evening for Kochi, unable to do anything besides sleeping on the way
 -	A couple of hours of sleep at an Oyo hotel and we were off to the airport, bringing the escapade to an end
 
-## Other Things To Do (that we didn’t)
+## Summary of Things To Do
+**Things we did:**
 
+Alleppey:<br>
+- Punnamada Jetty
+- Houseboat stay
+
+Varkala:<br>
+- Kappil Beach
+- Varkala Beach
+- Odayam Beach
+- Jatayu Earth’s Centre
+
+**Things we didn't do:**
 Alleppey:<br>
 Since we had only one day, a friend who is from Alleppey suggested we do just the houseboat as the rest of the things were not that great. Still, sharing the list if you have time:
 -	Beaches: Alappuzha / Marari beach and the Lighthouse, Pozhiyoram, Thumpoly, Punnapra
