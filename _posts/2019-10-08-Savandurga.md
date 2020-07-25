@@ -115,7 +115,12 @@ Source: MemExp Blog</p>
 - Self drive rental car: Rs. 2,100 (including fuel)
 - Food and drinks
 
-## Other Things To Do (that we didn’t)
+## Summary of Things To Do
+**Things we did:**
+- Trek Savandurga
+- View of Manchibele Dam from the top
+
+**Things we didn't do:**
 - Temple of Sri Basaveswara, Sri Narasimhaswamy and Sri Veerabhadraswamy: this is the tempe at the foot of Savandurga, but we couldn't visit it because of the rainfall
 
 ## Tips and Resources
