@@ -111,7 +111,12 @@ December beginning (best time to visit is October to February)
 - Parking: Rs. 30
 - Food and drinks
 
-## Other Things To Do (that we didn’t)
+## Summary of Things To Do
+**Things we did:**
+- Coracle Ride
+- Hogenakkal Waterfall View Point
+
+**Things we didn't do:**
 - Melagiri Hills
 
 ## Tips and Resources
