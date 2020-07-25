@@ -109,7 +109,7 @@ December beginning
 
 - Trek to the peak: A flight of 1,175 steps leads from the base to the top
 - Brahmashram: This cave was used by the sage Ramakrishna Paramhansa for meditation
-- Nehru Nilaya
+- Nehru Nilaya: Also called Cubbon House, this was the summer residence of Mark Cubbon, the commissioner of Mysore during late 1800s
 
 ## Major Expenses
 - Self-drive rental car: ~Rs. 2,000 (including fuel)
