@@ -101,7 +101,7 @@ January mid
 **Things we did:**
 - Sangam
 - Mekedatu
-- Chunchi Falls
+- Chunchi Falls<br>
 **Things we didn't do:**
 - Walk from Sangam to Mekedatu: we preferred the bus since it was a sunny day
 
