@@ -85,7 +85,7 @@ August mid
 - We reached the **Haritha Resort** in Gandikota (literally the only establishment in that area!) around 2:30pm
 	- We were hoping to find a good restaurant at the resort, but were extremely disappointed to find only a canteen (similar to a college mess) which served only rice and curry. I think the only reason that place is surviving is because there is no other alternative for some kilometers at least!
 	- I was aware of the tent-stay option at Gandikota and enquired one of the staff members at the resort about it. He offered to connect us to the person, but himself negotiated the price with us - I think the staff members help generate leads for the tent companies and hence you can have a word with either of them. I think we got a pretty good deal - Rs. 900 per person per night, and Rs. 250 per person for kayaking!
-- On seeing the **campsite**, "blown away" would be an understatement for what we felt! It was better than anything we had imagined
+- On seeing the **Campsite**, "blown away" would be an understatement for what we felt! It was better than anything we had imagined
 	- It was right at the edge of the cliff, next to the fort, atop the Pennar river
 	- There were some 50 tents pitched next to each other, all occupied
 	- The tents were spacious and of good quality; same was true for the sleeping bags provided
@@ -119,7 +119,7 @@ August mid
 <span style="color: #000000">**Day 2: Hiking - Kayaking - Mylavaram Dam**</span>
 
 - It wasn't a clear sunrise, but the play of colours against the canyons and the river still made the morning mesmerising
-- Post breakfast (again from Haritha!), we started off on the hike from the top of the canyon to the river at the bottom, where we were supposed to do kayaking
+- Post breakfast (again from Haritha!), we started off on the **hike** from the top of the canyon to the **river** at the bottom, where we were supposed to do **kayaking**
 	- It's a long but easy hike of about 30 minutes - from kids to elders, everyone was doing it, with varying levels of fatigue. Only towards the end do you need to take support of your hands. Also, there are many other people doing it with you, hence that keeps you going
 	- The views along the route are amazing - looking from different angles at the rugged landmasses rising from the river and the vegetation on them
 
@@ -155,8 +155,16 @@ August mid
 - Toll: Rs. 360
 - Food and drinks
 
-## Other Things To Do (that we didn’t)
+## Summary of Things To Do
+**Things we did:**
+- Haritha Resort
+- Campsite
+- Gandikota Fort
+- Hike to the river
+- Kayakaing
+- Mylavaram Dam
 
+**Things we didn't do:**
 - Belum Caves: We had to be back home by the evening hence had to skip. Definitely visit them if time permits. It is the largest cave system on the Indian Subcontinent
 
 
