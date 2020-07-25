@@ -171,12 +171,32 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 </tr>
 </table>
 
+### 8. <a href="https://onetriptoanother.com/Nandi-Hills">Nandi Hills</a>
+
+<p align="center">
+<img src="Nandi Hills Pics/BhoganandeeshwarTemple.jpg" width="80%">
+</p>
+
+<table style="width:100%">
+<tr>
+    <td width="25%">Things to Do</td>
+    <td>Lake</td>
+</tr>
+<tr>
+    <td width="25%">Distance</td>
+    <td>~75 kms either way</td>
+</tr>	
+<tr>
+    <td width="25%">Time Required</td>
+    <td>Travel: 1.5 hrs X 2 = 3 hrs<br>
+    Spot: 3 hrs</td>
+</tr>
+</table>
 
 <br>
 Sharing the rest of the places that I have not written about yet. Will keep linking the blog posts as I continue to write.<br>
 
-<ol start="8">
-<li>Nandi Hills</li>
+<ol start="9">
 <li>Mysore</li>
 <li>Bandipur National Park</li>
 <li>Bannerghatta National Park</li>
