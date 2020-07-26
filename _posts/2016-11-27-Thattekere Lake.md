@@ -5,7 +5,7 @@ heading: Thattekere Lake (1 day | 3 people)
 tags: [lake, roadtrip, one day, Bangalore]
 featured_image_thumbnail: Thattekere Lake
 featured_image: Thattekere Lake Pics/DSC_0004_1.jpg
-ogimage: Thattekere Lake Pics/DSC_0004_1.jpg
+ogimage: Thattekere Lake Pics/DSC_0004_1_1.jpg
 url: Thattekere-Lake
 featured: false
 hidden: false
