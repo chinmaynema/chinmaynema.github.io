@@ -73,7 +73,7 @@ December beginning
 	- After about 45 minutes, we decided to take a tour of the rest of the things
 
 <p align="center">
-<img src="Nandi Hills Pics/Nandi Hills View.jpg" width="99.4%">
+<img src="Nandi Hills Pics/NandiHillsView.jpg" width="99.4%">
 </p>
 
 - Walking down, we came across the **Amrutha Sarovar** (meaning “The Lake of Nectar"), a small pond with steps to the water, formed by perennial springs
