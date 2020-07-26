@@ -2,7 +2,7 @@
 layout: post
 title: List of One Day Trips from Bangalore - Weekend Getaways
 heading: List of One Day Trips from Bangalore
-tags: [tips, roadtrip, one day, Bangalore]
+tags: [tips, roadtrip, one day, Bangalore, hills, lake, river, history, architecture, waterfall, hiking, trekking]
 featured_image_thumbnail:
 featured_image: assets/images/posts/onedaytrips/IMG_20170827_125531293_HDR_1.jpg
 featured: false
