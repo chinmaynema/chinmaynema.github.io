@@ -85,7 +85,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 ### 4. <a href="https://onetriptoanother.com/Nandi-Hills">Nandi Hills</a>
 
 <p align="center">
-<img src="Nandi Hills Pics/Nandi Hills View.jpg" width="80%">
+<img src="Nandi Hills Pics/NandiHillsView.jpg" width="80%">
 </p>
 
 <table style="width:100%">
