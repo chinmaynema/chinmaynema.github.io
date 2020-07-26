@@ -9,7 +9,7 @@
     <meta property="og:title"              content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}" />
     <meta property="og:description"        content="Get insights and tips to get more out of your trips!" />
     <meta property="og:image"              content="{% if page.featured_image %}http://onetriptoanother.com/{{ page.ogimage | escape }}{% else %}http://onetriptoanother.com/assets/images/authorimage.jpg{% endif %}" />
-    <meta property="og:url"		   content="http://onetriptoanother.com/{{page.url}}" />
+    <meta property="og:url"		   content="http://onetriptoanother.com{{page.url}}" />
 	
     {% if site.plugins_dir contains 'jekyll-seo-tag' %}
         {% include head-seo.html %}
