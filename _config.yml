@@ -44,13 +44,13 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about
+    url: /About
 #  - text: Projects
-#    url: /projects
+#    url: /Projects
 #  - text: Experience
-#    url: /experience
+#    url: /Experience
   - text: Contact
-    url: /contact
+    url: /Contact
 
 # Required Plugins
 plugins_dir:
