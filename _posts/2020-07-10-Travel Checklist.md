@@ -4,7 +4,9 @@ title: Exhaustive Travel Checklist - So You Don't Miss A Thing
 heading: Travel Checklist - So You Don't Miss Anything
 tags: [tips]
 featured_image_thumbnail: Travel Checklist
-featured_image: assets/images/posts/travelchecklist/TravelChecklist.jpg
+featured_image: assets/images/posts/TravelChecklist.jpg
+ogimage: assets/images/posts/TravelChecklist.jpg
+url: Travel-Checklist
 featured: false
 hidden: false
 ---
