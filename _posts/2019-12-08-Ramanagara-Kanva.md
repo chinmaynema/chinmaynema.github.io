@@ -5,7 +5,7 @@ heading: Ramanagara-Kanva Dam (1 day | Solo)
 tags: [hills, hiking, trekking, roadtrip, solo, one day, Bangalore]
 featured_image_thumbnail: Ramadevara Betta Hill
 featured_image: Ramanagara-Kanva Pics/RamanagaraCover.jpg
-ogimage: Ramanagara-Kanva Pics/RamanagaraCover.jpg
+ogimage: Ramanagara-Kanva Pics/RamanagaraCover_1.jpg
 url: Ramanagara-Kanva
 featured: false
 hidden: false
