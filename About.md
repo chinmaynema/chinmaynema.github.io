@@ -3,6 +3,8 @@ layout: page
 title: About Chinmay - One Trip to Another
 heading: About
 featured_image: /assets/images/pages/about/About.jpg
+ogimage: assets/images/pages/about/About_1.jpg
+url: About
 ---
 
 >“Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” <cite>― Steve Jobs ―</cite>
