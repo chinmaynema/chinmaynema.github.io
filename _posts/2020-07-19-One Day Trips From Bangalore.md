@@ -18,7 +18,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 ### 1. <a href="https://onetriptoanother.com/Savandurga">Savandurga</a>
 
 <p align="center">
-<img src="assets/images/posts/savandurga/SavandurgaCover.jpg" width="80%">
+<img src="Savandurga Pics/DSC_0049_1.jpg" width="80%">
 </p>
 
 <table style="width:100%">
@@ -40,7 +40,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 ### 2. <a href="https://onetriptoanother.com/Shivanasamudra">Shivanasamudra</a>
 
 <p align="center">
-<img src="assets/images/posts/shivanasamudra/DSC_0026Y_1.jpg" width="80%">
+<img src="Shivanasamudra Pics/DSC_0026Y_1.jpg" width="80%">
 </p>
 
 <table style="width:100%">
@@ -62,7 +62,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 ### 3. <a href="https://onetriptoanother.com/Hogenakkal-Falls">Hogenakkal Falls</a>
 
 <p align="center">
-<img src="assets/images/posts/hogenakkal/HogenakkalCover.jpg" width="80%">
+<img src="Hogenakkal Pics/IMG_20181201_143544653_1.jpg" width="80%">
 </p>
 
 <table style="width:100%">
@@ -85,7 +85,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 ### 4. <a href="https://onetriptoanother.com/Nandi-Hills">Nandi Hills</a>
 
 <p align="center">
-<img src="Nandi Hills Pics/BhoganandeeshwarTemple.jpg" width="80%">
+<img src="Nandi Hills Pics/Nandi Hills View.jpg" width="80%">
 </p>
 
 <table style="width:100%">
@@ -107,7 +107,7 @@ I have compiled a list of all the one day trips from Bangalore that I am aware o
 ### 5. <a href="https://onetriptoanother.com/Ramanagara-Kanva">Ramanagara - Kanva Dam</a>
 
 <p align="center">
-<img src="assets/images/posts/ramanagara-kanva/RamanagaraCover.jpg" width="80%">
+<img src="Ramanagara-Kanva Pics/RamanagaraCover.jpg" width="80%">
 </p>
 
 <table style="width:100%">
@@ -130,7 +130,7 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 ### 6. <a href="https://onetriptoanother.com/Mekedatu-Sangama-Chunchi-Falls">Mekedatu - Sangam - Chunchi Falls</a>
 
 <p align="center">
-<img src="assets/images/posts/mekedatu/DSC_0082_1.jpg" width="80%">
+<img src="Mekedatu Pics/DSC_0082_1.jpg" width="80%">
 </p>
 
 <table style="width:100%">
@@ -154,7 +154,7 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 ### 7. <a href="https://onetriptoanother.com/Uttari-Betta-Trek">Uttari Betta (Hutridurga) Trek</a>
 
 <p align="center">
-<img src="assets/images/posts/uttaribetta/IMG_20190811_065035_1.jpg" width="80%">
+<img src="UttariBetta Pics/IMG_20190811_065035_1.jpg" width="80%">
 </p>
 
 <table style="width:100%">
@@ -176,7 +176,7 @@ Ramanagara - Kanva Dam: 16 kms either way</td>
 ### 8. <a href="https://onetriptoanother.com/Thattekere-Lake">Thattekere Lake</a>
 
 <p align="center">
-<img src="assets/images/posts/thattekere/DSC_0004_1.jpg" width="80%">
+<img src="Thattekere Lake Pics/DSC_0004_1.jpg" width="80%">
 </p>
 
 <table style="width:100%">
