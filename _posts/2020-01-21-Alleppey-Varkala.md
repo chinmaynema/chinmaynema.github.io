@@ -5,7 +5,7 @@ heading: Alleppey-Varkala (3 days, 3 nights | 6 people)
 tags: [beach, sea, chill, roadtrip, Kerala]
 featured_image_thumbnail: Houseboat in Alleppey
 featured_image: Alleppey-Varkala Pics/IMG_20200118_133405_1.jpg
-ogimage: Alleppey-Varkala Pics/IMG_20200118_133405_1.jpg
+ogimage: Alleppey-Varkala Pics/IMG_20200118_133405_1_1.jpg
 url: Alleppey-Varkala
 featured: true
 hidden: false
