@@ -5,7 +5,7 @@ heading: Nandi Hills (1 day | 5 people)
 tags: [hills, hiking, roadtrip, one day, Bangalore]
 featured_image_thumbnail: Nandi Hills
 featured_image: Nandi Hills Pics/NandiHillsView.jpg
-ogimage: Nandi Hills Pics/BhoganandeeshwarTemple.jpg
+ogimage: Nandi Hills Pics/NandiHillsView_1.jpg
 url: Nandi-Hills
 featured: false
 hidden: false
