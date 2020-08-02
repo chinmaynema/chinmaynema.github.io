@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nandi Hills - Personal Itinerary, Things To Do, Tips
-heading: Nandi Hills: Bangalore's Pet Hill Station
+heading: Nandi Hills - Bangalore's Pet Hill Station
 tags: [hills, hiking, roadtrip, one day, Bangalore]
 featured_image_thumbnail: Nandi Hills
 featured_image: Nandi Hills Pics/NandiHillsView.jpg
