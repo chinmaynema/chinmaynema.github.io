@@ -2,7 +2,7 @@
 layout: post
 title: Mahabalipuram - Personal Itinerary, Things To Do, Tips
 heading: Mahabalipuram - UNESCO Heritage Site and Beach
-tags: [beach, chill, history, architecture, solo, roadtrip, Bangalore, Chennai]
+tags: [beach, chill, history, architecture, solo, Bangalore, Chennai]
 featured_image_thumbnail: Mahabalipuram Temples
 featured_image: Mahabalipuram Pics/IMG_20200307_155919_1.jpg
 ogimage: Mahabalipuram Pics/IMG_20200307_155919_1_1.jpg
