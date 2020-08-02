@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hogenakkal Falls - Personal Itinerary, Things To Do, Tips
-heading: Hogenakkal Falls: Niagara Falls of India
+heading: Hogenakkal Falls - Niagara Falls of India
 tags: [waterfall, river, hills, boating, roadtrip, one day, Bangalore]
 featured_image_thumbnail: Hogenakkal Falls - Niagara Falls of India
 featured_image: Hogenakkal Pics/IMG_20181201_143544653_1.jpg
