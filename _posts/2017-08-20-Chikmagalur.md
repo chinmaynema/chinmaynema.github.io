@@ -7,7 +7,7 @@ featured_image_thumbnail: Chikmagalur
 featured_image: Chikmagalur-Pics/DSC_0014_1.jpg
 ogimage: Chikmagalur-Pics/DSC_0014_1_1.jpg
 url: Chikmagalur
-featured: false
+featured: true
 hidden: false
 ---
 
