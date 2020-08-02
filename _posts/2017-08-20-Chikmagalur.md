@@ -67,7 +67,7 @@ August mid
 </table>
 
 <p align="center">
-<img src="Chikmagalur Pics/Chikmagalur - Best area.png" width="90%" alt="Best area to stay in Chikmagalur town">
+<img src="Chikmagalur-Pics/Chikmagalur - Best area.png" width="90%" alt="Best area to stay in Chikmagalur town">
 </p>
 
 ## Itinerary
