@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mahabalipuram - Personal Itinerary, Things To Do, Tips
-heading: Mahabalipuram (3 days, 2 nights | Solo)
+heading: Mahabalipuram - UNESCO Heritage Site and A Serene Beach
 tags: [beach, chill, history, architecture, solo, roadtrip, Bangalore, Chennai]
 featured_image_thumbnail: Mahabalipuram Temples
 featured_image: Mahabalipuram Pics/IMG_20200307_155919_1.jpg
