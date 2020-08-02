@@ -103,7 +103,7 @@ August mid
 	- Another option is to hire a jeep and enjoy the off-roading experience. The falls are actually within a coffee estate
 
 <p align="center">
-<img src="Chikmagalur-Pics/DSC_0015_1.jpg" width="80%" alt="Jhari Falls Buttermilk Falls Chikmagalur">
+<img src="Chikmagalur-Pics/DSC_0015_1.jpg" width="60%" alt="Jhari Falls Buttermilk Falls Chikmagalur">
 </p>
 
 - On the way back to the hotel from there, we stopped for snacks at **Siri Coffee**, which is visibly identifiable by the beautiful sculture of a lady in front of it
