@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shivanasamudra - Detailed Itinerary, Things To Do, Tips
+title: Shivanasamudra - Personal Itinerary, Things To Do, Tips
 heading: Shivanasamudra (1 day | 2 people)
 tags: [waterfall, river, hills, roadtrip, one day, Bangalore]
 featured_image_thumbnail: Shivanasamudra Falls
