@@ -275,6 +275,7 @@ Sharing the rest of the places that I have not written about yet. Will keep link
 <li>Himvadgopalswamy Betta</li>
 <li>Doddagadavali Temple and Yagachi Dam</li>
 <li>Turuvekere Hoysala Temples & Lakes</li>
+<li>Ranganathittu Bird Sanctuarys</li>
 </ol>
 
 PS: Please drop me a message / comment in case I have missed any place. Would love to hear about it from you.
