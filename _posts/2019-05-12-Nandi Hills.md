@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nandi Hills - Detailed Itinerary, Things To Do, Tips
+title: Nandi Hills - Personal Itinerary, Things To Do, Tips
 heading: Nandi Hills (1 day | 5 people)
 tags: [hills, hiking, roadtrip, one day, Bangalore]
 featured_image_thumbnail: Nandi Hills
