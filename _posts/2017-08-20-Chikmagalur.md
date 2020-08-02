@@ -61,7 +61,7 @@ August mid
 </tr>	
 <tr>
     <td width="22%">Best area to stay</td>
-    <td>If you have your own vehicle, you can stay a little far from the town - in hotel / homestay<br>
+    <td>If you have your own vehicle, you can stay a little far from the town - in homestay / hotel<br>
     If not, main area of the city, for easy transportation</td>
 </tr>
 </table>
