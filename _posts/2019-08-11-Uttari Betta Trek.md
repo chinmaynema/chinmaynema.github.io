@@ -2,7 +2,7 @@
 layout: post
 title: Uttari Betta (Hutridurga) Trek - Itinerary and Tips
 heading: Uttari Betta (Hutridurga) - Night Trek
-tags: [hills, hiking, trekking, roadtrip, one day, Bangalore]
+tags: [hills, hiking, trekking, one day, Bangalore]
 featured_image_thumbnail: Uttari Betta (Hutridurga) Trek
 featured_image: UttariBetta Pics/IMG_20190811_065035_1.jpg
 ogimage: UttariBetta Pics/IMG_20190811_065035_1_1.jpg
