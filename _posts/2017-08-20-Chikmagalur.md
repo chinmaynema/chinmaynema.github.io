@@ -11,7 +11,7 @@ featured: false
 hidden: false
 ---
 
-Tucked in the foothills of the Mullayanagiri peak of the Western Ghats, lies the charming town of Chikmagalur, also called the "Land of Coffee". Having a pleasant weather, plenty of waterfalls, hills, tourist spots and coffee estates, and being so close to Bangalore, it is one of the most popular getaways. There are just so many things to do in and around Chikmagalur that two days are not sufficient at all. You need to prioritise as per your interests, time and conveyance, and definitely plan multiple trips to Chikmagalur, since everything is worth it!
+Tucked in the foothills of the Mullayanagiri peak of the Western Ghats, lies the charming town of Chikmagalur, also called the "Land of Coffee". Having a pleasant weather, plenty of waterfalls, hills, amazing views and coffee estates, and being so close to Bangalore, it is one of the most popular getaways. There are just so many things to do in and around Chikmagalur that two days are not sufficient at all. You need to prioritise as per your interests, time and conveyance, and definitely plan multiple trips to Chikmagalur, since everything is worth it!
 
 In the limited time we had, we could visit only the nearby places. Undoubtedly, I will be travelling to Chikmagalur again to cover the rest of them!
 
