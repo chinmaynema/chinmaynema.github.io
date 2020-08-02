@@ -67,7 +67,7 @@ August mid
 </table>
 
 <p align="center">
-<img src="Chikmagalur Pics/Chikmagalur - Best area.png" width="90%">
+<img src="Chikmagalur Pics/Chikmagalur - Best area.png" width="90%" alt="Best area to stay in Chikmagalur town">
 </p>
 
 ## Itinerary
@@ -92,10 +92,10 @@ August mid
 	- It started drizzling on the way back and we hurried, reaching our car in about ~1.5 hours
 
 <p align="center">
-<img src="Chikmagalur-Pics/IMG_20170819_111957915_HDR_1.jpg" width="50%"><br><br>
-<img src="Chikmagalur-Pics/IMG_20170819_112625596_HDR_1.jpg" width="40%"> <img src="Chikmagalur-Pics/IMG_20170819_114904791_HDR_1.jpg" width="40%"><br><br>
-<img src="Chikmagalur-Pics/IMG_20170819_114415671_HDR_1.jpg" width="40%"> <img src="Chikmagalur-Pics/IMG_20170819_113317551_HDR_1.jpg" width="40%"><br><br>
-<img src="Chikmagalur-Pics/IMG_20170819_113000890_HDR_1.jpg" width="40%"> <img src="Chikmagalur-Pics/IMG_20170819_114450076_HDR_1.jpg" width="40%"><br><br>
+<img src="Chikmagalur-Pics/IMG_20170819_111957915_HDR_1.jpg" width="50%" alt="Mullayangiri Trek Chikmagalur"><br><br>
+<img src="Chikmagalur-Pics/IMG_20170819_112625596_HDR_1.jpg" width="40%" alt="Mullayangiri Trek Chikmagalur"> <img src="Chikmagalur-Pics/IMG_20170819_114904791_HDR_1.jpg" width="40%" alt="Mullayangiri Trek Temple Chikmagalur"><br><br>
+<img src="Chikmagalur-Pics/IMG_20170819_114415671_HDR_1.jpg" width="40%" alt="Mullayangiri Trek Temple Chikmagalur"> <img src="Chikmagalur-Pics/IMG_20170819_113317551_HDR_1.jpg" width="40%" alt="Mullayangiri Trek Chikmagalur"><br><br>
+<img src="Chikmagalur-Pics/IMG_20170819_113000890_HDR_1.jpg" width="40%" alt="Mullayangiri Trek Chikmagalur"> <img src="Chikmagalur-Pics/IMG_20170819_114450076_HDR_1.jpg" width="40%" alt="Mullayangiri Trek Temple Chikmagalur"><br><br>
 </p>
 
 - Next we went to **Jhari Falls**, also called the Buttermilk Falls or Dabdabe Falls
@@ -103,7 +103,7 @@ August mid
 	- Another option is to hire a jeep and enjoy the off-roading experience. The falls are actually within a coffee estate
 
 <p align="center">
-<img src="Chikmagalur-Pics/DSC_0015_1.jpg" width="80%">
+<img src="Chikmagalur-Pics/DSC_0015_1.jpg" width="80%" alt="Jhari Falls Buttermilk Falls Chikmagalur">
 </p>
 
 - On the way back to the hotel from there, we stopped for snacks at **Siri Coffee**, which is visibly identifiable by the beautiful sculture of a lady in front of it
@@ -115,8 +115,8 @@ August mid
 	- We were the only ones at the lake for ~1 hour, and as another group came, we moved to the next destination
 
 <p align="center">
-<img src="Chikmagalur-Pics/IMG_20170820_121611228_HDR_1.jpg" width="49.4%"> <img src="Chikmagalur-Pics/IMG_20170820_121620487_1.jpg" width="49.4%"><br><br>
-<img src="Chikmagalur-Pics/IMG_20170820_121938930_HDR_1.jpg" width="49.4%"> <img src="Chikmagalur-Pics/IMG_20170820_123440239_HDR_1.jpg" width="49.4%">
+<img src="Chikmagalur-Pics/IMG_20170820_121611228_HDR_1.jpg" width="49.4%" alt="Hirekolale Lake Chikmagalur"> <img src="Chikmagalur-Pics/IMG_20170820_121620487_1.jpg" width="49.4%" alt="Hirekolale Lake Chikmagalur"><br><br>
+<img src="Chikmagalur-Pics/IMG_20170820_121938930_HDR_1.jpg" width="49.4%" alt="Hirekolale Lake Chikmagalur"> <img src="Chikmagalur-Pics/IMG_20170820_123440239_HDR_1.jpg" width="49.4%" alt="Hirekolale Lake Chikmagalur">
 </p>
 	
 - **Ayyana Kere Lake** is one of the biggest lakes in Karnataka and another scenic location
@@ -124,9 +124,9 @@ August mid
 
 
 <p align="center">
-<img src="Chikmagalur-Pics/DSC_0024_1.jpg" width="49.4%"> <img src="Chikmagalur-Pics/DSC_0039_1.jpg" width="49.4%"><br><br>
-<img src="Chikmagalur-Pics/IMG_20170820_141633757_HDR_1.jpg" width="49.4%"> <img src="Chikmagalur-Pics/IMG_20170820_142003201_HDR_1.jpg" width="49.4%"><br><br>
-<img src="Chikmagalur-Pics/IMG_20170820_145719402_HDR_1.jpg" width="50%">
+<img src="Chikmagalur-Pics/DSC_0024_1.jpg" width="49.4%" alt="Ayyana Kere Lake Chikmagalur"> <img src="Chikmagalur-Pics/DSC_0039_1.jpg" width="49.4%" alt="Ayyana Kere Lake Chikmagalur"><br><br>
+<img src="Chikmagalur-Pics/IMG_20170820_141633757_HDR_1.jpg" width="49.4%" alt="Ayyana Kere Lake Chikmagalur"> <img src="Chikmagalur-Pics/IMG_20170820_142003201_HDR_1.jpg" width="49.4%" alt="Ayyana Kere Lake Chikmagalur"><br><br>
+<img src="Chikmagalur-Pics/IMG_20170820_145719402_HDR_1.jpg" width="50%" alt="Roadtrip from Bangalore to Chikmagalur">
 </p>
 
 ## Major Expenses
