@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alleppey-Varkala - Personal Itinerary, Things To Do, Tips
-heading: Alleppey-Varkala - Houseboats and Cafes
+heading: Alleppey-Varkala - Houseboats and Beach Cafes
 tags: [beach, sea, chill, roadtrip, Kerala]
 featured_image_thumbnail: Houseboat in Alleppey
 featured_image: Alleppey-Varkala Pics/IMG_20200118_133405_1.jpg
