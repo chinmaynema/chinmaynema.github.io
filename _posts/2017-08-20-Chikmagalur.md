@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chikmagalur - Detailed Itinerary, Things To Do, Tips
+title: Chikmagalur - Personal Itinerary, Things To Do, Tips
 heading: Chikmagalur (2 days, 1 night | 5 people)
 tags: [hills, waterfall, lake, river, roadtrip, two days, Bangalore]
 featured_image_thumbnail: Chikmagalur
