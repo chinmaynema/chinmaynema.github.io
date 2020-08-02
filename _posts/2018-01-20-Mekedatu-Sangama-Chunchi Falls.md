@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mekedatu-Sangama-Chunchi Falls - Itinerary, Things To Do
-heading: Mekedatu-Sangam-Chunchi Falls (1 day | 2 people)
+heading: Mekedatu-Sangam-Chunchi Falls - A Raging River Through a Narrow Gorge
 tags: [waterfall, river, hills, boating, roadtrip, one day, Bangalore]
 featured_image_thumbnail: Mekedatu-Sangam-Chunchi Falls
 featured_image: Mekedatu Pics/DSC_0082_1.jpg
