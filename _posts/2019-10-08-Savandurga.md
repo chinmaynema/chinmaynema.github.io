@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Savandurga - Personal Itinerary, Things To Do, Tips
-heading: Savandurga (1 day | 2 people)
+heading: Savandurga - Largest Monolist Hill of Asia
 tags: [hills, hiking, trekking, roadtrip, one day, Bangalore]
 featured_image_thumbnail: View from Savandurga
 featured_image: Savandurga Pics/DSC_0049_1.jpg
