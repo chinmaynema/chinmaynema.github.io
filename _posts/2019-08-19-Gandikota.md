@@ -7,7 +7,7 @@ featured_image_thumbnail: Grand Canyon of India
 featured_image: Gandikota Pics/GandikotaCover.jpg
 ogimage: Gandikota Pics/GandikotaCover_1.jpg
 url: Gandikota
-featured: true
+featured: false
 hidden: false
 ---
 
