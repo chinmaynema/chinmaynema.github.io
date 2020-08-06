@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chikmagalur - Personal Itinerary, Things To Do, Tips
-heading: Chikmagalur - Land of Coffe and Everything Beautiful
+heading: Chikmagalur - Land of Coffee and Everything Beautiful
 tags: [hills, waterfall, lake, river, roadtrip, two days, Bangalore]
 featured_image_thumbnail: Chikmagalur
 featured_image: Chikmagalur-Pics/DSC_0014_1.jpg
