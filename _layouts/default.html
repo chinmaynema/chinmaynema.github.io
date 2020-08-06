@@ -32,6 +32,29 @@
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
 <body class="{{ layout }}">
+    
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '{315659613166345}',
+      cookie     : true,
+      xfbml      : true,
+      version    : '{v7.0}'
+    });
+      
+    FB.AppEvents.logPageView();   
+      
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+	
     <div id="page" class="site">
         {% include header.html %}
         <div id="content" class="site-content fadeInDown delay_075s">
