@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CantKeepCalm
-heading: Rishkaaa's Birthday
+heading: Rishkaaa's Birthday!
 featured_image:
 ogimage: assets/images/posts/DSC_0435_1.jpg
 url: CantKeepCalm
