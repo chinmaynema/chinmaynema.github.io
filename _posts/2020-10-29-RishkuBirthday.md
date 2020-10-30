@@ -2,10 +2,10 @@
 layout: post
 title: Rishku-Birthday
 heading: Rishkaaaaa's B'day
-tags: [tips]
+tags: 
 featured_image_thumbnail: Rishku Birthday
 featured_image: 
-ogimage:
+ogimage: assets/images/posts/DSC_0435_1.jpg
 url: RishkuBirthday
 featured: false
 hidden: true
