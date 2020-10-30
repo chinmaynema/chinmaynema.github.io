@@ -14,5 +14,5 @@ hidden: true
 <div class="powr-birthday-countdown" id="27ebaf78_1604053080"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
 <p align="center">
-<img src="assets/images/posts/DSC_0435_1.jpg" width="99.4%" alt="The bitch in her natural feel">
+<img src="assets/images/posts/DSC_0435_1.jpg" width="75%" alt="The bitch in her natural feel">
 </p>
