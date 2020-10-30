@@ -11,5 +11,6 @@ url: CantKeepCalm
 <br><br>
 <p align="center">
 <img src="assets/images/pages/Rishika/DSC_0435.jpg" width="49%" alt="The cutie I love"> <img src="assets/images/pages/Rishika/IMG_20200104_224923_1.jpg" width="49%" alt="The sweetie I love">
+<br>
+The cutie I love!
 </p>
-The cutie I love &nbsp; &nbsp; &nbsp; &nbsp; The sweetie I love!
