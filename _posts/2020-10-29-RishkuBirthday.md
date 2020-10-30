@@ -2,7 +2,7 @@
 layout: post
 title: Rishku-Birthday
 heading: Rishkaaaaa's B'day
-tags:
+tags: [tips]
 featured_image_thumbnail: Rishku Birthday
 featured_image: assets/images/posts/DSC_0435_1.jpg
 ogimage: assets/images/posts/DSC_0435_1.jpg
@@ -11,4 +11,5 @@ featured: false
 hidden: false
 ---
 
+Rishikaaaaa
 <div class="powr-birthday-countdown" id="27ebaf78_1604053080"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
