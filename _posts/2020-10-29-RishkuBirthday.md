@@ -8,7 +8,7 @@ featured_image: assets/images/posts/DSC_0435_1.jpg
 ogimage: assets/images/posts/DSC_0435_1.jpg
 url: RishkuBirthday
 featured: false
-hidden: false
+hidden: true
 ---
 
 Rishikaaaaa
