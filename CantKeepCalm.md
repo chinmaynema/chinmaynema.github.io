@@ -13,3 +13,12 @@ url: CantKeepCalm
 <br>
 The cutie I love!
 </p>
+
+To the cutie I love,
+Who deserves the best,
+But has not got it from me, yet! :P
+
+Let's celebrate you,
+Cause you bring me meaning and joy.
+And I am ever thankful,
+That you exist :)
