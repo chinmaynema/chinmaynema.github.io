@@ -15,9 +15,9 @@ The cutie I love!
 <br><br>
 
 To the cutie I love,<br>
-Who deserves the best,<br>
+Who deserves the best.<br><br>
 I want to celebrate you,<br>
-Cause you bring me meaning and joy.<br>
+Cause you bring me meaning and joy.<br><br>
 And I am ever thankful,<br>
 That you exist :)
 </p>
