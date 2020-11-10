@@ -12,7 +12,7 @@ url: CantKeepCalm
 <img src="assets/images/pages/Rishika/DSC_0435.jpg" width="48%" alt="The cutie I love"> <img src="assets/images/pages/Rishika/IMG_20200104_224923_1.jpg" width="49.5%" alt="The sweetie I love">
 <br>
 The cutie I love!
-</p>
+<br><br><br>
 
 To the cutie I love,
 Who deserves the best,
@@ -22,3 +22,4 @@ Let's celebrate you,
 Cause you bring me meaning and joy.
 And I am ever thankful,
 That you exist :)
+</p>
