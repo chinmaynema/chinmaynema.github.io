@@ -18,7 +18,7 @@ To the cutie I love,<br>
 Who deserves the best,<br>
 But has not got it from me, yet! :P<br>
 <br>
-Let's celebrate you,<br>
+I want to celebrate you,<br>
 Cause you bring me meaning and joy.<br>
 And I am ever thankful,<br>
 That you exist :)
