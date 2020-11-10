@@ -14,13 +14,13 @@ url: CantKeepCalm
 The cutie I love!
 <br><br>
 
-To the cutie I love,
-Who deserves the best,
-But has not got it from me, yet! :P
-
-Let's celebrate you,
-Cause you bring me meaning and joy.
-And I am ever thankful,
+To the cutie I love,<br>
+Who deserves the best,<br>
+But has not got it from me, yet! :P<br>
+<br>
+Let's celebrate you,<br>
+Cause you bring me meaning and joy.<br>
+And I am ever thankful,<br>
 That you exist :)
 </p>
 <br><br><br><br><br><br>
