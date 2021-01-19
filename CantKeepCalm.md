@@ -11,27 +11,27 @@ url: CantKeepCalm
 <p align="center">
 <img src="assets/images/pages/Rishika/DSC_0435.jpg" width="48%" alt="The cutie I love"> <img src="assets/images/pages/Rishika/IMG_20200104_224923_1.jpg" width="49.5%" alt="The sweetie I love">
 <br><br>
-While I may say this every year,
-Really hoping the best for you this time dear.
-As you take decisions that define your life,
-Hoping for strength, confidence, luck on your side.
+While I may say this every year,<br>
+Really hoping the best for you this time dear.<br>
+As you take decisions that define your life,<br>
+Hoping for strength, confidence, luck on your side.<br><br>
 
-Be a badass, shine on,
-Get all the love,
-Look your best,
-Be where you want.
+Be a badass, shine on,<br>
+Get all the love,<br>
+Look your best,<br>
+Be where you want.<br><br>
 
-You have what it takes,
-Ask for what you want,
-Listen to your heart,
-Be who you are.
+You have what it takes,<br>
+Ask for what you want,<br>
+Listen to your heart,<br>
+Be who you are.<br><br>
 
-I can't stress enough,
-How amazing you are.
-Don't be too critical,
-Look at yourself from someone else's eye some time.
+I can't stress enough,<br>
+How amazing you are.<br>
+Don't be too critical,<br>
+Look at yourself from someone else's eye some time.<br><br>
 
-Lots of love to you sweets.
+Lots of love to you sweets.<br><br>
 
 ------------------------------------------------
 The cutie I love!
