@@ -33,7 +33,7 @@ Look at yourself from someone else's eye some time.<br><br>
 
 Lots of love to you sweets.<br><br>
 
-------------------------------------------------
+------------------------------------------------<br><br>
 The cutie I love!
 <br><br>
 
