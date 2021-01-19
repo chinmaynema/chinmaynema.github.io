@@ -28,8 +28,10 @@ Be who you are.
 
 I can't stress enough,
 How amazing you are.
-It's difficult to put down,
-What I 
+Don't be too critical,
+Look at yourself from someone else's eye some time.
+
+Lots of love to you sweets.
 
 ------------------------------------------------
 The cutie I love!
