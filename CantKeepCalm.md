@@ -28,8 +28,8 @@ Be who you are.<br><br>
 
 I can't stress enough,<br>
 How amazing you are.<br>
-Don't be too critical,<br>
-Look at yourself from someone else's eye some time.<br><br>
+Don't be too self-critical,<br>
+Look at yourself from someone else's eye for once.<br><br>
 
 Lots of love to you sweets.<br><br>
 
