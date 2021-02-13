@@ -2,14 +2,13 @@
 layout: page
 title: CantKeepCalm
 heading: Rishkaaa's Birthday!
-featured_image:
+featured_image:assets/images/pages/Rishika/Collage.png
 ogimage: assets/images/pages/Rishika/DSC_0435_FB.jpg
 url: CantKeepCalm
 ---
 
 <div class="powr-birthday-countdown" id="27ebaf78_1604053080"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <p align="center">
-<img src="assets/images/pages/Rishika/Collage.png" width="98%" alt="The cutie I love">
 <br><br>
 And isn't this year different?<br>
 Besides the global reason, we've the local<br>
