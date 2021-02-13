@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: CantKeepCalm
 heading: Rishkaaa's Birthday!
 featured_image: assets/images/pages/Rishika/Collage.png
