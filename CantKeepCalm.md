@@ -9,8 +9,14 @@ url: CantKeepCalm
 
 <div class="powr-birthday-countdown" id="27ebaf78_1604053080"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <p align="center">
-<img src="assets/images/pages/Rishika/DSC_0435.jpg" width="48%" alt="The cutie I love"> <img src="assets/images/pages/Rishika/IMG_20200104_224923_1.jpg" width="49.5%" alt="The sweetie I love">
+<img src="assets/images/pages/Rishika/Collage.png" width="98%" alt="The cutie I love">
 <br><br>
+And isn't this year different?
+Besides the global reason, we've the local
+I din't get the 
+  
+<br><br>
+------------------------------------------------<br><br>
 While I may say this every year,<br>
 Really hoping the best for you this time dear.<br>
 As you take decisions that define your life,<br>
