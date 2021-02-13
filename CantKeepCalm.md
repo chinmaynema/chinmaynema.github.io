@@ -11,9 +11,9 @@ url: CantKeepCalm
 <p align="center">
 <img src="assets/images/pages/Rishika/Collage.png" width="98%" alt="The cutie I love">
 <br><br>
-And isn't this year different?
-Besides the global reason, we've the local
-I din't get the 
+And isn't this year different?<br>
+Besides the global reason, we've the local<br>
+I din't get the <br>
   
 <br><br>
 ------------------------------------------------<br><br>
