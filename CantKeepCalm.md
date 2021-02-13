@@ -2,7 +2,7 @@
 layout: page
 title: CantKeepCalm
 heading: Rishkaaa's Birthday!
-featured_image:assets/images/pages/Rishika/Collage.png
+featured_image: assets/images/pages/Rishika/Collage.png
 ogimage: assets/images/pages/Rishika/DSC_0435_FB.jpg
 url: CantKeepCalm
 ---
