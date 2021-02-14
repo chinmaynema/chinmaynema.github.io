@@ -35,8 +35,14 @@ You've been harsh, you've been gentle,<br>
 Nothing else would've attained what you've done.<br><br>
 
 The hundred things you hate about me,<br>
-Are the next set of things I am ready to work on,<br>
-But 
+Are the next set of things I want to work on,<br>
+The occasional "Yes? No?" moment derailing this will,<br>
+Maybe that itself is a thing we need to work on?<br><br>
+
+But today I say yes,<br>
+Today I am thankful,<br>
+Today I am full of love,<br>
+Today I'm your Valentine.<br><br>
 
 ----------------------------------------------<br><br>
 
