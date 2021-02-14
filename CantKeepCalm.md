@@ -16,7 +16,7 @@ url: CantKeepCalm
 </figure>
 <br><br></p>
 <p align="center">
-<strong>Yes? No?</strong>
+<strong>Yes? No?</strong><br><br>
 
 To be or not to be?<br>
 To shake the status quo, or no?<br>
@@ -36,12 +36,10 @@ Nothing else would've attained what you've done.<br><br>
 The hundred things you hate about me,<br>
 Are the next set of things I want to work on,<br>
 The occasional "Yes? No?" moment derailing my will,<br>
-Maybe not reaching this question itself is a thing I need to work on?<br><br>
+Maybe not ending up at this question itself is a thing I need to work on now?<br><br>
 
-But today I say yes,<br>
-Today I am thankful,<br>
-Today I am full of love,<br>
-Today I'm your Valentine.<br><br>
+But today I say yes, full of love, I am thankful,<br>
+Today you're my Valentine, as I am yours.<br><br>
 
 ----------------------------------------------<br><br>
 
