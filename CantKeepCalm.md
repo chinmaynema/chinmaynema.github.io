@@ -14,10 +14,9 @@ url: CantKeepCalm
 <figure class="video_container">
 <iframe src="https://www.youtube.com/embed/Y8QKjcn2iGQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<br><br>
+<br><br></p>
 <p align="center">
-
-### Yes? No?
+<strong>Yes? No?</strong>
 
 To be or not to be?<br>
 To shake the status quo, or no?<br>
@@ -80,5 +79,4 @@ I want to celebrate you,<br>
 Cause you bring me meaning and joy.<br><br>
 And I am ever thankful,<br>
 That you exist :)
-</p>
-<br><br><br><br><br><br>
+</p><br><br><br><br><br><br>
