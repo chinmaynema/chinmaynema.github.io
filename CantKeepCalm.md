@@ -17,7 +17,7 @@ url: CantKeepCalm
 <br><br>
 <p align="center">
 
-**Yes? No?**<br><br>
+### Yes? No?
 
 To be or not to be?<br>
 To shake the status quo, or no?<br>
@@ -31,16 +31,16 @@ What we have achieved and what we have become.<br><br>
 
 Looking back at a younger me,<br>
 A lot of edges rounded by you,<br>
-You've been harsh, you've been gentle,
- <br><br>
+You've been harsh, you've been gentle,<br>
+Nothing else would've attained what you've done.<br><br>
 
-The hundred things you hate about me,
-Are the next set of things I am ready to work on,
-
+The hundred things you hate about me,<br>
+Are the next set of things I am ready to work on,<br>
+But 
 
 ----------------------------------------------<br><br>
 
-**The World's Your Oyster**<br><br>
+### The World's Your Oyster
 
 While I may say this every year,<br>
 Really hoping the best for you this time dear.<br>
@@ -66,7 +66,7 @@ Lots of love to you sweets.<br><br>
 
 ------------------------------------------------<br><br>
 
-**The cutie I love!**<br><br>
+### The cutie I love!
 
 To the cutie I love,<br>
 Who deserves the best.<br><br>
