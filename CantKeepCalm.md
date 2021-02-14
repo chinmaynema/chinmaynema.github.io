@@ -43,7 +43,7 @@ Today you're my Valentine, as I am yours.<br><br>
 
 ----------------------------------------------<br><br>
 
-### The World's Your Oyster
+<strong>The World's Your Oyster</strong><br><br>
 
 While I may say this every year,<br>
 Really hoping the best for you this time dear.<br>
@@ -69,7 +69,7 @@ Lots of love to you sweets.<br><br>
 
 ------------------------------------------------<br><br>
 
-### The cutie I love!
+<strong>The cutie I love!</strong><br><br>
 
 To the cutie I love,<br>
 Who deserves the best.<br><br>
