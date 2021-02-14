@@ -36,8 +36,8 @@ Nothing else would've attained what you've done.<br><br>
 
 The hundred things you hate about me,<br>
 Are the next set of things I want to work on,<br>
-The occasional "Yes? No?" moment derailing this will,<br>
-Maybe that itself is a thing we need to work on?<br><br>
+The occasional "Yes? No?" moment derailing my will,<br>
+Maybe not reaching this question itself is a thing I need to work on?<br><br>
 
 But today I say yes,<br>
 Today I am thankful,<br>
