@@ -11,7 +11,9 @@ url: CantKeepCalm
 <p align="center">
 <br><br>
 <img src="assets/images/pages/Rishika/DSC_0046 (1)_1.jpg" width="43.2%" alt="Fun Partner"> <img src="assets/images/pages/Rishika/DSC_0046_1.jpg" width="52.8%" alt="Fun Partner">
-[![](http://img.youtube.com/vi/Y8QKjcn2iGQ/0.jpg)](http://www.youtube.com/watch?v=Y8QKjcn2iGQ "")
+<figure class="video_container">
+<iframe src="https://www.youtube.com/embed/Y8QKjcn2iGQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 <br><br>
 ----------------------------------------------<br><br>
 While I may say this every year,<br>
