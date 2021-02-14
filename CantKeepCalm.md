@@ -10,12 +10,10 @@ url: CantKeepCalm
 <div class="powr-birthday-countdown" id="27ebaf78_1604053080"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <p align="center">
 <br><br>
-<!--And isn't this year different?<br>
-//Besides the global reason, we've the local<br>
-I din't get the <br>
-  
-<!--<br><br>
-<!------------------------------------------------<br><br> -->
+<img src="assets/images/pages/Rishika/DSC_0046 (1)_1.jpg" width="48%" alt="Fun Partner"> <img src="assets/images/pages/Rishika/DSC_0046_1.jpg" width="48%" alt="Fun Partner">
+[![](http://img.youtube.com/vi/Y8QKjcn2iGQ/0.jpg)](http://www.youtube.com/watch?v=Y8QKjcn2iGQ "")
+<br><br>
+----------------------------------------------<br><br>
 While I may say this every year,<br>
 Really hoping the best for you this time dear.<br>
 As you take decisions that define your life,<br>
