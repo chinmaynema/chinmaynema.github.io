@@ -10,13 +10,32 @@ url: CantKeepCalm
 <div class="powr-birthday-countdown" id="27ebaf78_1604053080"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <p align="center">
 <br><br>
-<img src="assets/images/pages/Rishika/DSC_0046 (1)_1.jpg" width="44.2%" alt="Fun Partner"> <img src="assets/images/pages/Rishika/DSC_0046_1.jpg" width="53.8%" alt="Fun Partner">
+<img src="assets/images/pages/Rishika/DSC_0046 (1)_1.jpg" width="45.2%" alt="Fun Partner"> <img src="assets/images/pages/Rishika/DSC_0046_1.jpg" width="54.8%" alt="Fun Partner">
 <figure class="video_container">
 <iframe src="https://www.youtube.com/embed/Y8QKjcn2iGQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <br><br>
-----------------------------------------------<br><br>
 <p align="center">
+
+**Yes? No?**<br><br>
+
+To be or not to be?<br>
+To shake the status quo or no?
+How will we ever know?
+What will it take to say "yay"?
+
+While we answer these questions,
+While we understand oneself and the other,
+I am definitely proud of what we have now,
+What we have achieved and what we have become.
+
+Looking back at a younger me,
+A lot of edges rounded by you,
+
+
+----------------------------------------------<br><br>
+**The World's Your Oyster**<br><br>
+
 While I may say this every year,<br>
 Really hoping the best for you this time dear.<br>
 As you take decisions that define your life,<br>
@@ -40,7 +59,7 @@ Look at yourself from someone else's eye for once.<br><br>
 Lots of love to you sweets.<br><br>
 
 ------------------------------------------------<br><br>
-The cutie I love!
+**The cutie I love!**
 <br><br>
 
 To the cutie I love,<br>
