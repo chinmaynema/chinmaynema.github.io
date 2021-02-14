@@ -10,12 +10,12 @@ url: CantKeepCalm
 <div class="powr-birthday-countdown" id="27ebaf78_1604053080"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <p align="center">
 <br><br>
-And isn't this year different?<br>
-Besides the global reason, we've the local<br>
+<!--And isn't this year different?<br>
+//Besides the global reason, we've the local<br>
 I din't get the <br>
   
-<br><br>
-------------------------------------------------<br><br>
+<!--<br><br>
+<!------------------------------------------------<br><br> -->
 While I may say this every year,<br>
 Really hoping the best for you this time dear.<br>
 As you take decisions that define your life,<br>
