@@ -38,8 +38,8 @@ Are the next set I want to work on,<br>
 The occasional "Yes? No?" moment derailing my will,<br>
 Maybe not ending up at this question itself is a thing I need to work on now?<br><br>
 
-But today I say yes, full of love, I am thankful,<br>
-Today you're my Valentine, as I am yours.<br><br>
+But today I say yes, today I am thankful,<br>
+Today you're my Valentine, with love my heart full.<br><br>
 
 ----------------------------------------------<br><br></p>
 
