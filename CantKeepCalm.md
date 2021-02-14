@@ -10,7 +10,7 @@ url: CantKeepCalm
 <div class="powr-birthday-countdown" id="27ebaf78_1604053080"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <p align="center">
 <br><br>
-<img src="assets/images/pages/Rishika/DSC_0046 (1)_1.jpg" width="44.7%" alt="Fun Partner"> <img src="assets/images/pages/Rishika/DSC_0046_1.jpg" width="54.3%" alt="Fun Partner">
+<img src="assets/images/pages/Rishika/DSC_0046 (1)_1.jpg" width="44.6%" alt="Fun Partner"> <img src="assets/images/pages/Rishika/DSC_0046_1.jpg" width="54.2%" alt="Fun Partner">
 <figure class="video_container">
 <iframe src="https://www.youtube.com/embed/Y8QKjcn2iGQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
