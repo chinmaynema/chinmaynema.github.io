@@ -41,8 +41,9 @@ Maybe not ending up at this question itself is a thing I need to work on now?<br
 But today I say yes, full of love, I am thankful,<br>
 Today you're my Valentine, as I am yours.<br><br>
 
-----------------------------------------------<br><br>
+----------------------------------------------<br><br></p>
 
+<p align="center">
 <strong>The World's Your Oyster</strong><br><br>
 
 While I may say this every year,<br>
@@ -67,8 +68,9 @@ Look at yourself from someone else's eye for once.<br><br>
 
 Lots of love to you sweets.<br><br>
 
-------------------------------------------------<br><br>
+------------------------------------------------<br><br></p>
 
+<p align="center">
 <strong>The cutie I love!</strong><br><br>
 
 To the cutie I love,<br>
