@@ -16,6 +16,7 @@ url: CantKeepCalm
 </figure>
 <br><br>
 ----------------------------------------------<br><br>
+<p align="center">
 While I may say this every year,<br>
 Really hoping the best for you this time dear.<br>
 As you take decisions that define your life,<br>
