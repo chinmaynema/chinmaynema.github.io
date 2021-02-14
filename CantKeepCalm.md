@@ -33,8 +33,8 @@ A lot of edges rounded by you,<br>
 You've been harsh, you've been gentle,<br>
 Nothing else would've attained what you've done.<br><br>
 
-The hundred things you hate about me,<br>
-Are the next set of things I want to work on,<br>
+The hundreds things you hate about me,<br>
+Are the next set I want to work on,<br>
 The occasional "Yes? No?" moment derailing my will,<br>
 Maybe not ending up at this question itself is a thing I need to work on now?<br><br>
 
