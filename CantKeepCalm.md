@@ -14,10 +14,11 @@ url: CantKeepCalm
 <figure class="video_container">
 <iframe src="https://www.youtube.com/embed/Y8QKjcn2iGQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<br><br></p>
+<br></p>
 <p align="center">
 Isme Tera Ghata<br>
 Mera Kuch Nahi Jaata<br><br>
+----------------------------------------------<br><br>
 <strong>Yes? No?</strong><br><br>
 
 To be or not to be?<br>
