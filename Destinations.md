@@ -7,7 +7,7 @@ ogimage: assets/images/pages/about/About_1.jpg
 url: Destinations
 ---
 
->“Life is a Journey, Not a Destination”
+>“Life is a Journey, not a Destination”
 
 Sharing the list of destinations covered in the blog, for easy access:
 
