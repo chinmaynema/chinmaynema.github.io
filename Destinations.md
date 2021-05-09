@@ -2,12 +2,13 @@
 layout: page
 title: Destinations
 heading: Destinations Covered
-featured_image: /assets/images/pages/about/About.jpg
+featured_image: 
 ogimage: assets/images/pages/about/About_1.jpg
 url: Destinations
 ---
 
-Sharing the list of destinations covered in the blog, for easy access:
+<p>
+Sharing the list of destinations covered in the blog, for easy access:</p>
 
 - <a href="https://onetriptoanother.com/Savandurga">Savandurga</a>
 - <a href="https://onetriptoanother.com/Shivanasamudra">Shivanasamudra</a>
