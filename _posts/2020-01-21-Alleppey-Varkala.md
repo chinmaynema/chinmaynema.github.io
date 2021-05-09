@@ -225,7 +225,7 @@ Varkala:<br>
 -	Varkala Culture Center
 -	Varkala Aquarium
 -	Anjengo Fort And Lighthouse
--	Janardhana Swami Temple: a very prominent temple of Sounth India
+-	Janardhana Swami Temple: a very prominent temple of South India
 
 ## Major Expenses
 -	Flight: Rs. 5,000 (per person)
