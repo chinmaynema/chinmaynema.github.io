@@ -8,7 +8,7 @@ url: Destinations
 ---
 
 <p>
-Sharing the list of destinations covered in the blog, for easy access:</p>
+Sharing the list of destinations covered in the blog, for easy access:
 
 - <a href="https://onetriptoanother.com/Savandurga">Savandurga</a>
 - <a href="https://onetriptoanother.com/Shivanasamudra">Shivanasamudra</a>
@@ -22,3 +22,4 @@ Sharing the list of destinations covered in the blog, for easy access:</p>
 Besides destinations, I have also shared some posts to help you with your travels. Sharing that list below:
 
 - <a href="https://onetriptoanother.com/Thattekere-Lake">Thattekere Lake</a>
+</p>
