@@ -45,8 +45,8 @@ navigation:
     url: /
   - text: About
     url: /About
-#  - text: Projects
-#    url: /Projects
+  - text: Destinations
+    url: /Destinations
 #  - text: Experience
 #    url: /Experience
   - text: Contact
