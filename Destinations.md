@@ -7,7 +7,7 @@ ogimage: assets/images/pages/about/About_1.jpg
 url: Destinations
 ---
 
->“Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”
+>“Life is a Journey, Not a Destination”
 
 Sharing the list of destinations covered in the blog, for easy access:
 
