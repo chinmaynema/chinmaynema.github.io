@@ -26,7 +26,7 @@ Sharing the list of destinations covered in the blog, for easy access:
 - <a href="https://onetriptoanother.com/Thattekere-Lake">Thattekere Lake</a>
 - <a href="https://onetriptoanother.com/Shivanasamudra">Shivanasamudra</a>
 
-Besides destinations, I have also shared some posts to help you with your travels. Sharing that list below:
+Besides destinations, I have also shared some posts to help you plan your travels. Sharing that list below:
 
 - <a href="https://onetriptoanother.com/One-Day-Trips-From-Bangalore">One Day Trips From Bangalore</a>
 - <a href="https://onetriptoanother.com/Travel-Checklist">Travel Checklist</a>
