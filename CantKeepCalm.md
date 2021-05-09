@@ -16,6 +16,8 @@ url: CantKeepCalm
 </figure>
 <br><br></p>
 <p align="center">
+Isme Tera Ghata<br>
+Mera Kuch Nahi Jaata<br><br>
 <strong>Yes? No?</strong><br><br>
 
 To be or not to be?<br>
