@@ -150,12 +150,20 @@ March beginning
 ## Summary of Things To Do
 **Things I did:**
 
-- Xx
+- Kasol: Parvati River
+- Chalal: Freedom Cafe
+- Hike to Tosh
+- Tosh: Pink Floyd Cafe
+- Tosh Waterfall
+- Kutla
+- Manikaran: Gurudwara Sahib
 
 **Things I didn't do:**
 
 - Malana
-- Kasol cafes
+- Kasol: 
+- Chalal: 
+- Tosh: 
 
 ## Tips and Resources
 - Stay away from crowd, homestays
