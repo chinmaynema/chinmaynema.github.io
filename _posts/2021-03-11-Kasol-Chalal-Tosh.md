@@ -11,7 +11,7 @@ featured: false
 hidden: false
 ---
 
-Xx
+This is the (in)famous hippie side of the Himalayas, known by various names - "Mini Israel of India", "Mini Amsterdam of India", "Hippie Land", "Smoker's Paradise".
 
 ## Duration and Time of Visit
 3 days, 2 night<br>
