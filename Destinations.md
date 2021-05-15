@@ -11,6 +11,7 @@ url: Destinations
 
 Sharing the list of destinations covered in the blog, for easy access:
 
+- <a href="https://onetriptoanother.com/Kasol-Chalal-Tosh">Kasol, Chalal & Tosh</a>
 - <a href="https://onetriptoanother.com/Kutla">Kutla</a>
 - <a href="https://onetriptoanother.com/Mahabalipuram">Mahabalipuram</a>
 - <a href="http://onetriptoanother.com/Alleppey-Varkala">Alleppey-Varkala</a>
