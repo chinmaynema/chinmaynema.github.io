@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Tosh - Personal Itinerary, Things To Do, Tips
+title: Kasol, Chalal & Tosh - Itinerary, Things To Do, Tips
 heading: Kasol, Chalal & Tosh - The hippie side of Himalayas
 tags: [waterfall, hills, chill, hiking, trekking, solo, two days, Himachal, Himalayas]
-featured_image_thumbnail: Kasol, Chalal & Tosh
+featured_image_thumbnail: Tosh
 featured_image: Tosh/IMG_20210512_192510_763.jpg
 ogimage: Tosh/IMG_20210512_192510_763_1.jpg
 url: Tosh
@@ -85,16 +85,19 @@ March beginning
 
 - I departed at 8am from Manali by cab and reached Kasol in 2 hours
 	-   Its a scenic route along the river, first Beas and then Parvati
-	-   While the Beas valley is broad, the Parvati valley is very narrow, and hence the river gushes with more force
 - Kasol town was just opening up, and I decided to spend some time along the Parvati river
+	-   While the Beas valley is broad, the Parvati valley is very narrow and winding, and hence the river gushes with more force
+	-   I had been advised by some of my Himachali friends that there is not much in Kasol, hence I decided to move on
 
 <p align="center">
 <img src="Tosh/20210409_113523_1.jpg" width="100%" alt="Parvati River, Kasol">
 </p>
 
-- Xx
+- Next stop was Chalal, a beautiful, tiny hamlet on the other side of the river
+	- Its a 40 minutes hike to Chalal, through the forest, along the river
+	- There are several peaceful spots on the way 
 
-<span style="color: #000000">**Day 2: Hirekolale Lake, Ayyan Kere Lake**</span>
+<span style="color: #000000">**Day 2: Tosh Waterfall, Kutla**</span>
 
 - Xx
 
@@ -102,13 +105,14 @@ March beginning
 - Xx
 
 ## Summary of Things To Do
-**Things we did:**
+**Things I did:**
 
 - Xx
 
-**Things we didn't do:**
+**Things I didn't do:**
 
-- Xx
+- Malana
+- Kasol cafes
 
 ## Tips and Resources
 - Since there are so many places in Chikmagalur, prioritise basis your interest, time and conveyance
