@@ -11,7 +11,7 @@ featured: false
 hidden: true
 ---
 
-Tosh
+Xx
 
 ## Duration and Time of Visit
 2 days, 2 night<br>
@@ -85,7 +85,7 @@ March beginning
 
 - I departed at 8am from Manali by cab and reached Kasol in 2 hours
 	-   Its a scenic route along the river, first Beas and then Parvati
-- Kasol town was just opening up, and I decided to spend some time along the Parvati river
+- Kasol town was just opening up, and I decided to spend some time on the banks of the Parvati river
 	-   While the Beas valley is broad, the Parvati valley is very narrow and winding, and hence the river gushes with more force
 	-   I had been advised by some of my Himachali friends that there is not much in Kasol, hence I decided to move on
 
@@ -94,8 +94,10 @@ March beginning
 </p>
 
 - Next stop was Chalal, a beautiful, tiny hamlet on the other side of the river
-	- Its a 40 minutes hike to Chalal, through the forest, along the river
-	- There are several peaceful spots on the way 
+	- Its a 40 minutes hike to Chalal, through the forest, along the river. There are several peaceful spots on the way to squat
+	- Chalal is popular for its psychedelic parties, visited by world-renowned DJs
+	- I headed straight to **Freedom Cafe**, a psychedelic themed cafe, for a sumptuous meal. There was one such party being hosted by them that night
+- 
 
 <span style="color: #000000">**Day 2: Tosh Waterfall, Kutla**</span>
 
