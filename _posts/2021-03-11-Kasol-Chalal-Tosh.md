@@ -115,11 +115,13 @@ March beginning
 <img src="Tosh/IMG_20210511_190922_975.jpg" width="49.4%" alt="Pink Floyd Cafe, Tosh"> <img src="Tosh/IMG_20210511_190923_038.jpg" width="49.4%" alt="Pink Floyd Cafe, Tosh">
 </p>
 
-- Xx
-
 <span style="color: #000000">**Day 2: Tosh Waterfall, Kutla**</span>
 
-- Xx
+- Kutla
+
+<p align="center">
+<img src="Kutla Pics/Kutla3.jpg" width="100%" alt="Parvati River, Kasol">
+</p>
 
 ## Major Expenses
 - Xx
