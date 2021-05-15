@@ -33,7 +33,7 @@ March beginning
     <td>Manali-Kasol: 80 kms<br>
 	Kasol-Chalal: 2 kms<br>
 	Kasol-Barshaini: 17 kms<br>
-	Barshaini-Tosh: 3.5 kms<br></td>
+	Barshaini-Tosh: 3 kms<br></td>
 </tr>
 <tr>
     <td width="22%">Duration</td>
@@ -104,7 +104,7 @@ March beginning
 	- There are buses every hour from Kasol to Barshaini, till ~4pm
 	- Again, a picturesque route, as you head higher up the mountains, leaving the crowd and the traffic behind
 - The weather was pleasant and I decided to hike up to **Tosh**, crossing the **Parvati Dam** on the way
-	- Its ~3.5 kms on a winding road, unmetalled at times, with amazing views of the valley
+	- Its ~3 kms on a winding road, unmetalled at times, with amazing views of the valley
 	- If you request the security at the dam, they may allow you to walk on it. Unfortunately, when I went, the river was running dry
 - I checked-in to the **Pink Floyd Cafe** for the remaining hours of the day
 	- Whenever I travel solo, I prefer not to book a hotel beforehand so that I can explore the area first and find the most suited one
@@ -146,6 +146,7 @@ March beginning
 - Bus from Barshaini to Kullu: Rs. 180
 - Bus from Kullu to Manali: Rs. 150
 - Auto from Manali to Old Manali: Rs. 90
+- Food and drinks
 
 ## Summary of Things To Do
 **Things I did:**
@@ -160,9 +161,9 @@ March beginning
 
 **Things I didn't do:**
 
-- Malana
-- Kasol: 
-- Chalal: 
+- Malana: 
+- Kasol: Moonlight cafe, 
+- Chalal: psychedelic party
 - Tosh: 
 
 ## Tips and Resources
