@@ -14,7 +14,7 @@ hidden: false
 Xx
 
 ## Duration and Time of Visit
-2 days, 2 night<br>
+3 days, 2 night<br>
 March beginning
 
 ## To and From
@@ -86,9 +86,9 @@ March beginning
 
 <span style="color: #000000">**Day 1: Kasol, Chalal, Hike to Tosh**</span>
 
-- I departed at 8am from Manali by cab and reached Kasol in 2 hours
+- I departed at 8am from **Old Manali** by cab and reached **Kasol** in 2 hours
 	-   Its a scenic route along the river, first Beas and then Parvati
-- Kasol town was just opening up, and I decided to spend some time on the banks of the Parvati river
+- Kasol town was just opening up, and I decided to spend some time on the banks of the **Parvati river**
 	-   While the Beas valley is broad, the Parvati valley is very narrow and winding, and hence the river gushes with more force
 	-   I had been advised by some of my Himachali friends that there is not much in Kasol, hence I decided to move on
 
@@ -96,16 +96,19 @@ March beginning
 <img src="Tosh/20210409_113523_1.jpg" width="100%" alt="Parvati River, Kasol">
 </p>
 
-- Next stop was Chalal, a beautiful, tiny hamlet on the other side of the river
+- Next stop was **Chalal**, a beautiful, tiny hamlet on the other side of the river
 	- Its a 40 minutes hike to Chalal, through the forest, along the river. There are several peaceful spots on the way to squat
 	- Chalal is popular for psychedelic / trance parties in the deep forests, visited by world-renowned DJs
 	- I headed straight to **Freedom Cafe**, a psychedelic themed cafe, for a scrumptious meal. There was one such party being hosted by them that night
-- After roaming around Chalal for a while, I headed back to Kasol, to catch the bus to Barshaini
+- After roaming around Chalal for a while, I headed back to Kasol, to catch the bus to **Barshaini**
 	- There are buses every hour from Kasol to Barshaini, till ~4pm
 	- Again, a picturesque route, as you head higher up the mountains, leaving the crowd and the traffic behind
-- The weather was pleasant and I decided to hike up to Tosh, crossing the **Parvati Dam** on the way
-	- Its ~3.5 kms on a winding road, unmetalled at times
+- The weather was pleasant and I decided to hike up to **Tosh**, crossing the **Parvati Dam** on the way
+	- Its ~3.5 kms on a winding road, unmetalled at times, with amazing views of the valley
 	- If you request the security at the dam, they may allow you to walk on it. Unfortunately, when I went, the river was running dry
+- I checked-in to the **Pink Floyd Cafe**
+	- Whenever I travel solo, I prefer not to book a hotel beforehand so that I can explore the area first and find the most suited one
+	- Pink Floyd Cafe is located in the main tourist area, away from the local houses, 
 
 <span style="color: #000000">**Day 2: Tosh Waterfall, Kutla**</span>
 
