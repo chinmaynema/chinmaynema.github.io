@@ -8,7 +8,7 @@ featured_image: Tosh/IMG_20210512_192510_763.jpg
 ogimage: Tosh/IMG_20210512_192510_763_1.jpg
 url: Tosh
 featured: false
-hidden: true
+hidden: false
 ---
 
 Xx
