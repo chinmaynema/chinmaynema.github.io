@@ -106,9 +106,16 @@ March beginning
 - The weather was pleasant and I decided to hike up to **Tosh**, crossing the **Parvati Dam** on the way
 	- Its ~3.5 kms on a winding road, unmetalled at times, with amazing views of the valley
 	- If you request the security at the dam, they may allow you to walk on it. Unfortunately, when I went, the river was running dry
-- I checked-in to the **Pink Floyd Cafe**
+- I checked-in to the **Pink Floyd Cafe** for the remaining hours of the day
 	- Whenever I travel solo, I prefer not to book a hotel beforehand so that I can explore the area first and find the most suited one
-	- Pink Floyd Cafe is located in the main tourist area, away from the local houses, 
+	- Pink Floyd Cafe is one of the most popular hotels in Tosh, located in the main tourist area, just above the local houses
+	- They have a trippy cafe with good food and better vibe
+
+<p align="center">
+<img src="Tosh/IMG_20210511_190922_975.jpg" width="49.4%" alt="Pink Floyd Cafe, Tosh"> <img src="Tosh/IMG_20210511_190923_038.jpg" width="49.4%" alt="Pink Floyd Cafe, Tosh">
+</p>
+
+- Xx
 
 <span style="color: #000000">**Day 2: Tosh Waterfall, Kutla**</span>
 
