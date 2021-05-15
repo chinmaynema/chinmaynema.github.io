@@ -9,7 +9,7 @@ url: Destinations
 
 >“Life is a Journey, not a Destination”
 
-Sharing the list of destinations covered in the blog, for easy access:
+Sharing the list of points covered on this journey, for easy access:
 
 - <a href="https://onetriptoanother.com/Kasol-Chalal-Tosh">Kasol, Chalal & Tosh</a>
 - <a href="https://onetriptoanother.com/Kutla">Kutla</a>
@@ -27,7 +27,7 @@ Sharing the list of destinations covered in the blog, for easy access:
 - <a href="https://onetriptoanother.com/Thattekere-Lake">Thattekere Lake</a>
 - <a href="https://onetriptoanother.com/Shivanasamudra">Shivanasamudra</a>
 
-Besides destinations, I have also shared some posts to help you plan your travels. Sharing that list below:
+Besides places, I have also written some posts to help you plan your travels. Sharing that list below:
 
 - <a href="https://onetriptoanother.com/One-Day-Trips-From-Bangalore">One Day Trips From Bangalore</a>
 - <a href="https://onetriptoanother.com/Travel-Checklist">Travel Checklist</a>
