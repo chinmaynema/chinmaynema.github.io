@@ -46,7 +46,7 @@ March beginning
 </tr>
 <tr>
     <td width="22%">Cost</td>
-    <td>~2500 (1800+60+300+180+150)</td>
+    <td>~2500</td>
 </tr>
 <tr>
     <td width="22%">Other Options</td>
@@ -110,7 +110,7 @@ March beginning
 	- Whenever I travel solo, I prefer not to book a hotel beforehand so that I can explore the area first and find the most suited one
 	- Pink Floyd Cafe is one of the most popular hotels in Tosh, located in the main tourist area, just above the local houses. They have a trippy cafe with good food and vibe
 	- I spent the evening at the cafe, reading Mindset by Dr. Carol Dweck, taking in the splendid valley view and the cafe vibes
-	- One amazing thing about Tosh was that everyone instantly becomes a friend! All the travellers come with an open mind and heart and gel together
+	- One amazing thing about Tosh was that everyone instantly became a friend - fellow guests and even the hotel staff!
 
 <p align="center">
 <img src="Tosh/IMG_20210511_190922_975.jpg" width="49.4%" alt="Pink Floyd Cafe, Tosh"> <img src="Tosh/IMG_20210511_190923_038.jpg" width="49.4%" alt="Pink Floyd Cafe, Tosh">
@@ -125,15 +125,27 @@ March beginning
 <img src="Kutla Pics/Kutla3.jpg" width="100%" alt="Parvati River, Kasol">
 </p>
 
-- The evening was again well-spent at the cafe
+- The evening was again well-spent at the cafe, in the company of the book, music and newfound friends
 
 <span style="color: #000000">**Day 3: Manikarna, Return to Manali**</span>
 
-- 
+- I checked-out by 10am, heading to another popular cafe, called **Pinki Didi Cafe** for breakfast
+	- While it has a funny name, it is a must-visit. They have a great view, ambience and food
+- Thence began the long journey back to Manali
+	- I took a cab to Barshaini. Its a 15 minutes journey, costing Rs. 300
+	- Then took a bus to Kullu. It stopped at **Manikaran** for ~30 minutes in between and I quickly visited the renowned Gurudwara Sahib
+	- From Kullu, took a bus to Manali. And finally an auto from Manali to Old Manali. It was a long journey (~6.5 hours), but considerably cheaper than a cab
+	- Bus journeys in the mountains have their own unique charm. Even the rickety buses are a part of the experience
 
 
 ## Major Expenses
-- Xx
+- Cab from Old Manali to Kasol: Rs. 1,800
+- Bus from Kasol to Barshaini: Rs. 60
+- Hotel: Rs. 1,200 per night
+- Cab from Tosh to Barshaini: Rs. 300
+- Bus from Barshaini to Kullu: Rs. 180
+- Bus from Kullu to Manali: Rs. 150
+- Auto from Manali to Old Manali: Rs. 90
 
 ## Summary of Things To Do
 **Things I did:**
