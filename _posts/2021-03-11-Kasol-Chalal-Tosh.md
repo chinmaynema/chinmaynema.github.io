@@ -146,8 +146,5 @@ March beginning
 - Kasol cafes
 
 ## Tips and Resources
-- Since there are so many places in Chikmagalur, prioritise basis your interest, time and conveyance
-- Chikmagalur is famous for homestays in coffee estates, or even at other places. If you have your own vehicle, this is worth exploring
-- To the above itinerary, if you want to hasten things, you can add one more place to both the days (out of Baba Budangiri, Kemmangundi, Hebbe Falls)
-- Mullayangiri trek starts from Sarpadhari (marked in the map). It's an easy, short trek, taking ~3hours while scaling up, hence definitely recommended
+- Stay away from crowd, homestays
 - If you plan to trek, it’s best to wear a cap, apply sunscreen and carry sufficient water
