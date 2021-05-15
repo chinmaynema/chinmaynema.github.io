@@ -30,15 +30,18 @@ March beginning
 </tr>	
 <tr>
     <td width="22%">Distance</td>
-    <td>~100 kms either way</td>
+    <td>Manali-Kasol: 80 kms<br>
+	Kasol-Chalal: 2 kms<br>
+	Kasol-Barshaini: 17 kms<br>
+	Barshaini-Tosh: 3.5 kms<br></td>
 </tr>
 <tr>
     <td width="22%">Duration</td>
     <td>Manali-Kasol: ~2 hours by car<br>
-	Kasol-Chalal: ~45 minutes hike<br>
-	Kasol-Barshaini: ~1.5 hours by bus<br>
-	Barshaini-Tosh: ~1 hour bike<br>
-	Tosh-Barshaini: ~15 minutes by cab<br>
+	Kasol-Chalal: ~40 minutes hike<br>
+	Kasol-Barshaini: ~1 hour by bus<br>
+	Barshaini-Tosh: ~1 hour on foot<br>
+	Tosh-Barshaini: ~15 minutes by car<br>
 	Barshaini-Manali: ~6.5 hours by bus</td>
 </tr>
 <tr>
@@ -95,9 +98,14 @@ March beginning
 
 - Next stop was Chalal, a beautiful, tiny hamlet on the other side of the river
 	- Its a 40 minutes hike to Chalal, through the forest, along the river. There are several peaceful spots on the way to squat
-	- Chalal is popular for its psychedelic parties, visited by world-renowned DJs
-	- I headed straight to **Freedom Cafe**, a psychedelic themed cafe, for a sumptuous meal. There was one such party being hosted by them that night
-- 
+	- Chalal is popular for psychedelic / trance parties in the deep forests, visited by world-renowned DJs
+	- I headed straight to **Freedom Cafe**, a psychedelic themed cafe, for a scrumptious meal. There was one such party being hosted by them that night
+- After roaming around Chalal for a while, I headed back to Kasol, to catch the bus to Barshaini
+	- There are buses every hour from Kasol to Barshaini, till ~4pm
+	- Again, a picturesque route, as you head higher up the mountains, leaving the crowd and the traffic behind
+- The weather was pleasant and I decided to hike up to Tosh, crossing the **Parvati Dam** on the way
+	- Its ~3.5 kms on a winding road, unmetalled at times
+	- If you request the security at the dam, they may allow you to walk on it. Unfortunately, when I went, the river was running dry
 
 <span style="color: #000000">**Day 2: Tosh Waterfall, Kutla**</span>
 
