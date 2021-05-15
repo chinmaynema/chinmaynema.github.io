@@ -108,8 +108,9 @@ March beginning
 	- If you request the security at the dam, they may allow you to walk on it. Unfortunately, when I went, the river was running dry
 - I checked-in to the **Pink Floyd Cafe** for the remaining hours of the day
 	- Whenever I travel solo, I prefer not to book a hotel beforehand so that I can explore the area first and find the most suited one
-	- Pink Floyd Cafe is one of the most popular hotels in Tosh, located in the main tourist area, just above the local houses
-	- They have a trippy cafe with good food and better vibe
+	- Pink Floyd Cafe is one of the most popular hotels in Tosh, located in the main tourist area, just above the local houses. They have a trippy cafe with good food and vibe
+	- I spent the evening at the cafe, reading Mindset by Dr. Carol Dweck, taking in the splendid valley view and the cafe vibes
+	- One amazing thing about Tosh was that everyone instantly becomes a friend! All the travellers come with an open mind and heart and gel together
 
 <p align="center">
 <img src="Tosh/IMG_20210511_190922_975.jpg" width="49.4%" alt="Pink Floyd Cafe, Tosh"> <img src="Tosh/IMG_20210511_190923_038.jpg" width="49.4%" alt="Pink Floyd Cafe, Tosh">
@@ -117,11 +118,14 @@ March beginning
 
 <span style="color: #000000">**Day 2: Tosh Waterfall, Kutla**</span>
 
-- Kutla
+- It was a lazy morning, with mellow music and a slow breakfast. But once done, I headed out for a day-long hike to the Tosh waterfalls and Kutla village
+	- Please check out this post on <a href="https://onetriptoanother.com/Kutla">Kutla</a> for more details about this day trip. I think you must definitely include it in your itinerary
 
 <p align="center">
 <img src="Kutla Pics/Kutla3.jpg" width="100%" alt="Parvati River, Kasol">
 </p>
+
+- Xx
 
 ## Major Expenses
 - Xx
