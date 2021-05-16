@@ -170,12 +170,11 @@ Bridge leading to Chalal, from Kasol
 
 **Things I didn't do:**
 
-- Malana: it is a ~5km trek from the Jari town mystical village! Its 
-- Kheerganga trek: it is ~7kms from Tosh and it is recommended to hire a guide and stay at the peak. There is a hot water spring at the top
-- Malana: 
-- Kasol: Moonlight cafe, 
+- Malana: it is a ~4km trek from the Jari town to this mystical village! It's the hash capital, renowned for Malana Cream, and it's people are believed to be true descendants of the Greek (Alexander the Great). Outsiders are not allowed to touch anyone there. It is a truly different experience, and is definitely on my list for the next time
+- Kheerganga trek: it is ~7kms from Tosh and it is recommended to hire a guide and stay at the peak overnight. There is a hot water spring at the top
+- Kasol cafes: Moon Dance, Turquiose Kasol and The Evergreen
 - Chalal: psychedelic party
-- Tosh: 
+- Tosh cafes: Third Eye, Nomads, Paradise
 
 ## Tips and Resources
 - Stay away from crowd, homestays
