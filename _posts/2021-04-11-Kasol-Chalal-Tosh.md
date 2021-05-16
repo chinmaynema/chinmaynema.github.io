@@ -126,7 +126,7 @@ Bridge leading to Chalal, from Kasol
 
 <span style="color: #000000">**Day 2: Tosh Waterfall, Kutla**</span>
 
-- It was a lazy morning, with mellow music and a slow-paced breakfast. But once done, I headed out for a day-long hike to the Tosh waterfalls and Kutla village
+- It was a lazy morning, with mellow music and a slow-paced breakfast. But once done, I headed out for a day-long hike to the **Tosh waterfalls** and **Kutla village**
 	- Please check out this post on <a href="https://onetriptoanother.com/Kutla">Kutla</a> for more details about this day trip. I think you must definitely include it in your itinerary
 
 <p align="center">
