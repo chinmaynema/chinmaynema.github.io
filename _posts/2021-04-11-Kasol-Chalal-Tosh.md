@@ -174,8 +174,11 @@ Bridge leading to Chalal, from Kasol
 - Kheerganga trek: it is ~7kms from Tosh and it is recommended to hire a guide and stay at the peak overnight. There is a hot water spring at the top
 - Kasol cafes: Moon Dance, Turquiose Kasol and The Evergreen
 - Chalal: psychedelic party
-- Tosh cafes: Third Eye, Nomads, Paradise
+- Tosh cafes: Third Eye, Paradise, Whoopers
 
 ## Tips and Resources
-- Stay away from crowd, homestays
+- Personally, I found Kasol to be a bit over-hyped. I would suggest spending more time in Chalal, Tosh or Kutla
+- Don't try to speed things up. This place is supposed to be experienced calmly!
+- If you are in a group / have a car, and if you prefer to distance from the crowd, you can choose a homestay away from the main tourist areas
 - If you plan to trek, it’s best to wear a cap, apply sunscreen and carry sufficient water
+- There are no ATMs in Tosh and Kutla and online payments are not accepted at many places. Carry money with you
