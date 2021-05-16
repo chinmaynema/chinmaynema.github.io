@@ -16,34 +16,40 @@ Xx
 
 ## Duration and Time of Visit
 1 day<br>
-March beginning
+April beginning
 
 ## To and From
 
 <table style="width:100%">
 <tr>
     <td width="22%">Route</td>
-    <td>Tosh - Kutla - Tosh</td>
+    <td>Manali - Sissu - Solang - Gulaba - Manali</td>
 </tr>
 <tr>
     <td width="22%">Mode</td>
-    <td>On foot</td>
+    <td>Cab</td>
 </tr>	
 <tr>
     <td width="22%">Distance</td>
-    <td>~3 kms either way</td>
+    <td>Old Manali - Sissu: ~ kms<br>
+        Sissu - Solang: ~ kms<br>
+        Solang - Gulaba: ~ kms<br>
+        Gulaba - Old Manali: ~ kms</td>
 </tr>
 <tr>
     <td width="22%">Duration</td>
-    <td>~2 hours onwards, 1 hour to return</td>
+    <td>Old Manali - Sissu: ~ hours<br>
+        Sissu - Solang: ~ hours<br>
+        Solang - Gulaba: ~ hours<br>
+        Gulaba - Old Manali: ~ hours</td>
 </tr>
 <tr>
     <td width="22%">Cost</td>
-    <td>Nil</td>
+    <td>Rs. 2500</td>
 </tr>
 <tr>
     <td width="22%">Other Options</td>
-    <td>None!</td>
+    <td>Bus, Auto, Organised trip</td>
 </tr>
 </table>
 
@@ -52,7 +58,7 @@ March beginning
 ## Itinerary
 
 <p align="center">
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1rBebfND-tfX-AcGbEQOaVvP0awsUgrSe" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1MXAd3fGsT7m6eM--66bWA4j6G3sKAG0R" width="640" height="480"></iframe>
 </p>
 
 - Xx
