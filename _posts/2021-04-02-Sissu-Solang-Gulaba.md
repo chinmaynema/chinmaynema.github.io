@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Sissu - Personal Itinerary, Things To Do, Tips
+title: Sissu, Solang, Gulaba - Itinerary, Things To Do, Tips
 heading: Sissu - Xx
-tags: [waterfall, hills, chill, hiking, trekking, solo, one day, Himachal, Himalayas]
-featured_image_thumbnail: Kutla
-featured_image: Sissu Pics/Kutla3.jpg
-ogimage: Sissu Pics/Kutla3_1.jpg
+tags: [waterfall, hills, snow, solo, one day, Himachal, Himalayas]
+featured_image_thumbnail: Sissu
+featured_image: Sissu Pics/
+ogimage: Sissu Pics/
 url: Sissu
 featured: false
 hidden: true
 ---
 
-Sissu is a tiny village about 2 hours from Tosh, accessible only on foot, with a waterfall at the midway. It's actually got only ~10 houses, all comfortably spaced out. Very few people know about it, and fewer decide to visit. I preferred Kutla to Tosh, since it does have a few Tosh-like cafes / camps, and additionally offers the peace that eludes Tosh.
+Xx
 
 
 ## Duration and Time of Visit
@@ -47,7 +47,7 @@ March beginning
 </tr>
 </table>
 
-<!--To know how to reach Manali, you can check out this post on <a href="https://onetriptoanother.com/Kasol-Chalal-Tosh">Kasol, Chalal & Tosh</a>
+<!--To know how to reach Manali, you can check out this post on <a href="https://onetriptoanother.com/Manali">Manali</a>
 
 ## Itinerary
 
