@@ -105,7 +105,6 @@ April beginning
 
 <p align="center">
 <img src="Tosh/Chalal Bridge.jpg" width="100%" alt="Chalal Bridge, Kasol">
-Bridge leading to Chalal, from Kasol
 </p>
 
 - After roaming around Chalal for a while, I headed back to Kasol, to catch the bus to **Barshaini**
