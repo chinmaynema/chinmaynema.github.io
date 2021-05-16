@@ -11,11 +11,13 @@ featured: false
 hidden: false
 ---
 
-Parvati valley the (in)famous hippie trail of India, known by various names - "Mini Israel of India", "Mini Amsterdam of India", "Hippie Land", "Smoker's Paradise".
+These villages in the Parvati Valley are a part of the (in)famous hippie trail of India, known by various names - "Mini Israel of India", "Mini Amsterdam of India", "Smoker's Paradise". They are favourite destinations for backpackers from India and beyond, because of their wonderful weather, beautiful views, serene environment, natural herbs, cafes serving global cuisines, hippie culture and crazy parties. You see fewer families / honeymooners and more youngsters. I think they are on most people's bucketlist, and rightly so!
+
+Personally, I found Kasol (and it's different from Kasauli!) to be a bit over-hyped. I know many people who agree with me. I think its because it has become too commercialised. But it's definitely worth visting, if only for its legacy! You can choose to spend more time in Chalal, Tosh or Kutla (the dark horse here, according to me).
 
 ## Duration and Time of Visit
-3 days, 2 night<br>
-March beginning
+3 days, 2 nights<br>
+April beginning
 
 ## To and From
 
@@ -100,6 +102,12 @@ March beginning
 	- Its a 40 minutes hike to Chalal, through the forest, along the river. There are several peaceful spots on the way to squat
 	- Chalal is popular for psychedelic / trance parties in the deep forests, visited by world-renowned DJs
 	- I headed straight to **Freedom Cafe**, a psychedelic themed cafe, for a scrumptious meal. There was one such party being hosted by them that night
+
+<p align="center">
+<img src="Tosh/Chalal Bridge.jpg" width="100%" alt="Chalal Bridge, Kasol">
+Bridge leading to Chalal, from Kasol
+</p>
+
 - After roaming around Chalal for a while, I headed back to Kasol, to catch the bus to **Barshaini**
 	- There are buses every hour from Kasol to Barshaini, till ~4pm
 	- Again, a picturesque route, as you head higher up the mountains, leaving the crowd and the traffic behind
@@ -152,6 +160,7 @@ March beginning
 **Things I did:**
 
 - Kasol: Parvati River
+- Kasol to Chalal trek
 - Chalal: Freedom Cafe
 - Hike to Tosh
 - Tosh: Pink Floyd Cafe
@@ -161,6 +170,8 @@ March beginning
 
 **Things I didn't do:**
 
+- Malana: it is a ~5km trek from the Jari town mystical village! Its 
+- Kheerganga trek: it is ~7kms from Tosh and it is recommended to hire a guide and stay at the peak. There is a hot water spring at the top
 - Malana: 
 - Kasol: Moonlight cafe, 
 - Chalal: psychedelic party
