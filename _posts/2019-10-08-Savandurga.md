@@ -53,7 +53,7 @@ October beginning
 
 <div id='product-component-1646144852501'></div>
 <script type="text/javascript">
-/*<![CDATA[*/
+
 (function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
@@ -180,7 +180,7 @@ October beginning
     });
   }
 })();
-/*]]>*/
+
 </script>
 
 ## Itinerary
