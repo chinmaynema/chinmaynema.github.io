@@ -13,6 +13,9 @@ hidden: false
 
 For our wing reunion from undergrad, the six of us wanted to go to a leisurely place, where we can spend more time together rather than at parties. Hence Goa was out (:P)! We also wanted a place with good connectivity so that all of us could be back to work via a morning flight. So most hill stations were out. And a place which had enough attractions for us to last 3 days. Kerala was definitely a strong contender, and we finally chose Alleppey - Varkala. And we were not disappointed!
 
+<div class='product-component-81097fa1-f7ec-4378-a345-b69ac59bc23d' style='margin: 5 auto'></div>
+<script type="text/javascript" src="https://cdn.zecko.co/test@publisher.com/product7600475111670.js"></script>
+
 ## Duration and Time of Visit
 3 days, 3 nights<br>
 January mid
