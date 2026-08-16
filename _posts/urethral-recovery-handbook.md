@@ -8,7 +8,7 @@ featured_image: Shivanasamudra Pics/DSC_0026Y_1.jpg
 ogimage: Shivanasamudra Pics/DSC_0026Y_1_1.jpg
 url: urethralinjuryrecovery
 featured: false
-hidden: false
+hidden: true
 ---
 
 # Urethral injury to recovery: every strange experience, explained
