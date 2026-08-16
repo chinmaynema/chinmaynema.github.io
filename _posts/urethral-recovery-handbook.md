@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Urethral Injury to Recovery: Every Strange Experience, Explained
-heading: Urethral Injury to Recovery: Every Strange Experience, Explained
+title: Urethral Injury to Recovery: Every Strange Experience Explained
+heading: Urethral Injury to Recovery: Every Strange Experience Explained
 tags: [waterfall, river, hills, roadtrip, one day, Bangalore]
 featured_image_thumbnail: Shivanasamudra Falls
 featured_image: Shivanasamudra Pics/DSC_0026Y_1.jpg
