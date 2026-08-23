@@ -22,3 +22,7 @@ As for an introduction about me, I am 26 years old, born in Udaipur, brought up 
 I am always up to discuss anything about travel - your or mine. Feel free to reach out and I would love to hear from you!
 
 Happy travels!
+
+----
+
+In 2026, on one of my trips, I slipped on algae and had an unfortunate Straddle injury, which ruptured my urethra. I had to get multiple surgeries over 4 months. Sharing my experience in detail as a <a href="https://onetriptoanother.com/urethral-recovery-handbook.html">Urethral Recovery Handbook</a>, for the benefit of anyone else who might be going through the same.
