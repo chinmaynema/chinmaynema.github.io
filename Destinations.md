@@ -31,3 +31,5 @@ Besides places, I have also written some posts to help you plan your travels. Sh
 
 - <a href="https://onetriptoanother.com/One-Day-Trips-From-Bangalore">One Day Trips From Bangalore</a>
 - <a href="https://onetriptoanother.com/Travel-Checklist">Travel Checklist</a>
+
+On one of my trips, I slipped on algae, which led to a Urethral rupture. I had to get multiple surgeries over 4 months. Sharing my experience in detail as a <a href="https://onetriptoanother.com/urethral-recovery-handbook.html">Urethral Recovery Handbook</a>, for the benefit of anyone else who might be going through the same.
