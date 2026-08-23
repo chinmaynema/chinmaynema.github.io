@@ -19,7 +19,8 @@ After 5 years of short and long trips, solo and in groups, I finally decided to 
 
 As for an introduction about me, I am 33 years old, born in Udaipur, brought up in Delhi. I studied in Kanpur, spent a year in Mumbai, lived in Bangalore for 8 years (with multiple long work-cations in between). Currently, I live in Goa, building a Transformation Retreat on a hill next to the sea.
 
-I am always up to discuss anything about travel - your or mine. Feel free to reach out and I would love to hear from you! You can contact me here:\n
+I am always up to discuss anything about travel - your or mine. Feel free to reach out and I would love to hear from you! You can contact me here:
+
 <a href = "mailto: chinmay.nema1993@gmail.com">E-mail</a> &nbsp;<a href = "https://www.facebook.com/chinmay.nema">Facebook</a> &nbsp;<a href = "https://www.instagram.com/onetriptoanother/">Instagram</a> &nbsp;<a href = "https://www.linkedin.com/in/chinmay-nema/">LinkedIn</a>
 
 Happy travels!
