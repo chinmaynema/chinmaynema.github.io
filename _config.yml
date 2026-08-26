@@ -8,9 +8,9 @@ author:
   image: 'authorimage.jpg'
   greetings: "One Trip To Another"
 favicon: 'assets/images/favicon.ico'
-baseurl:
+baseurl: ""
 production_url: https://onetriptoanother.com/
-#url: "https://www.onetriptoanother.com"
+url: "https://onetriptoanother.com"
 # disqus: 'justgoodthemes'
 mailchimp_url: 'https://onetriptoanother.us10.list-manage.com/subscribe/post?u=be6be26bf7dc215ff3f889c9a&amp;id=c0bad4bb03'
 # Add your GA Tracking Id
